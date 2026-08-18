@@ -83,13 +83,14 @@ $html = [regex]::Replace($html,
 $html = [regex]::Replace($html, '(<img class="lockup" id="lockupLogo" alt="United Airlines" src=")[^"]*(">)',
   ('${1}data:image/png;base64,' + $globeB64 + '${2}'))
 
-# Favicon: the white-globe-on-blue brand tile, rendered at 32px for tab bars.
-# (united.com's own favicon.ico is a darker simplified mark — not used.)
-# Outside the ART markers, so the standalone site gets it; the published
+# Favicon: favicon-source.png (bold-line white globe on blue), 32px for tab
+# bars. Outside the ART markers, so the standalone site gets it; the published
 # artifact keeps its emoji favicon.
-$globeImg = [System.Drawing.Image]::FromFile($globeSrc)
-$fav32 = Resize-ToB64 $globeImg (New-Object System.Drawing.Rectangle 0, 0, $globeImg.Width, $globeImg.Height) 32 32
-$globeImg.Dispose()
+$favSrc = Join-Path $PSScriptRoot 'favicon-source.png'
+$favImg = [System.Drawing.Image]::FromFile($favSrc)
+$side = [Math]::Min($favImg.Width, $favImg.Height)
+$fav32 = Resize-ToB64 $favImg (New-Object System.Drawing.Rectangle 0, 0, $side, $side) 32 32
+$favImg.Dispose()
 $fav = '<link rel="icon" type="image/png" sizes="32x32" href="data:image/png;base64,' + $fav32 + '">'
 if ($html -match '<link rel="icon"') {
   $html = [regex]::Replace($html, '<link rel="icon"[^>]*>', $fav.Replace('$', '$$'))
