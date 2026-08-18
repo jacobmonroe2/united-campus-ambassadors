@@ -192,7 +192,9 @@ button,input,select,textarea{font:inherit;color:inherit}
   transition:box-shadow .18s ease,border-color .18s ease;
 }
 .amb:hover{box-shadow:var(--shadow);border-color:var(--line-strong)}
-.amb-top{display:flex;gap:14px;align-items:flex-start;padding-right:44px}
+.amb-top{display:flex;gap:14px;align-items:flex-start}
+.amb-meta{flex:1;min-width:0}
+.amb-meta h3{padding-right:44px}
 .avatar{
   width:56px;height:56px;flex:none;border-radius:50%;
   display:grid;place-items:center;font-weight:700;font-size:1.0625rem;color:#fff;
@@ -400,7 +402,7 @@ details p{margin-top:10px;font-size:.875rem;color:var(--ink-soft);max-width:70ch
       </div>
       <div class="hero-copy">
         <p class="eyebrow">Howard &middot; Michigan &middot; Illinois &middot; Purdue</p>
-        <h1>Talk to someone who&rsquo;s already there.</h1>
+        <h1>Your path to United starts on campus.</h1>
         <p class="lede">
           Campus ambassadors are students who work with United on internships, recruiting
           and events at their own school. Find yours, book some time, and see
@@ -688,45 +690,45 @@ const AMBASSADORS = [
   { name:'Jacob Monroe', school:'howard', year:'Class of 2027', major:'Computer Science',
     email:'jacob-add-email@bison.howard.edu', booking:'', photo:'jacob',
     focus:['Network Planning','Campus events'],
-    bio:'Computer science major in the College of Engineering and Architecture. Spent the summer as a Network Planning intern at United in Chicago.',
+    bio:'Computer science student in the College of Engineering and Architecture. Spent the summer as a Network Planning intern at United in Chicago.',
     placeholder:false },
   { name:'Brianna Stewart', school:'howard', year:'Class of 2028', major:'Computer Science',
     email:'brianna-add-email@bison.howard.edu', booking:'', photo:'brianna',
     focus:['Digital Technology','NSBE','SWE'],
-    bio:'Junior computer science major from Charlotte, NC. Interned on United’s Biometric Kiosk team in Digital Technology this summer, and is active in NSBE and the Society of Women Engineers.',
+    bio:'Computer science student from Charlotte, NC. Spent the summer as a Digital Technology intern on United’s Biometric Kiosk team, and is active in NSBE and the Society of Women Engineers.',
     placeholder:false },
 
   { name:'Megan Gottfried', school:'michigan', year:'Class of 2027', major:'Industrial & Operations Engineering',
     email:'megan-add-email@umich.edu', booking:'', photo:'megan',
     focus:['Network Planning','Operations'],
-    bio:'Honors IOE student who spent the summer as a Network Planning intern at United, using SQL and operational data to measure how scheduling decisions affect on-time performance.',
+    bio:'Honors industrial and operations engineering student. Spent the summer as a Network Planning intern at United, using SQL and operational data to measure how scheduling decisions affect on-time performance.',
     placeholder:false },
   { name:'Lindsay Lebowitz', school:'michigan', year:'Class of 2027', major:'User Experience',
     email:'lindsay-add-email@umich.edu', booking:'', photo:'lindsay',
     focus:['UX & digital','Tech roles'],
-    bio:'User experience student who interned with United’s Digital Technology team in Chicago this summer, combining UX and travel.',
+    bio:'User experience design student. Spent the summer as a Digital Technology intern at United in Chicago, working where UX and travel meet.',
     placeholder:false },
 
   { name:'Vidhi Patel', school:'uiuc', year:'Class of 2027', major:'Aerospace Engineering',
     email:'vidhi-add-email@illinois.edu', booking:'', photo:'vidhi',
     focus:['Network Planning','Aviation careers'],
-    bio:'Aerospace engineering student in the Hoeft Technology & Management program. Spent the summer as a Global Network Planning intern, benchmarking widebody scheduling across United, Delta and American.',
+    bio:'Aerospace engineering student in the Hoeft Technology & Management program. Spent the summer as a Global Network Planning intern at United, benchmarking widebody scheduling against Delta and American.',
     placeholder:false },
   { name:'Annalise Goodman', school:'uiuc', year:'Class of 2027', major:'Aerospace Engineering',
     email:'annalise-add-email@illinois.edu', booking:'', photo:'annalise',
     focus:['Engineering','Women in Aerospace'],
-    bio:'Aerospace engineering student who has interned at United for the past year — structures engineering during the school year, maintenance programs engineering this summer. Internal VP of Women in Aerospace at Illinois.',
+    bio:'Aerospace engineering student. Has interned at United for the past year, in structures engineering during the school year and maintenance programs engineering over the summer, and serves as internal VP of Women in Aerospace at Illinois.',
     placeholder:false },
 
   { name:'Nina Dimitrijevic', school:'purdue', year:'Class of 2027', major:'Industrial Engineering',
     email:'nina-add-email@purdue.edu', booking:'', photo:'nina',
     focus:['Digital Technology','Co-ops & internships'],
-    bio:'Two-time United intern — a six-month co-op and a summer on the Transformation & Process Optimization team in Digital Technology. Minors in management and psychology; IISE leadership and Tau Beta Pi.',
+    bio:'Industrial engineering student with minors in management and psychology. Has interned at United twice, on a six-month co-op and a summer with the Transformation & Process Optimization team in Digital Technology, and holds leadership roles in IISE and Tau Beta Pi.',
     placeholder:false },
   { name:'Jada Perrilliat', school:'purdue', year:'Class of 2027', major:'Aeronautical Engineering',
     email:'jada-add-email@purdue.edu', booking:'', photo:'jada',
     focus:['Tech Ops','Aviation careers'],
-    bio:'Senior studying aeronautical engineering. Spent the summer as a Technical Operations intern in Chicago, working on inventory forecasting with SQL and Palantir Foundry.',
+    bio:'Aeronautical engineering student. Spent the summer as a Technical Operations intern at United in Chicago, working on inventory forecasting with SQL and Palantir Foundry.',
     placeholder:false }
 ];
 
@@ -810,7 +812,7 @@ function renderAmbassadors(){
     const face = photo
       ? `<img class="avatar-img" src="${photo}" alt="Photo of ${esc(a.name)}">`
       : `<span class="avatar" aria-hidden="true">${esc(initials)}</span>`;
-    const roleTop = [a.year, a.major].filter(Boolean).map(esc).join(' &middot; ');
+    const roleTop = [a.year, s.short].filter(Boolean).map(esc).join(' &middot; ');
     const book = a.booking
       ? `<a class="btn btn-primary btn-sm" href="${esc(a.booking)}" target="_blank" rel="noopener">Book time</a>`
       : `<button class="btn btn-primary btn-sm" type="button" data-book="${esc(a.name)}">Book time</button>`;
@@ -819,10 +821,10 @@ function renderAmbassadors(){
         <span class="pill-code">${s.code}</span>
         <div class="amb-top">
           ${face}
-          <div>
+          <div class="amb-meta">
             <h3>${esc(a.name)}</h3>
             ${roleTop ? `<p class="role">${roleTop}</p>` : ''}
-            <p class="role">${esc(s.short)}</p>
+            ${a.major ? `<p class="role">${esc(a.major)}</p>` : ''}
           </div>
         </div>
         <p class="bio">${esc(a.bio)}</p>

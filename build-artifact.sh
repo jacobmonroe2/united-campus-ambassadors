@@ -4,7 +4,7 @@
 set -euo pipefail
 cd "$(dirname "$0")"
 {
-  sed -n "/ART-A-START/,/ART-A-END/{//!p}" index.html
-  sed -n "/ART-B-START/,/ART-B-END/{//!p}" index.html
+  sed -n "/ART-A-START/,/ART-A-END/{//!p;}" index.html
+  sed -n "/ART-B-START/,/ART-B-END/{//!p;}" index.html
 } > artifact.html
 echo "artifact.html rebuilt ($(wc -l < artifact.html) lines)"
