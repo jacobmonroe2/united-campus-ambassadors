@@ -83,17 +83,51 @@ $html = [regex]::Replace($html,
 $html = [regex]::Replace($html, '(<img class="lockup" id="lockupLogo" alt="United Airlines" src=")[^"]*(">)',
   ('${1}data:image/png;base64,' + $globeB64 + '${2}'))
 
-# Favicon: favicon-source.png (bold-line white globe on blue), 32px for tab
-# bars. Outside the ART markers, so the standalone site gets it; the published
-# artifact keeps its emoji favicon.
+# Favicon: favicon-source.png (bold-line white globe on blue). Stepwise
+# downscale + contrast lift keeps the white lattice legible at tab size; 16px
+# and 32px renditions so browsers never re-shrink it themselves. Outside the
+# ART markers; the published artifact keeps its emoji favicon.
+function Shrink-Crisp([string]$src, [int]$to) {
+  $img = [System.Drawing.Image]::FromFile($src)
+  $side = [Math]::Min($img.Width, $img.Height)
+  $cur = New-Object System.Drawing.Bitmap $side, $side
+  $g = [System.Drawing.Graphics]::FromImage($cur)
+  $g.DrawImage($img, (New-Object System.Drawing.Rectangle 0, 0, $side, $side),
+    (New-Object System.Drawing.Rectangle 0, 0, $side, $side), [System.Drawing.GraphicsUnit]::Pixel)
+  $g.Dispose(); $img.Dispose()
+  while ($cur.Width / 2 -gt $to) {
+    $half = [int]($cur.Width / 2)
+    $next = New-Object System.Drawing.Bitmap $half, $half
+    $g = [System.Drawing.Graphics]::FromImage($next)
+    $g.InterpolationMode = [System.Drawing.Drawing2D.InterpolationMode]::HighQualityBicubic
+    $g.DrawImage($cur, 0, 0, $half, $half)
+    $g.Dispose(); $cur.Dispose(); $cur = $next
+  }
+  $final = New-Object System.Drawing.Bitmap $to, $to
+  $g = [System.Drawing.Graphics]::FromImage($final)
+  $g.InterpolationMode = [System.Drawing.Drawing2D.InterpolationMode]::HighQualityBicubic
+  # contrast lift so the white lattice stays white after averaging
+  $cm = New-Object System.Drawing.Imaging.ColorMatrix
+  $cm.Matrix00 = 1.35; $cm.Matrix11 = 1.35; $cm.Matrix22 = 1.35; $cm.Matrix33 = 1.0
+  $cm.Matrix40 = -0.12; $cm.Matrix41 = -0.12; $cm.Matrix42 = -0.12; $cm.Matrix44 = 1.0
+  $ia = New-Object System.Drawing.Imaging.ImageAttributes
+  $ia.SetColorMatrix($cm)
+  $g.DrawImage($cur, (New-Object System.Drawing.Rectangle 0, 0, $to, $to),
+    0, 0, $cur.Width, $cur.Height, [System.Drawing.GraphicsUnit]::Pixel, $ia)
+  $g.Dispose(); $cur.Dispose()
+  $ms = New-Object System.IO.MemoryStream
+  $final.Save($ms, [System.Drawing.Imaging.ImageFormat]::Png)
+  $final.Dispose()
+  $b64 = [Convert]::ToBase64String($ms.ToArray())
+  $ms.Dispose()
+  return $b64
+}
 $favSrc = Join-Path $PSScriptRoot 'favicon-source.png'
-$favImg = [System.Drawing.Image]::FromFile($favSrc)
-$side = [Math]::Min($favImg.Width, $favImg.Height)
-$fav32 = Resize-ToB64 $favImg (New-Object System.Drawing.Rectangle 0, 0, $side, $side) 32 32
-$favImg.Dispose()
-$fav = '<link rel="icon" type="image/png" sizes="32x32" href="data:image/png;base64,' + $fav32 + '">'
+$fav = '<link rel="icon" type="image/png" sizes="32x32" href="data:image/png;base64,' + (Shrink-Crisp $favSrc 32) + '">' + "`n" +
+       '<link rel="icon" type="image/png" sizes="16x16" href="data:image/png;base64,' + (Shrink-Crisp $favSrc 16) + '">'
 if ($html -match '<link rel="icon"') {
-  $html = [regex]::Replace($html, '<link rel="icon"[^>]*>', $fav.Replace('$', '$$'))
+  # consecutive icon links collapse into one match, so re-runs stay idempotent
+  $html = [regex]::Replace($html, '(?:<link rel="icon"[^>]*>\s*)+', ($fav.Replace('$', '$$') + "`n"))
 } else {
   $html = $html.Replace('<meta name="viewport" content="width=device-width, initial-scale=1">',
     "<meta name=""viewport"" content=""width=device-width, initial-scale=1"">`n" + $fav)
