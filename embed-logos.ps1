@@ -83,9 +83,16 @@ $html = [regex]::Replace($html,
 $html = [regex]::Replace($html, '(<img class="lockup" id="lockupLogo" alt="United Airlines" src=")[^"]*(">)',
   ('${1}data:image/png;base64,' + $globeB64 + '${2}'))
 
-# Favicon (outside the ART markers, so the standalone site gets it; the
-# published artifact keeps its own emoji favicon)
-$fav = '<link rel="icon" type="image/png" href="data:image/png;base64,' + $globeB64 + '">'
+# Favicon: united.com's real favicon.ico (united-favicon.ico in this folder),
+# falling back to the globe PNG if the ico is missing. Outside the ART markers,
+# so the standalone site gets it; the published artifact keeps its emoji favicon.
+$icoPath = Join-Path $PSScriptRoot 'united-favicon.ico'
+if (Test-Path $icoPath) {
+  $icoB64 = [Convert]::ToBase64String([System.IO.File]::ReadAllBytes($icoPath))
+  $fav = '<link rel="icon" type="image/x-icon" href="data:image/x-icon;base64,' + $icoB64 + '">'
+} else {
+  $fav = '<link rel="icon" type="image/png" href="data:image/png;base64,' + $globeB64 + '">'
+}
 if ($html -match '<link rel="icon"') {
   $html = [regex]::Replace($html, '<link rel="icon"[^>]*>', $fav.Replace('$', '$$'))
 } else {
