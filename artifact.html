@@ -880,9 +880,10 @@ function renderEvents(){
 /* ---------- meeting request form ---------- */
 function renderFormSelects(){
   const sel = $('#fSchool');
-  sel.innerHTML = SCHOOLS.map(s =>
-    `<option value="${s.id}">${esc(s.name)} (${s.code})</option>`).join('');
-  sel.value = campus === 'all' ? SCHOOLS[0].id : campus;
+  sel.innerHTML =
+    '<option value="">Select your campus</option>' +
+    SCHOOLS.map(s => `<option value="${s.id}">${esc(s.name)} (${s.code})</option>`).join('');
+  sel.value = campus === 'all' ? '' : campus;
   renderAmbassadorOptions();
 }
 
@@ -897,8 +898,8 @@ function draft(){
   const school = schoolById($('#fSchool').value);
   const amb = AMBASSADORS.find(a => a.name === $('#fAmb').value);
   const ambEmail = amb && hasEmail(amb) ? amb.email : '';
-  const ambName = amb ? amb.name : 'the ' + school.short + ' ambassadors';
-  const to = amb ? ambEmail : emailsFor(school.id);
+  const ambName = amb ? amb.name : 'the ' + (school ? school.short : 'campus') + ' ambassadors';
+  const to = amb ? ambEmail : (school ? emailsFor(school.id) : '');
   const name = $('#fName').value.trim() || '[your name]';
   const email = $('#fEmail').value.trim() || '[your school email]';
   const topicOpt = $('#fTopic').selectedOptions[0];
@@ -914,7 +915,7 @@ function draft(){
   const subject = `Meeting request — ${topic}`;
   const body =
     `Hi ${amb ? ambName.split(' ')[0] : 'there'},\n\n` +
-    `I'm ${name}, a student at ${school.name}. I'd like to talk about ${phrase}.\n\n` +
+    `I'm ${name}, a student at ${school ? school.name : '[pick your campus]'}. I'd like to talk about ${phrase}.\n\n` +
     `Could we meet on ${when}, ${win.toLowerCase()}?\n` +
     (note ? `\n${note}\n` : '') +
     `\nYou can reach me at ${email}.\n\nThanks,\n${name}`;
@@ -924,17 +925,26 @@ function draft(){
 
 function renderPreview(){
   const d = draft();
+  const toFallback = $('#fSchool').value
+    ? '[add ambassador emails in index.html]'
+    : '[pick your campus]';
   $('#preview').textContent =
-    `To:      ${d.to || '[add ambassador emails in index.html]'}\nSubject: ${d.subject}\n\n${d.body}`;
+    `To:      ${d.to || toFallback}\nSubject: ${d.subject}\n\n${d.body}`;
 }
 
 /* ---------- hero widget ---------- */
 function renderWidget(){
-  $('#wCampus').innerHTML = SCHOOLS.map(s =>
-    `<option value="${s.id}">${esc(s.name)} (${s.code})</option>`).join('');
+  $('#wCampus').innerHTML =
+    '<option value="" selected>Select your campus</option>' +
+    SCHOOLS.map(s => `<option value="${s.id}">${esc(s.name)} (${s.code})</option>`).join('');
 }
 
 $('#wGo').addEventListener('click', () => {
+  if (!$('#wCampus').value){
+    toast('Pick your campus first.');
+    $('#wCampus').focus();
+    return;
+  }
   setCampus($('#wCampus').value);
   const i = $('#wTopic').selectedIndex;
   $('#fTopic').selectedIndex = i;
@@ -1009,6 +1019,11 @@ $('#meetForm').addEventListener('change', renderPreview);
 
 $('#meetForm').addEventListener('submit', e => {
   e.preventDefault();
+  if (!$('#fSchool').value){
+    toast('Pick your campus first.');
+    $('#fSchool').focus();
+    return;
+  }
   if (!$('#fName').value.trim() || !$('#fEmail').value.trim()){
     toast('Add your name and school email first.');
     ($('#fName').value.trim() ? $('#fEmail') : $('#fName')).focus();
