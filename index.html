@@ -104,14 +104,18 @@ button,input,select,textarea{font:inherit;color:inherit}
   overflow:hidden;
 }
 .hero::before{
-  /* transparent-PNG 787 cutout, sitting in the upper right over the ombre */
+  /* transparent-PNG 787 cutout in the upper right. Only shown on wide
+     viewports, where the copy column leaves real sky to the right of the
+     headline; below that it disappears rather than overlap the text. */
   content:"";position:absolute;inset:0;pointer-events:none;
-  background:var(--hero-photo) right 3% top 28% / 23% auto no-repeat;
+  display:none;
+  background:var(--hero-photo) right 3% top 30% / 22% auto no-repeat;
 }
 .hero .wrap{position:relative;z-index:1}
-@media(max-width:900px){
-  /* stacked layout: no room for the aircraft, keep just the ombre */
-  .hero::before{display:none}
+@media(min-width:1280px){
+  .hero::before{display:block}
+  /* reserve the aircraft's lane so the headline can never run into it */
+  .hero-copy{padding-right:26%}
 }
 .hero .wrap{
   display:grid;grid-template-columns:minmax(320px,460px) minmax(0,1fr);
