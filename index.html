@@ -263,12 +263,12 @@ button,input,select,textarea{font:inherit;color:inherit}
 /* ---------- events board ---------- */
 .board{border:1px solid var(--line);border-radius:var(--r);overflow:hidden;background:var(--surface)}
 .board-head{
-  display:grid;grid-template-columns:84px 66px minmax(0,1fr) 190px 122px;
+  display:grid;grid-template-columns:84px 66px minmax(0,1fr) 190px;
   gap:16px;padding:13px 22px;background:var(--navy);color:#fff;
   font-size:.6875rem;font-weight:700;letter-spacing:.1em;text-transform:uppercase;
 }
 .ev{
-  display:grid;grid-template-columns:84px 66px minmax(0,1fr) 190px 122px;
+  display:grid;grid-template-columns:84px 66px minmax(0,1fr) 190px;
   gap:16px;padding:20px 22px;border-top:1px solid var(--line);align-items:center;
   transition:background .15s ease;
 }
@@ -281,7 +281,6 @@ button,input,select,textarea{font:inherit;color:inherit}
 .ev .title{font-weight:700;font-size:.9375rem;color:var(--ink)}
 .ev .sub{font-size:.8125rem;color:var(--ink-soft);margin-top:2px}
 .ev .when{font-size:.8125rem;color:var(--ink-soft);font-variant-numeric:tabular-nums}
-.ev .go{justify-self:end}
 .kind{
   display:inline-block;font-size:.625rem;font-weight:700;letter-spacing:.09em;text-transform:uppercase;
   padding:3px 9px;border-radius:3px;margin-bottom:6px;
@@ -293,7 +292,6 @@ button,input,select,textarea{font:inherit;color:inherit}
   .board-head{display:none}
   .ev{grid-template-columns:60px minmax(0,1fr);gap:14px;row-gap:8px;align-items:start}
   .ev .when{grid-column:2}
-  .ev .go{grid-column:2;justify-self:start}
   .ev .code{grid-column:1;font-size:.8125rem}
 }
 
@@ -479,6 +477,8 @@ details p{margin-top:10px;font-size:.875rem;color:var(--ink-soft);max-width:70ch
         <h2>Pick your campus</h2>
         <p>Your choice filters the ambassador directory, the events board and the meeting
            request form below. Every campus has two ambassadors.</p>
+        <p><b>Not at one of these four?</b> We&rsquo;re still here for you &mdash; pick the
+           campus closest to you and book time. Every ambassador is happy to meet virtually.</p>
       </div>
       <div class="campus-grid" id="campusGrid"></div>
     </div>
@@ -591,16 +591,17 @@ details p{margin-top:10px;font-size:.875rem;color:var(--ink-soft);max-width:70ch
   <section class="section" id="events">
     <div class="wrap">
       <div class="section-head">
-        <p class="eyebrow">This semester</p>
-        <h2>Upcoming events</h2>
-        <p>Info sessions, career prep and campus meetups. Open to all students unless noted.</p>
+        <p class="eyebrow">Fall campus recruiting</p>
+        <h2>Where United will be this fall</h2>
+        <p>Career fairs and campus visits from the United recruiting team. Ambassadors will be
+           at their home-campus stops &mdash; come say hi. Dates are subject to change.</p>
       </div>
       <div class="filters">
         <div class="chips" id="evChips" role="group" aria-label="Filter events by campus"></div>
       </div>
       <div class="board">
         <div class="board-head" aria-hidden="true">
-          <span>Date</span><span>Campus</span><span>Event</span><span>Time &amp; place</span><span></span>
+          <span>Date</span><span>Campus</span><span>Event</span><span>Time &amp; place</span>
         </div>
         <div id="evList"></div>
       </div>
@@ -683,8 +684,9 @@ details p{margin-top:10px;font-size:.875rem;color:var(--ink-soft);max-width:70ch
       </details>
       <details>
         <summary>What if my school isn&rsquo;t one of the four?</summary>
-        <p>Reach out to the nearest campus anyway. Ambassadors can point you to the general
-           careers site and to virtual events that are open to any student.</p>
+        <p>You&rsquo;re still welcome. Pick the nearest campus and book time &mdash; every
+           ambassador meets virtually, and can point you to the general careers site and to
+           events that are open to any student.</p>
       </details>
     </div>
   </section>
@@ -815,25 +817,39 @@ const AMBASSADORS = [
     placeholder:false }
 ];
 
+// Events board. school: one of the four campus ids, 'all', or 'other'
+// (then set campus + code for the label). time/place can be 'TBA'.
 const EVENTS = [
-  { date:'2026-09-10', time:'6:00 PM', school:'howard',   kind:'info',
-    title:'Careers at United: fall info session',
-    place:'Blackburn Center, Room 148', note:'Recruiters on site. RSVP requested.', placeholder:true },
-  { date:'2026-09-17', time:'5:30 PM', school:'purdue',   kind:'career',
-    title:'Flight ops 101 with a United pilot',
-    place:'Niswonger Aviation Hall', note:'Open to all majors.', placeholder:true },
-  { date:'2026-09-24', time:'7:00 PM', school:'uiuc',     kind:'social',
-    title:'Student travel and MileagePlus night',
-    place:'Illini Union, Room 314', note:'How to actually fly cheap as a student.', placeholder:true },
-  { date:'2026-10-01', time:'4:00 PM', school:'michigan', kind:'career',
-    title:'Resume review before the career fair',
-    place:'Ross School, Winter Garden', note:'Bring a printed copy.', placeholder:true },
-  { date:'2026-10-08', time:'6:30 PM', school:'all',      kind:'info',
-    title:'Aviate pathway Q&A (virtual)',
-    place:'Online — link sent after RSVP', note:'All four campuses.', placeholder:true },
-  { date:'2026-10-22', time:'12:00 PM', school:'howard',  kind:'social',
-    title:'Coffee with the ambassadors',
-    place:'The Yard (weather permitting)', note:'Drop in, no RSVP.', placeholder:true }
+  { date:'2026-09-10', time:'Time TBA', school:'uiuc', kind:'career',
+    title:'UIUC Engineering Career Fair',
+    place:'Champaign, IL', note:'United recruiting team on site. Stop by the booth.' },
+  { date:'2026-09-10', time:'Time TBA', school:'other', campus:'Indiana', code:'IND', kind:'career',
+    title:'Indiana Business Career Fair',
+    place:'Bloomington, IN', note:'United recruiting team on site.' },
+  { date:'2026-09-15', time:'Time TBA', school:'michigan', kind:'career',
+    title:'Michigan Engineering Career Fair',
+    place:'Ann Arbor, MI', note:'United recruiting team on site. Stop by the booth.' },
+  { date:'2026-09-16', time:'Time TBA', school:'purdue', kind:'career',
+    title:'Purdue Industrial Roundtable',
+    place:'West Lafayette, IN', note:'United recruiting team on site. Stop by the booth.' },
+  { date:'2026-09-16', time:'Time TBA', school:'other', campus:'NC A&T', code:'NCA', kind:'career',
+    title:'NC A&T All Majors Career Fair',
+    place:'Greensboro, NC', note:'United recruiting team on site.' },
+  { date:'2026-09-17', time:'Time TBA', school:'other', campus:'Hampton', code:'HAM', kind:'career',
+    title:'Hampton All Majors Career Fair',
+    place:'Hampton, VA', note:'United recruiting team on site.' },
+  { date:'2026-09-21', time:'Sep 21–23', school:'howard', kind:'info',
+    title:'Howard Week with United',
+    place:'Washington, D.C.', note:'Three days of United on campus, with the career fair on Sep 22.' },
+  { date:'2026-09-21', time:'Time TBA', school:'other', campus:'NC A&T', code:'NCA', kind:'info',
+    title:'NC A&T campus engagements',
+    place:'Greensboro, NC', note:'Week of Sep 21. Details to come.' },
+  { date:'2026-09-28', time:'Time TBA', school:'other', campus:'Northwestern', code:'NWU', kind:'info',
+    title:'Northwestern campus engagements',
+    place:'Evanston, IL', note:'Week of Sep 28. Details to come.' },
+  { date:'2026-10-20', time:'Time TBA', school:'michigan', kind:'social',
+    title:'Michigan visit to United headquarters',
+    place:'Willis Tower (WHQ), Chicago', note:'Campus trip to United HQ.' }
 ];
 
 /* ==========================================================================
@@ -983,7 +999,7 @@ function closeProfile(){
 
 /* ---------- events board ---------- */
 const MONTHS = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
-const KIND_LABEL = { info:'Info session', career:'Career prep', social:'Meetup' };
+const KIND_LABEL = { career:'Career fair', info:'Campus visit', social:'HQ visit' };
 
 function renderEvents(){
   const list = EVENTS
@@ -993,17 +1009,15 @@ function renderEvents(){
 
   if (!list.length){
     $('#evList').innerHTML =
-      '<p class="empty" style="margin:20px">Nothing scheduled at this campus yet. Check the all-campus events.</p>';
+      '<p class="empty" style="margin:20px">Nothing scheduled at this campus yet. Switch to All campuses to see every stop.</p>';
     return;
   }
 
   $('#evList').innerHTML = list.map(e => {
     const [y, m, d] = e.date.split('-').map(Number);
-    const s = e.school === 'all' ? { code:'ALL', short:'All campuses' } : schoolById(e.school);
-    const to = emailsFor(e.school === 'all' ? 'all' : e.school);
-    const subject = encodeURIComponent(`RSVP: ${e.title}`);
-    const body = encodeURIComponent(
-      `Hi,\n\nI'd like to RSVP for "${e.title}" on ${MONTHS[m-1]} ${d}, ${y} at ${e.time}.\n\nThanks,\n`);
+    const s = e.school === 'all'   ? { code:'ALL', short:'All campuses' }
+            : e.school === 'other' ? { code:e.code || 'OTH', short:e.campus || 'Other campus' }
+            : schoolById(e.school);
     return `
       <div class="ev">
         <span class="date"><span class="d">${String(d).padStart(2,'0')}</span><span class="m">${MONTHS[m-1]}</span></span>
@@ -1015,7 +1029,6 @@ function renderEvents(){
           <span class="sub">${esc(e.note)}</span>
         </span>
         <span class="when">${esc(e.time)}<br>${esc(e.place)}</span>
-        <span class="go"><a class="btn btn-outline btn-sm" href="mailto:${to}?subject=${subject}&body=${body}">RSVP</a></span>
       </div>`;
   }).join('');
 }
