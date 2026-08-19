@@ -1,7 +1,106 @@
 {
-  "updated": "2026-08-18",
+  "updated": "2026-08-19",
   "student": [],
   "recent": [
+    {
+      "id": "WHQ00026678",
+      "title": "Developer- Ops Automation",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Digital Technology",
+      "level": "5",
+      "posted": "2026-08-18",
+      "url": "https://careers.united.com/us/en/job/WHQ00026678"
+    },
+    {
+      "id": "WHQ00026722",
+      "title": "Senior Analyst - Information Technology",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Digital Technology",
+      "level": "4",
+      "posted": "2026-08-18",
+      "url": "https://careers.united.com/us/en/job/WHQ00026722"
+    },
+    {
+      "id": "WHQ00026746",
+      "title": "Associate Analyst - Ancillary Products",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "7",
+      "posted": "2026-08-18",
+      "url": "https://careers.united.com/us/en/job/WHQ00026746"
+    },
+    {
+      "id": "IAD00002030",
+      "title": "Supervisor - Aircraft Maintenance",
+      "city": "Dulles",
+      "state": "Virginia",
+      "country": "United States",
+      "category": "Aircraft Maintenance and Support",
+      "level": "6",
+      "posted": "2026-08-18",
+      "url": "https://careers.united.com/us/en/job/IAD00002030"
+    },
+    {
+      "id": "ORD00003628",
+      "title": "Ramp Service Employee - Full-Time",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "At the Airport",
+      "level": "Line/Hourly",
+      "posted": "2026-08-18",
+      "url": "https://careers.united.com/us/en/job/ORD00003628"
+    },
+    {
+      "id": "WHQ00026600",
+      "title": "Senior Engineer- New Aircraft Quality",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Aircraft Maintenance and Support",
+      "level": "5",
+      "posted": "2026-08-18",
+      "url": "https://careers.united.com/us/en/job/WHQ00026600"
+    },
+    {
+      "id": "WHQ00026633",
+      "title": "Project Manager - MRO System Transformation – TOMC",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Aircraft Maintenance and Support",
+      "level": "4",
+      "posted": "2026-08-18",
+      "url": "https://careers.united.com/us/en/job/WHQ00026633"
+    },
+    {
+      "id": "HSC00001091",
+      "title": "International Recruiting Representative (Hybrid)",
+      "city": "Houston",
+      "state": "Texas",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "7",
+      "posted": "2026-08-18",
+      "url": "https://careers.united.com/us/en/job/HSC00001091"
+    },
+    {
+      "id": "IAD00001986",
+      "title": "Line Technician (Experienced)",
+      "city": "Dulles",
+      "state": "Virginia",
+      "country": "United States",
+      "category": "At the Airport",
+      "level": "Line/Hourly",
+      "posted": "2026-08-18",
+      "url": "https://careers.united.com/us/en/job/IAD00001986"
+    },
     {
       "id": "WHQ00026710",
       "title": "Manager - IT Applications Development",
@@ -34,39 +133,6 @@
       "level": "Line/Hourly",
       "posted": "2026-08-18",
       "url": "https://careers.united.com/us/en/job/HNL00001282-1"
-    },
-    {
-      "id": "LAX00001724",
-      "title": "Ground Service Equipment Technician (Automotive and Diesel) - $10,000 Sign on Bonus",
-      "city": "Los Angeles",
-      "state": "California",
-      "country": "United States",
-      "category": "At the Airport",
-      "level": "Line/Hourly",
-      "posted": "2026-08-18",
-      "url": "https://careers.united.com/us/en/job/LAX00001724"
-    },
-    {
-      "id": "WHQ00026708",
-      "title": "Analyst - Future Network & Station Operations",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "6",
-      "posted": "2026-08-18",
-      "url": "https://careers.united.com/us/en/job/WHQ00026708"
-    },
-    {
-      "id": "EWR00004703",
-      "title": "Ground Service Equipment Utility Specialist",
-      "city": "Newark",
-      "state": "New Jersey",
-      "country": "United States",
-      "category": "At the Airport",
-      "level": "Line/Hourly",
-      "posted": "2026-08-18",
-      "url": "https://careers.united.com/us/en/job/EWR00004703"
     }
   ]
 }
