@@ -1,4 +1,5 @@
-# Crops each headshot to a square (top-anchored), resizes to 320px, and embeds
+# Crops each headshot to a square (top-anchored), resizes to 640px, and embeds
+# (plus optional 480x600 profile photos, see $photosLarge below)
 # them as base64 data URIs into index.html between the PHOTOS-START/END markers.
 # Re-run any time you change a photo. Map of roster key -> source file:
 $photos = [ordered]@{
@@ -11,28 +12,41 @@ $photos = [ordered]@{
   jada     = 'C:\Users\jacob\Downloads\_T3A7337.jpg'
   brianna  = 'C:\Users\jacob\Downloads\IMG_1372.jpeg'
 }
+# Larger, different photos for the profile dialog (4:5 portrait, 480x600).
+# Key must match the roster's `photoLarge` field, e.g. photoLarge:'jacob_large'.
+# Leave an entry out and the dialog falls back to the square headshot.
+$photosLarge = [ordered]@{
+  # jacob_large = 'C:\Users\jacob\Downloads\jacob-project.jpg'
+}
 
 Add-Type -AssemblyName System.Drawing
-$size = 320
+$size = 640   # 2x the ~300px the profile dialog shows, so headshots stay sharp on retina
 $entries = @()
 
-foreach ($key in $photos.Keys) {
-  $src = $photos[$key]
+# ($key, $src, $outW, $outH) for every photo: squares first, then large portraits
+$jobs = @()
+foreach ($key in $photos.Keys)      { $jobs += ,@($key, $photos[$key], $size, $size) }
+foreach ($key in $photosLarge.Keys) { $jobs += ,@($key, $photosLarge[$key], 480, 600) }
+
+foreach ($job in $jobs) {
+  $key = $job[0]; $src = $job[1]; $outW = $job[2]; $outH = $job[3]
   if (-not (Test-Path $src)) { Write-Warning "missing: $src"; continue }
   $img = [System.Drawing.Image]::FromFile($src)
   try {
-    $side = [Math]::Min($img.Width, $img.Height)
-    # top-anchored square crop: faces sit in the upper part of these portraits
+    # top-anchored crop to the output aspect ratio: faces sit in the upper part
+    $ratio = $outW / $outH
+    if ($img.Width / $img.Height -gt $ratio) { $ch = $img.Height; $cw = [int]($ch * $ratio) }
+    else                                     { $cw = $img.Width;  $ch = [int]($cw / $ratio) }
     $y = [int]($img.Height * 0.02)
-    if ($y + $side -gt $img.Height) { $y = $img.Height - $side }
-    $x = [int](($img.Width - $side) / 2)
+    if ($y + $ch -gt $img.Height) { $y = $img.Height - $ch }
+    $x = [int](($img.Width - $cw) / 2)
 
-    $bmp = New-Object System.Drawing.Bitmap $size, $size
+    $bmp = New-Object System.Drawing.Bitmap $outW, $outH
     $g = [System.Drawing.Graphics]::FromImage($bmp)
     $g.InterpolationMode = [System.Drawing.Drawing2D.InterpolationMode]::HighQualityBicubic
     $g.SmoothingMode = [System.Drawing.Drawing2D.SmoothingMode]::HighQuality
-    $srcRect = New-Object System.Drawing.Rectangle $x, $y, $side, $side
-    $dstRect = New-Object System.Drawing.Rectangle 0, 0, $size, $size
+    $srcRect = New-Object System.Drawing.Rectangle $x, $y, $cw, $ch
+    $dstRect = New-Object System.Drawing.Rectangle 0, 0, $outW, $outH
     $g.DrawImage($img, $dstRect, $srcRect, [System.Drawing.GraphicsUnit]::Pixel)
     $g.Dispose()
 
