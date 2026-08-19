@@ -96,24 +96,14 @@ button,input,select,textarea{font:inherit;color:inherit}
   overflow:hidden;
 }
 .hero::before{
-  /* transparent-PNG 787 cutout in the upper right. Rather than snapping in
-     at a breakpoint, it scales and fades continuously with viewport width:
-     full size and opacity on wide screens, dissolving away by ~1100px where
-     the headline would otherwise reach it. */
+  /* transparent-PNG 787 cutout, sitting in the upper right over the ombre */
   content:"";position:absolute;inset:0;pointer-events:none;
-  /* width: 0 at 1100px -> ~300px at 1700px, capped */
-  --plane-w: clamp(0px, calc((100vw - 1100px) * 0.5), 320px);
-  /* opacity: 0 at 1150px -> 1 at 1400px */
-  opacity: clamp(0, calc((100vw - 1150px) / 250), 1);
-  background:var(--hero-photo) right 3% top 30% / var(--plane-w) auto no-repeat;
+  background:var(--hero-photo) right 3% top 28% / 23% auto no-repeat;
 }
 .hero .wrap{position:relative;z-index:1}
-/* the copy column gives up room to the aircraft gradually, same curve as
-   the plane's width, so the headline re-wraps smoothly instead of jumping */
-.hero-copy{padding-right:clamp(0px, calc((100vw - 1100px) * 0.5), 320px)}
 @media(max-width:900px){
+  /* stacked layout: no room for the aircraft, keep just the ombre */
   .hero::before{display:none}
-  .hero-copy{padding-right:0}
 }
 .hero .wrap{
   display:grid;grid-template-columns:minmax(320px,460px) minmax(0,1fr);
