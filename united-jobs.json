@@ -1,7 +1,106 @@
 {
-  "updated": "2026-08-21",
+  "updated": "2026-08-22",
   "student": [],
   "recent": [
+    {
+      "id": "WHQ00026724",
+      "title": "Scrum Master",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Digital Technology",
+      "level": "4",
+      "posted": "2026-08-22",
+      "url": "https://careers.united.com/us/en/job/WHQ00026724"
+    },
+    {
+      "id": "ORD00003313",
+      "title": "Line Technician",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "At the Airport",
+      "level": "Line/Hourly",
+      "posted": "2026-08-22",
+      "url": "https://careers.united.com/us/en/job/ORD00003313"
+    },
+    {
+      "id": "WHQ00026706",
+      "title": "Manager - Airframe Vendor Management",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Aircraft Maintenance and Support",
+      "level": "4",
+      "posted": "2026-08-21",
+      "url": "https://careers.united.com/us/en/job/WHQ00026706"
+    },
+    {
+      "id": "WHQ00026713",
+      "title": "Director - Global Procurement Governance",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "2",
+      "posted": "2026-08-21",
+      "url": "https://careers.united.com/us/en/job/WHQ00026713"
+    },
+    {
+      "id": "KOA00000145",
+      "title": "Ramp Service Employee - Part-Time",
+      "city": "Hawaii",
+      "state": "Hawaii",
+      "country": "United States",
+      "category": "At the Airport",
+      "level": "Line/Hourly",
+      "posted": "2026-08-21",
+      "url": "https://careers.united.com/us/en/job/KOA00000145"
+    },
+    {
+      "id": "WHQ00026694",
+      "title": "Sr Analyst - Financial Planning & Analysis (Hybrid)",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "4",
+      "posted": "2026-08-21",
+      "url": "https://careers.united.com/us/en/job/WHQ00026694"
+    },
+    {
+      "id": "RNO00000177",
+      "title": "Ramp Service Employee - Part Time",
+      "city": "Reno",
+      "state": "Nevada",
+      "country": "United States",
+      "category": "At the Airport",
+      "level": "Line/Hourly",
+      "posted": "2026-08-21",
+      "url": "https://careers.united.com/us/en/job/RNO00000177"
+    },
+    {
+      "id": "DEN00006886",
+      "title": "Senior Engineer - IT Systems Field Service",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "category": "Digital Technology",
+      "level": "5",
+      "posted": "2026-08-21",
+      "url": "https://careers.united.com/us/en/job/DEN00006886"
+    },
+    {
+      "id": "WHQ00026747",
+      "title": "Specialist - Trade Compliance",
+      "city": "Arlington Heights",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Aircraft Maintenance and Support",
+      "level": "5",
+      "posted": "2026-08-21",
+      "url": "https://careers.united.com/us/en/job/WHQ00026747"
+    },
     {
       "id": "BWI00000207",
       "title": "Ramp Service Employee - Part-Time",
@@ -14,114 +113,26 @@
       "url": "https://careers.united.com/us/en/job/BWI00000207"
     },
     {
-      "id": "WHQ00026673",
-      "title": "Supervisor - Business Strategy & Execution",
-      "city": "Arlington Heights",
+      "id": "WHQ00026765",
+      "title": "Director - Clubs & Lounges",
+      "city": "Chicago",
       "state": "Illinois",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "2",
+      "posted": "2026-08-21",
+      "url": "https://careers.united.com/us/en/job/WHQ00026765"
+    },
+    {
+      "id": "EWR00004742",
+      "title": "Ramp Tower Controller - Air Traffic Strategy",
+      "city": "Newark",
+      "state": "New Jersey",
       "country": "United States",
       "category": "Corporate",
       "level": "6",
       "posted": "2026-08-21",
-      "url": "https://careers.united.com/us/en/job/WHQ00026673"
-    },
-    {
-      "id": "DEN00006879",
-      "title": "Manager, Inflight Training Device Maintenance",
-      "city": "Denver",
-      "state": "Colorado",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "4",
-      "posted": "2026-08-21",
-      "url": "https://careers.united.com/us/en/job/DEN00006879"
-    },
-    {
-      "id": "SFO00005372",
-      "title": "Ramp Service Employee - Full-Time",
-      "city": "San Francisco",
-      "state": "California",
-      "country": "United States",
-      "category": "At the Airport",
-      "level": "Line/Hourly",
-      "posted": "2026-08-21",
-      "url": "https://careers.united.com/us/en/job/SFO00005372"
-    },
-    {
-      "id": "WHQ00026758",
-      "title": "Staff Representative - HRIS Administration (Hybrid)",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "6",
-      "posted": "2026-08-20",
-      "url": "https://careers.united.com/us/en/job/WHQ00026758"
-    },
-    {
-      "id": "WHQ00026749",
-      "title": "Senior Analyst - Catering Data Administration",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "5",
-      "posted": "2026-08-20",
-      "url": "https://careers.united.com/us/en/job/WHQ00026749"
-    },
-    {
-      "id": "ORD00003313",
-      "title": "Line Technician",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "At the Airport",
-      "level": "Line/Hourly",
-      "posted": "2026-08-20",
-      "url": "https://careers.united.com/us/en/job/ORD00003313"
-    },
-    {
-      "id": "WHQ00026477",
-      "title": "Manager - Predictive Maintenance Engineering (Engines and APUs)",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Aircraft Maintenance and Support",
-      "level": "4",
-      "posted": "2026-08-20",
-      "url": "https://careers.united.com/us/en/job/WHQ00026477"
-    },
-    {
-      "id": "CLE00000750",
-      "title": "Senior Coordinator - Line Station",
-      "city": "Cleveland",
-      "state": "Ohio",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "8",
-      "posted": "2026-08-20",
-      "url": "https://careers.united.com/us/en/job/CLE00000750"
-    },
-    {
-      "id": "IAH00005685",
-      "title": "Supervisor - Aircraft Maintenance",
-      "city": "Houston",
-      "state": "Texas",
-      "country": "United States",
-      "category": "Aircraft Maintenance and Support",
-      "level": "6",
-      "posted": "2026-08-20",
-      "url": "https://careers.united.com/us/en/job/IAH00005685"
-    },
-    {
-      "id": "DEN00006812",
-      "title": "Avionics Technician - Line",
-      "city": "Denver",
-      "state": "Colorado",
-      "country": "United States",
-      "category": "At the Airport",
-      "level": "Line/Hourly",
-      "posted": "2026-08-19",
-      "url": "https://careers.united.com/us/en/job/DEN00006812"
+      "url": "https://careers.united.com/us/en/job/EWR00004742"
     }
   ]
 }
