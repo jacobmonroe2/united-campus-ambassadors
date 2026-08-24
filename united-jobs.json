@@ -1,7 +1,29 @@
 {
-  "updated": "2026-08-23",
+  "updated": "2026-08-24",
   "student": [],
   "recent": [
+    {
+      "id": "IAH00005693",
+      "title": "Analyst - Configuration Management",
+      "city": "Houston",
+      "state": "Texas",
+      "country": "United States",
+      "category": "Aircraft Maintenance and Support",
+      "level": "6",
+      "posted": "2026-08-24",
+      "url": "https://careers.united.com/us/en/job/IAH00005693"
+    },
+    {
+      "id": "IAH00005690",
+      "title": "Manager- Configuration Management",
+      "city": "Houston",
+      "state": "Texas",
+      "country": "United States",
+      "category": "Aircraft Maintenance and Support",
+      "level": "4",
+      "posted": "2026-08-24",
+      "url": "https://careers.united.com/us/en/job/IAH00005690"
+    },
     {
       "id": "WHQ00026773",
       "title": "Sr Analyst - Financial Planning & Analysis (Hybrid)",
@@ -111,28 +133,6 @@
       "level": "Line/Hourly",
       "posted": "2026-08-21",
       "url": "https://careers.united.com/us/en/job/BWI00000207"
-    },
-    {
-      "id": "WHQ00026765",
-      "title": "Director - Clubs & Lounges",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "2",
-      "posted": "2026-08-21",
-      "url": "https://careers.united.com/us/en/job/WHQ00026765"
-    },
-    {
-      "id": "EWR00004742",
-      "title": "Ramp Tower Controller - Air Traffic Strategy",
-      "city": "Newark",
-      "state": "New Jersey",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "6",
-      "posted": "2026-08-21",
-      "url": "https://careers.united.com/us/en/job/EWR00004742"
     }
   ]
 }
