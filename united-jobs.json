@@ -1,7 +1,117 @@
 {
-  "updated": "2026-08-24",
+  "updated": "2026-08-25",
   "student": [],
   "recent": [
+    {
+      "id": "MIA00000126",
+      "title": "Ramp Service Employee - Part-Time",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "category": "At the Airport",
+      "level": "Line/Hourly",
+      "posted": "2026-08-25",
+      "url": "https://careers.united.com/us/en/job/MIA00000126"
+    },
+    {
+      "id": "EWR00004673",
+      "title": "Facilities Maintenance Technician (Building Engineer) $10,000 Sign on Bonus",
+      "city": "Newark",
+      "state": "New Jersey",
+      "country": "United States",
+      "category": "At the Airport",
+      "level": "Line/Hourly",
+      "posted": "2026-08-25",
+      "url": "https://careers.united.com/us/en/job/EWR00004673"
+    },
+    {
+      "id": "LAX00001754",
+      "title": "Manager - AO Ramp Service",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "4",
+      "posted": "2026-08-24",
+      "url": "https://careers.united.com/us/en/job/LAX00001754"
+    },
+    {
+      "id": "HSC00001092",
+      "title": "Associate Developer - Information Technology",
+      "city": "Houston",
+      "state": "Texas",
+      "country": "United States",
+      "category": "Digital Technology",
+      "level": "6",
+      "posted": "2026-08-24",
+      "url": "https://careers.united.com/us/en/job/HSC00001092"
+    },
+    {
+      "id": "IAD00002030",
+      "title": "Supervisor - Aircraft Maintenance",
+      "city": "Dulles",
+      "state": "Virginia",
+      "country": "United States",
+      "category": "Aircraft Maintenance and Support",
+      "level": "6",
+      "posted": "2026-08-24",
+      "url": "https://careers.united.com/us/en/job/IAD00002030"
+    },
+    {
+      "id": "EWR00004634",
+      "title": "(Experienced) Machinist (Precision Tool and Die) Technician",
+      "city": "Newark",
+      "state": "New Jersey",
+      "country": "United States",
+      "category": "At the Airport",
+      "level": "Line/Hourly",
+      "posted": "2026-08-24",
+      "url": "https://careers.united.com/us/en/job/EWR00004634"
+    },
+    {
+      "id": "WHQ00026756",
+      "title": "Senior Engineer - Maintenance Programs",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Aircraft Maintenance and Support",
+      "level": "5",
+      "posted": "2026-08-24",
+      "url": "https://careers.united.com/us/en/job/WHQ00026756"
+    },
+    {
+      "id": "LAS00000338",
+      "title": "Customer Service Representative - Part Time",
+      "city": "Las Vegas",
+      "state": "Nevada",
+      "country": "United States",
+      "category": "Customer Solutions",
+      "level": "Line/Hourly",
+      "posted": "2026-08-24",
+      "url": "https://careers.united.com/us/en/job/LAS00000338"
+    },
+    {
+      "id": "WAS00000039",
+      "title": "Director – Corporate Affairs",
+      "city": "Washington",
+      "state": "District of Columbia",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "2",
+      "posted": "2026-08-24",
+      "url": "https://careers.united.com/us/en/job/WAS00000039"
+    },
+    {
+      "id": "WHQ00026735",
+      "title": "Senior Manager - Heavy Maintenance Planning",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Aircraft Maintenance and Support",
+      "level": "3",
+      "posted": "2026-08-24",
+      "url": "https://careers.united.com/us/en/job/WHQ00026735"
+    },
     {
       "id": "IAH00005693",
       "title": "Analyst - Configuration Management",
@@ -23,116 +133,6 @@
       "level": "4",
       "posted": "2026-08-24",
       "url": "https://careers.united.com/us/en/job/IAH00005690"
-    },
-    {
-      "id": "WHQ00026773",
-      "title": "Sr Analyst - Financial Planning & Analysis (Hybrid)",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "5",
-      "posted": "2026-08-22",
-      "url": "https://careers.united.com/us/en/job/WHQ00026773"
-    },
-    {
-      "id": "WHQ00026724",
-      "title": "Scrum Master",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Digital Technology",
-      "level": "4",
-      "posted": "2026-08-22",
-      "url": "https://careers.united.com/us/en/job/WHQ00026724"
-    },
-    {
-      "id": "ORD00003313",
-      "title": "Line Technician",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "At the Airport",
-      "level": "Line/Hourly",
-      "posted": "2026-08-22",
-      "url": "https://careers.united.com/us/en/job/ORD00003313"
-    },
-    {
-      "id": "WHQ00026706",
-      "title": "Manager - Airframe Vendor Management",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Aircraft Maintenance and Support",
-      "level": "4",
-      "posted": "2026-08-21",
-      "url": "https://careers.united.com/us/en/job/WHQ00026706"
-    },
-    {
-      "id": "WHQ00026713",
-      "title": "Director - Global Procurement Governance",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "2",
-      "posted": "2026-08-21",
-      "url": "https://careers.united.com/us/en/job/WHQ00026713"
-    },
-    {
-      "id": "KOA00000145",
-      "title": "Ramp Service Employee - Part-Time",
-      "city": "Hawaii",
-      "state": "Hawaii",
-      "country": "United States",
-      "category": "At the Airport",
-      "level": "Line/Hourly",
-      "posted": "2026-08-21",
-      "url": "https://careers.united.com/us/en/job/KOA00000145"
-    },
-    {
-      "id": "RNO00000177",
-      "title": "Ramp Service Employee - Part Time",
-      "city": "Reno",
-      "state": "Nevada",
-      "country": "United States",
-      "category": "At the Airport",
-      "level": "Line/Hourly",
-      "posted": "2026-08-21",
-      "url": "https://careers.united.com/us/en/job/RNO00000177"
-    },
-    {
-      "id": "DEN00006886",
-      "title": "Senior Engineer - IT Systems Field Service",
-      "city": "Denver",
-      "state": "Colorado",
-      "country": "United States",
-      "category": "Digital Technology",
-      "level": "5",
-      "posted": "2026-08-21",
-      "url": "https://careers.united.com/us/en/job/DEN00006886"
-    },
-    {
-      "id": "WHQ00026747",
-      "title": "Specialist - Trade Compliance",
-      "city": "Arlington Heights",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Aircraft Maintenance and Support",
-      "level": "5",
-      "posted": "2026-08-21",
-      "url": "https://careers.united.com/us/en/job/WHQ00026747"
-    },
-    {
-      "id": "BWI00000207",
-      "title": "Ramp Service Employee - Part-Time",
-      "city": "Baltimore",
-      "state": "Maryland",
-      "country": "United States",
-      "category": "At the Airport",
-      "level": "Line/Hourly",
-      "posted": "2026-08-21",
-      "url": "https://careers.united.com/us/en/job/BWI00000207"
     }
   ]
 }
