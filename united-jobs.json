@@ -1,7 +1,95 @@
 {
-  "updated": "2026-08-25",
+  "updated": "2026-08-26",
   "student": [],
   "recent": [
+    {
+      "id": "BOS00000356",
+      "title": "Line Technician",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "category": "At the Airport",
+      "level": "Line/Hourly",
+      "posted": "2026-08-26",
+      "url": "https://careers.united.com/us/en/job/BOS00000356"
+    },
+    {
+      "id": "ORD00003670",
+      "title": "Tool Room Utility Specialist - Line",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "At the Airport",
+      "level": "Line/Hourly",
+      "posted": "2026-08-26",
+      "url": "https://careers.united.com/us/en/job/ORD00003670"
+    },
+    {
+      "id": "WHQ00026771",
+      "title": "Senior Analyst - Pilot Workforce Planning & Analysis",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "5",
+      "posted": "2026-08-25",
+      "url": "https://careers.united.com/us/en/job/WHQ00026771"
+    },
+    {
+      "id": "WHQ00026526",
+      "title": "Software Developer (.NET, RESTfulAPIs, AWS)",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Digital Technology",
+      "level": "5",
+      "posted": "2026-08-25",
+      "url": "https://careers.united.com/us/en/job/WHQ00026526"
+    },
+    {
+      "id": "LAX00001572",
+      "title": "Senior Line Engineer | Onsite |Overnight shift",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "category": "Aircraft Maintenance and Support",
+      "level": "5",
+      "posted": "2026-08-25",
+      "url": "https://careers.united.com/us/en/job/LAX00001572"
+    },
+    {
+      "id": "IAH00005694",
+      "title": "Assistant Manager - Quality Assurance",
+      "city": "Houston",
+      "state": "Texas",
+      "country": "United States",
+      "category": "Aircraft Maintenance and Support",
+      "level": "5",
+      "posted": "2026-08-25",
+      "url": "https://careers.united.com/us/en/job/IAH00005694"
+    },
+    {
+      "id": "WHQ00026767",
+      "title": "Engineer - Application Cybersecurity",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Digital Technology",
+      "level": "5",
+      "posted": "2026-08-25",
+      "url": "https://careers.united.com/us/en/job/WHQ00026767"
+    },
+    {
+      "id": "EWR00004731",
+      "title": "Project Manager II - CRE - Planning and Development (Onsite)",
+      "city": "Newark",
+      "state": "New Jersey",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "4",
+      "posted": "2026-08-25",
+      "url": "https://careers.united.com/us/en/job/EWR00004731"
+    },
     {
       "id": "MIA00000126",
       "title": "Ramp Service Employee - Part-Time",
@@ -45,94 +133,6 @@
       "level": "6",
       "posted": "2026-08-24",
       "url": "https://careers.united.com/us/en/job/HSC00001092"
-    },
-    {
-      "id": "IAD00002030",
-      "title": "Supervisor - Aircraft Maintenance",
-      "city": "Dulles",
-      "state": "Virginia",
-      "country": "United States",
-      "category": "Aircraft Maintenance and Support",
-      "level": "6",
-      "posted": "2026-08-24",
-      "url": "https://careers.united.com/us/en/job/IAD00002030"
-    },
-    {
-      "id": "EWR00004634",
-      "title": "(Experienced) Machinist (Precision Tool and Die) Technician",
-      "city": "Newark",
-      "state": "New Jersey",
-      "country": "United States",
-      "category": "At the Airport",
-      "level": "Line/Hourly",
-      "posted": "2026-08-24",
-      "url": "https://careers.united.com/us/en/job/EWR00004634"
-    },
-    {
-      "id": "WHQ00026756",
-      "title": "Senior Engineer - Maintenance Programs",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Aircraft Maintenance and Support",
-      "level": "5",
-      "posted": "2026-08-24",
-      "url": "https://careers.united.com/us/en/job/WHQ00026756"
-    },
-    {
-      "id": "LAS00000338",
-      "title": "Customer Service Representative - Part Time",
-      "city": "Las Vegas",
-      "state": "Nevada",
-      "country": "United States",
-      "category": "Customer Solutions",
-      "level": "Line/Hourly",
-      "posted": "2026-08-24",
-      "url": "https://careers.united.com/us/en/job/LAS00000338"
-    },
-    {
-      "id": "WAS00000039",
-      "title": "Director – Corporate Affairs",
-      "city": "Washington",
-      "state": "District of Columbia",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "2",
-      "posted": "2026-08-24",
-      "url": "https://careers.united.com/us/en/job/WAS00000039"
-    },
-    {
-      "id": "WHQ00026735",
-      "title": "Senior Manager - Heavy Maintenance Planning",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Aircraft Maintenance and Support",
-      "level": "3",
-      "posted": "2026-08-24",
-      "url": "https://careers.united.com/us/en/job/WHQ00026735"
-    },
-    {
-      "id": "IAH00005693",
-      "title": "Analyst - Configuration Management",
-      "city": "Houston",
-      "state": "Texas",
-      "country": "United States",
-      "category": "Aircraft Maintenance and Support",
-      "level": "6",
-      "posted": "2026-08-24",
-      "url": "https://careers.united.com/us/en/job/IAH00005693"
-    },
-    {
-      "id": "IAH00005690",
-      "title": "Manager- Configuration Management",
-      "city": "Houston",
-      "state": "Texas",
-      "country": "United States",
-      "category": "Aircraft Maintenance and Support",
-      "level": "4",
-      "posted": "2026-08-24",
-      "url": "https://careers.united.com/us/en/job/IAH00005690"
     }
   ]
 }
