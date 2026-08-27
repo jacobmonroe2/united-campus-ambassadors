@@ -1,28 +1,83 @@
 {
-  "updated": "2026-08-26",
+  "updated": "2026-08-27",
   "student": [],
   "recent": [
     {
-      "id": "BOS00000356",
-      "title": "Line Technician",
-      "city": "Boston",
-      "state": "Massachusetts",
-      "country": "United States",
-      "category": "At the Airport",
-      "level": "Line/Hourly",
-      "posted": "2026-08-26",
-      "url": "https://careers.united.com/us/en/job/BOS00000356"
-    },
-    {
-      "id": "ORD00003670",
-      "title": "Tool Room Utility Specialist - Line",
+      "id": "WHQ00026772",
+      "title": "Senior Project Planning Specialist- EA Planning & Execution",
       "city": "Chicago",
       "state": "Illinois",
       "country": "United States",
+      "category": "Aircraft Maintenance and Support",
+      "level": "5",
+      "posted": "2026-08-27",
+      "url": "https://careers.united.com/us/en/job/WHQ00026772"
+    },
+    {
+      "id": "WHQ00026778",
+      "title": "Director - Labor Relations",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "2",
+      "posted": "2026-08-27",
+      "url": "https://careers.united.com/us/en/job/WHQ00026778"
+    },
+    {
+      "id": "IAD00001941",
+      "title": "Facilities Maintenance Technician (Building Engineer) $10,000 Sign On Bonus",
+      "city": "Dulles",
+      "state": "Virginia",
+      "country": "United States",
       "category": "At the Airport",
       "level": "Line/Hourly",
+      "posted": "2026-08-27",
+      "url": "https://careers.united.com/us/en/job/IAD00001941"
+    },
+    {
+      "id": "SJU00000045",
+      "title": "Customer Service Representative - Part-Time",
+      "city": "San Juan",
+      "state": "Puerto Rico",
+      "country": "United States",
+      "category": "Customer Solutions",
+      "level": "Line/Hourly",
+      "posted": "2026-08-27",
+      "url": "https://careers.united.com/us/en/job/SJU00000045"
+    },
+    {
+      "id": "SFO00005434",
+      "title": "Hub Maintenance Coordinator",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "category": "Aircraft Maintenance and Support",
+      "level": "6",
+      "posted": "2026-08-27",
+      "url": "https://careers.united.com/us/en/job/SFO00005434"
+    },
+    {
+      "id": "SFO00005443",
+      "title": "Supervisor - Aircraft Maintenance",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "category": "Aircraft Maintenance and Support",
+      "level": "6",
+      "posted": "2026-08-27",
+      "url": "https://careers.united.com/us/en/job/SFO00005443"
+    },
+    {
+      "id": "SNA00000308",
+      "title": "Supervisor - Airport Operations",
+      "city": "Orange County",
+      "state": "California",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "6",
       "posted": "2026-08-26",
-      "url": "https://careers.united.com/us/en/job/ORD00003670"
+      "url": "https://careers.united.com/us/en/job/SNA00000308"
     },
     {
       "id": "WHQ00026771",
@@ -32,107 +87,52 @@
       "country": "United States",
       "category": "Corporate",
       "level": "5",
-      "posted": "2026-08-25",
+      "posted": "2026-08-26",
       "url": "https://careers.united.com/us/en/job/WHQ00026771"
     },
     {
-      "id": "WHQ00026526",
-      "title": "Software Developer (.NET, RESTfulAPIs, AWS)",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Digital Technology",
-      "level": "5",
-      "posted": "2026-08-25",
-      "url": "https://careers.united.com/us/en/job/WHQ00026526"
-    },
-    {
-      "id": "LAX00001572",
-      "title": "Senior Line Engineer | Onsite |Overnight shift",
-      "city": "Los Angeles",
-      "state": "California",
-      "country": "United States",
-      "category": "Aircraft Maintenance and Support",
-      "level": "5",
-      "posted": "2026-08-25",
-      "url": "https://careers.united.com/us/en/job/LAX00001572"
-    },
-    {
-      "id": "IAH00005694",
-      "title": "Assistant Manager - Quality Assurance",
-      "city": "Houston",
-      "state": "Texas",
-      "country": "United States",
-      "category": "Aircraft Maintenance and Support",
-      "level": "5",
-      "posted": "2026-08-25",
-      "url": "https://careers.united.com/us/en/job/IAH00005694"
-    },
-    {
-      "id": "WHQ00026767",
-      "title": "Engineer - Application Cybersecurity",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Digital Technology",
-      "level": "5",
-      "posted": "2026-08-25",
-      "url": "https://careers.united.com/us/en/job/WHQ00026767"
-    },
-    {
-      "id": "EWR00004731",
-      "title": "Project Manager II - CRE - Planning and Development (Onsite)",
-      "city": "Newark",
-      "state": "New Jersey",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "4",
-      "posted": "2026-08-25",
-      "url": "https://careers.united.com/us/en/job/EWR00004731"
-    },
-    {
-      "id": "MIA00000126",
-      "title": "Ramp Service Employee - Part-Time",
-      "city": "Miami",
-      "state": "Florida",
-      "country": "United States",
-      "category": "At the Airport",
-      "level": "Line/Hourly",
-      "posted": "2026-08-25",
-      "url": "https://careers.united.com/us/en/job/MIA00000126"
-    },
-    {
-      "id": "EWR00004673",
-      "title": "Facilities Maintenance Technician (Building Engineer) $10,000 Sign on Bonus",
-      "city": "Newark",
-      "state": "New Jersey",
-      "country": "United States",
-      "category": "At the Airport",
-      "level": "Line/Hourly",
-      "posted": "2026-08-25",
-      "url": "https://careers.united.com/us/en/job/EWR00004673"
-    },
-    {
-      "id": "LAX00001754",
-      "title": "Manager - AO Ramp Service",
-      "city": "Los Angeles",
+      "id": "SFO00005421",
+      "title": "Manager - Station Operations Center",
+      "city": "San Francisco",
       "state": "California",
       "country": "United States",
       "category": "Corporate",
       "level": "4",
-      "posted": "2026-08-24",
-      "url": "https://careers.united.com/us/en/job/LAX00001754"
+      "posted": "2026-08-26",
+      "url": "https://careers.united.com/us/en/job/SFO00005421"
     },
     {
-      "id": "HSC00001092",
-      "title": "Associate Developer - Information Technology",
-      "city": "Houston",
-      "state": "Texas",
+      "id": "WHQ00026710",
+      "title": "Manager - IT Applications Development",
+      "city": "Chicago",
+      "state": "Illinois",
       "country": "United States",
       "category": "Digital Technology",
-      "level": "6",
-      "posted": "2026-08-24",
-      "url": "https://careers.united.com/us/en/job/HSC00001092"
+      "level": "4",
+      "posted": "2026-08-26",
+      "url": "https://careers.united.com/us/en/job/WHQ00026710"
+    },
+    {
+      "id": "WHQ00026769",
+      "title": "Executive Assistant (Hybrid)",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "8",
+      "posted": "2026-08-26",
+      "url": "https://careers.united.com/us/en/job/WHQ00026769"
+    },
+    {
+      "id": "WHQ00026759",
+      "title": "Senior Manager - Quality Engineering",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Digital Technology",
+      "level": "3",
+      "posted": "2026-08-26",
+      "url": "https://careers.united.com/us/en/job/WHQ00026759"
     }
   ]
 }
