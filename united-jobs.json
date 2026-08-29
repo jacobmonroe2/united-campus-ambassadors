@@ -1,7 +1,29 @@
 {
-  "updated": "2026-08-28",
+  "updated": "2026-08-29",
   "student": [],
   "recent": [
+    {
+      "id": "OPB00000978",
+      "title": "Crew Scheduler - Inflight",
+      "city": "Arlington Heights",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "7",
+      "posted": "2026-08-28",
+      "url": "https://careers.united.com/us/en/job/OPB00000978"
+    },
+    {
+      "id": "RNO00000178",
+      "title": "Customer Service Representative - Part Time",
+      "city": "Reno",
+      "state": "Nevada",
+      "country": "United States",
+      "category": "Customer Solutions",
+      "level": "Line/Hourly",
+      "posted": "2026-08-28",
+      "url": "https://careers.united.com/us/en/job/RNO00000178"
+    },
     {
       "id": "MSY00000197",
       "title": "Line Technician",
@@ -111,28 +133,6 @@
       "level": "5",
       "posted": "2026-08-27",
       "url": "https://careers.united.com/us/en/job/WHQ00026772"
-    },
-    {
-      "id": "WHQ00026778",
-      "title": "Director - Labor Relations",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "2",
-      "posted": "2026-08-27",
-      "url": "https://careers.united.com/us/en/job/WHQ00026778"
-    },
-    {
-      "id": "IAD00001941",
-      "title": "Facilities Maintenance Technician (Building Engineer) $10,000 Sign On Bonus",
-      "city": "Dulles",
-      "state": "Virginia",
-      "country": "United States",
-      "category": "At the Airport",
-      "level": "Line/Hourly",
-      "posted": "2026-08-27",
-      "url": "https://careers.united.com/us/en/job/IAD00001941"
     }
   ]
 }
