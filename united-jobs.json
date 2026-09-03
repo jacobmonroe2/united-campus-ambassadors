@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02",
+  "updated": "2026-09-03",
   "student": [
     {
       "id": "WHQ00026602",
@@ -35,17 +35,6 @@
       "url": "https://careers.united.com/us/en/job/WHQ00026618"
     },
     {
-      "id": "WHQ00026533",
-      "title": "Intern - Market Research (Summer 2027)",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Student and Early Career",
-      "level": "0",
-      "posted": "2026-09-01",
-      "url": "https://careers.united.com/us/en/job/WHQ00026533"
-    },
-    {
       "id": "WHQ00026535",
       "title": "Intern - Brand (Summer 2027)",
       "city": "Chicago",
@@ -55,6 +44,17 @@
       "level": "0",
       "posted": "2026-09-01",
       "url": "https://careers.united.com/us/en/job/WHQ00026535"
+    },
+    {
+      "id": "WHQ00026533",
+      "title": "Intern - Market Research (Summer 2027)",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Student and Early Career",
+      "level": "0",
+      "posted": "2026-09-01",
+      "url": "https://careers.united.com/us/en/job/WHQ00026533"
     },
     {
       "id": "WHQ00026579",
@@ -79,17 +79,6 @@
       "url": "https://careers.united.com/us/en/job/WHQ00026500"
     },
     {
-      "id": "WHQ00026536",
-      "title": "Intern - Menu Design (Summer 2027)",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Student and Early Career",
-      "level": "0",
-      "posted": "2026-09-01",
-      "url": "https://careers.united.com/us/en/job/WHQ00026536"
-    },
-    {
       "id": "WHQ00026537",
       "title": "Intern - Inflight Entertainment (Summer 2027)",
       "city": "Chicago",
@@ -97,8 +86,19 @@
       "country": "United States",
       "category": "Student and Early Career",
       "level": "0",
-      "posted": "2026-09-01",
+      "posted": "2026-09-02",
       "url": "https://careers.united.com/us/en/job/WHQ00026537"
+    },
+    {
+      "id": "OPB00000959",
+      "title": "Intern - Flight Dispatch (Summer 2027)",
+      "city": "Arlington Heights",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Student and Early Career",
+      "level": "0",
+      "posted": "2026-09-01",
+      "url": "https://careers.united.com/us/en/job/OPB00000959"
     },
     {
       "id": "WHQ00026532",
@@ -158,59 +158,103 @@
   ],
   "recent": [
     {
-      "id": "WHQ00026805",
-      "title": "Assistant Manager - Learning Experience & Processes (Hybrid)",
+      "id": "WHQ00026808",
+      "title": "Manager - Customer Insights & Analytics (Hybrid)",
       "city": "Chicago",
       "state": "Illinois",
       "country": "United States",
       "category": "Corporate",
-      "level": "5",
+      "level": "4",
+      "posted": "2026-09-03",
+      "url": "https://careers.united.com/us/en/job/WHQ00026808"
+    },
+    {
+      "id": "EWR00004750",
+      "title": "Inside Sales Representative - Cargo Sales",
+      "city": "Newark",
+      "state": "New Jersey",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "7",
       "posted": "2026-09-02",
-      "url": "https://careers.united.com/us/en/job/WHQ00026805"
+      "url": "https://careers.united.com/us/en/job/EWR00004750"
     },
     {
-      "id": "WHQ00026530",
-      "title": "Intern - Clubs & Lounges (Summer 2027)",
+      "id": "WHQ00026411",
+      "title": "Intern - Global Network Planning, Alliances & United Express (Summer 2027)",
       "city": "Chicago",
       "state": "Illinois",
       "country": "United States",
       "category": "Student and Early Career",
       "level": "0",
-      "posted": "2026-09-01",
-      "url": "https://careers.united.com/us/en/job/WHQ00026530"
+      "posted": "2026-09-02",
+      "url": "https://careers.united.com/us/en/job/WHQ00026411"
     },
     {
-      "id": "FA2026-LQ-GER-3",
-      "title": "Flight Attendant (German Speakers Only)",
+      "id": "FA2026-LQ-GRE-3",
+      "title": "Flight Attendant (Greek Speakers Only)",
       "city": "Newark",
       "state": "New Jersey",
       "country": "United States",
       "category": "Flight Attendant",
       "level": "Line/Hourly",
-      "posted": "2026-09-01",
-      "url": "https://careers.united.com/us/en/job/FA2026-LQ-GER-3"
+      "posted": "2026-09-02",
+      "url": "https://careers.united.com/us/en/job/FA2026-LQ-GRE-3"
     },
     {
-      "id": "WHQ00026579",
-      "title": "Intern - Corporate Safety (Summer 2027)",
+      "id": "FA2026-LQ-HEB-3",
+      "title": "Flight Attendant (Hebrew Speakers Only)",
+      "city": "Newark",
+      "state": "New Jersey",
+      "country": "United States",
+      "category": "Flight Attendant",
+      "level": "Line/Hourly",
+      "posted": "2026-09-02",
+      "url": "https://careers.united.com/us/en/job/FA2026-LQ-HEB-3"
+    },
+    {
+      "id": "CHI00000511",
+      "title": "Supervisor - CS&A Service Delivery (Chicago)",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "6",
+      "posted": "2026-09-02",
+      "url": "https://careers.united.com/us/en/job/CHI00000511"
+    },
+    {
+      "id": "WHQ00026502",
+      "title": "Intern - Tech Ops Heavy Maintenance Execution Strategy (Summer 2027)",
       "city": "Chicago",
       "state": "Illinois",
       "country": "United States",
       "category": "Student and Early Career",
       "level": "0",
-      "posted": "2026-09-01",
-      "url": "https://careers.united.com/us/en/job/WHQ00026579"
+      "posted": "2026-09-02",
+      "url": "https://careers.united.com/us/en/job/WHQ00026502"
     },
     {
-      "id": "FA2026-LQ-ITA-3",
-      "title": "Flight Attendant (Italian Speakers Only)",
-      "city": "Newark",
-      "state": "New Jersey",
+      "id": "SFO00005404",
+      "title": "Sheet Metal Technician Shop - Base",
+      "city": "San Francisco",
+      "state": "California",
       "country": "United States",
-      "category": "Flight Attendant",
+      "category": "At the Airport",
       "level": "Line/Hourly",
-      "posted": "2026-09-01",
-      "url": "https://careers.united.com/us/en/job/FA2026-LQ-ITA-3"
+      "posted": "2026-09-02",
+      "url": "https://careers.united.com/us/en/job/SFO00005404"
+    },
+    {
+      "id": "SFO00005405",
+      "title": "General Shop Technician",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "category": "At the Airport",
+      "level": "Line/Hourly",
+      "posted": "2026-09-02",
+      "url": "https://careers.united.com/us/en/job/SFO00005405"
     },
     {
       "id": "GUM00000585",
@@ -220,74 +264,30 @@
       "country": "United States",
       "category": "Corporate",
       "level": "6",
-      "posted": "2026-09-01",
+      "posted": "2026-09-02",
       "url": "https://careers.united.com/us/en/job/GUM00000585"
     },
     {
-      "id": "WHQ00026800",
-      "title": "Data Center Security Ops Manager",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Digital Technology",
-      "level": "4",
-      "posted": "2026-09-01",
-      "url": "https://careers.united.com/us/en/job/WHQ00026800"
-    },
-    {
-      "id": "WHQ00026794",
-      "title": "Support Analyst - IT",
-      "city": "Arlington Heights",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Digital Technology",
-      "level": "6",
-      "posted": "2026-09-01",
-      "url": "https://careers.united.com/us/en/job/WHQ00026794"
-    },
-    {
-      "id": "WHQ00026536",
-      "title": "Intern - Menu Design (Summer 2027)",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Student and Early Career",
-      "level": "0",
-      "posted": "2026-09-01",
-      "url": "https://careers.united.com/us/en/job/WHQ00026536"
-    },
-    {
-      "id": "WHQ00026535",
-      "title": "Intern - Brand (Summer 2027)",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Student and Early Career",
-      "level": "0",
-      "posted": "2026-09-01",
-      "url": "https://careers.united.com/us/en/job/WHQ00026535"
-    },
-    {
-      "id": "WHQ00026792",
-      "title": "Senior Manager - IT Service Desk",
-      "city": "Arlington Heights",
-      "state": "Illinois",
+      "id": "HSC00001069",
+      "title": "Principal Architect - Information Technology",
+      "city": "Houston",
+      "state": "Texas",
       "country": "United States",
       "category": "Digital Technology",
       "level": "3",
-      "posted": "2026-09-01",
-      "url": "https://careers.united.com/us/en/job/WHQ00026792"
+      "posted": "2026-09-02",
+      "url": "https://careers.united.com/us/en/job/HSC00001069"
     },
     {
-      "id": "WHQ00026534",
-      "title": "Intern - Product Marketing & Brand – Onboard Product (Summer 2027)",
+      "id": "WHQ00026573",
+      "title": "Senior Manager - Financial Systems (Hybrid)",
       "city": "Chicago",
       "state": "Illinois",
       "country": "United States",
-      "category": "Student and Early Career",
-      "level": "0",
-      "posted": "2026-09-01",
-      "url": "https://careers.united.com/us/en/job/WHQ00026534"
+      "category": "Corporate",
+      "level": "3",
+      "posted": "2026-09-02",
+      "url": "https://careers.united.com/us/en/job/WHQ00026573"
     }
   ]
 }
