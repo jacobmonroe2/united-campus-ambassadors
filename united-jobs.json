@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04",
+  "updated": "2026-09-05",
   "student": [
     {
       "id": "WHQ00026602",
@@ -169,6 +169,116 @@
   ],
   "recent": [
     {
+      "id": "ORD00003654",
+      "title": "Ramp Service Employee - Full-Time",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "At the Airport",
+      "level": "Line/Hourly",
+      "posted": "2026-09-05",
+      "url": "https://careers.united.com/us/en/job/ORD00003654"
+    },
+    {
+      "id": "DEN00006892",
+      "title": "Associate Analyst - Airport Operations Business Office",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "7",
+      "posted": "2026-09-04",
+      "url": "https://careers.united.com/us/en/job/DEN00006892"
+    },
+    {
+      "id": "WHQ00026741",
+      "title": "Senior Business Analyst – Customer AI Automation",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Digital Technology",
+      "level": "4",
+      "posted": "2026-09-04",
+      "url": "https://careers.united.com/us/en/job/WHQ00026741"
+    },
+    {
+      "id": "WHQ00026530",
+      "title": "Intern - Clubs & Lounges (Summer 2027)",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Student and Early Career",
+      "level": "0",
+      "posted": "2026-09-04",
+      "url": "https://careers.united.com/us/en/job/WHQ00026530"
+    },
+    {
+      "id": "SMF00000120",
+      "title": "General Manager - Airport Operations",
+      "city": "Sacramento",
+      "state": "California",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "4",
+      "posted": "2026-09-04",
+      "url": "https://careers.united.com/us/en/job/SMF00000120"
+    },
+    {
+      "id": "TPA00000332",
+      "title": "Ramp Service Employee - Part-Time",
+      "city": "Tampa",
+      "state": "Florida",
+      "country": "United States",
+      "category": "At the Airport",
+      "level": "Line/Hourly",
+      "posted": "2026-09-04",
+      "url": "https://careers.united.com/us/en/job/TPA00000332"
+    },
+    {
+      "id": "WHQ00026600",
+      "title": "Senior Engineer- New Aircraft Quality",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Aircraft Maintenance and Support",
+      "level": "5",
+      "posted": "2026-09-04",
+      "url": "https://careers.united.com/us/en/job/WHQ00026600"
+    },
+    {
+      "id": "IND00000262",
+      "title": "Customer Service Representative - Part-Time",
+      "city": "Indianapolis",
+      "state": "Indiana",
+      "country": "United States",
+      "category": "Customer Solutions",
+      "level": "Line/Hourly",
+      "posted": "2026-09-04",
+      "url": "https://careers.united.com/us/en/job/IND00000262"
+    },
+    {
+      "id": "IAH00005689",
+      "title": "Supervisor - AO Premium Services (Onsite)",
+      "city": "Houston",
+      "state": "Texas",
+      "country": "United States",
+      "category": "Customer Solutions",
+      "level": "6",
+      "posted": "2026-09-04",
+      "url": "https://careers.united.com/us/en/job/IAH00005689"
+    },
+    {
+      "id": "LAX00001751",
+      "title": "Material Handler / Storekeeper",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "category": "At the Airport",
+      "level": "Line/Hourly",
+      "posted": "2026-09-04",
+      "url": "https://careers.united.com/us/en/job/LAX00001751"
+    },
+    {
       "id": "IAH00005696",
       "title": "Supt Rep - FltOps Business Ops",
       "city": "Houston",
@@ -189,116 +299,6 @@
       "level": "6",
       "posted": "2026-09-04",
       "url": "https://careers.united.com/us/en/job/FLL00000192"
-    },
-    {
-      "id": "SFO00005404",
-      "title": "Sheet Metal Technician Shop - Base",
-      "city": "San Francisco",
-      "state": "California",
-      "country": "United States",
-      "category": "At the Airport",
-      "level": "Line/Hourly",
-      "posted": "2026-09-04",
-      "url": "https://careers.united.com/us/en/job/SFO00005404"
-    },
-    {
-      "id": "WHQ00026755",
-      "title": "Manager - Reliability",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Aircraft Maintenance and Support",
-      "level": "4",
-      "posted": "2026-09-04",
-      "url": "https://careers.united.com/us/en/job/WHQ00026755"
-    },
-    {
-      "id": "LAX00001756",
-      "title": "Senior Coordinator - Warehouse & Distribution",
-      "city": "Los Angeles",
-      "state": "California",
-      "country": "United States",
-      "category": "Aircraft Maintenance and Support",
-      "level": "8",
-      "posted": "2026-09-03",
-      "url": "https://careers.united.com/us/en/job/LAX00001756"
-    },
-    {
-      "id": "WHQ00026793",
-      "title": "Principal Architect - Information Technology",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Digital Technology",
-      "level": "3",
-      "posted": "2026-09-03",
-      "url": "https://careers.united.com/us/en/job/WHQ00026793"
-    },
-    {
-      "id": "WHQ00026467",
-      "title": "Analyst - UX",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Digital Technology",
-      "level": "6",
-      "posted": "2026-09-03",
-      "url": "https://careers.united.com/us/en/job/WHQ00026467"
-    },
-    {
-      "id": "WHQ00026795",
-      "title": "Senior Manager - Product Cybersecurity (Remote)",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Digital Technology",
-      "level": "3",
-      "posted": "2026-09-03",
-      "url": "https://careers.united.com/us/en/job/WHQ00026795"
-    },
-    {
-      "id": "WHQ00026529",
-      "title": "Intern - Product Marketing & Brand – Onboard Product (Summer 2027)",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Student and Early Career",
-      "level": "0",
-      "posted": "2026-09-03",
-      "url": "https://careers.united.com/us/en/job/WHQ00026529"
-    },
-    {
-      "id": "WHQ00026821",
-      "title": "Specialist - Health and Welfare (Hybrid)",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "6",
-      "posted": "2026-09-03",
-      "url": "https://careers.united.com/us/en/job/WHQ00026821"
-    },
-    {
-      "id": "WHQ00026534",
-      "title": "Intern - Onboard Experience (Summer 2027)",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Student and Early Career",
-      "level": "0",
-      "posted": "2026-09-03",
-      "url": "https://careers.united.com/us/en/job/WHQ00026534"
-    },
-    {
-      "id": "WHQ00026411",
-      "title": "Intern - Global Network Planning, Alliances & United Express (Summer 2027)",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Student and Early Career",
-      "level": "0",
-      "posted": "2026-09-03",
-      "url": "https://careers.united.com/us/en/job/WHQ00026411"
     }
   ]
 }
