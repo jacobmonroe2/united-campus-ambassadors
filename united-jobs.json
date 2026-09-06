@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05",
+  "updated": "2026-09-06",
   "student": [
     {
       "id": "WHQ00026602",
@@ -35,17 +35,6 @@
       "url": "https://careers.united.com/us/en/job/WHQ00026618"
     },
     {
-      "id": "WHQ00026533",
-      "title": "Intern - Market Research (Summer 2027)",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Student and Early Career",
-      "level": "0",
-      "posted": "2026-09-01",
-      "url": "https://careers.united.com/us/en/job/WHQ00026533"
-    },
-    {
       "id": "WHQ00026535",
       "title": "Intern - Brand (Summer 2027)",
       "city": "Chicago",
@@ -55,6 +44,17 @@
       "level": "0",
       "posted": "2026-09-01",
       "url": "https://careers.united.com/us/en/job/WHQ00026535"
+    },
+    {
+      "id": "WHQ00026533",
+      "title": "Intern - Market Research (Summer 2027)",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Student and Early Career",
+      "level": "0",
+      "posted": "2026-09-01",
+      "url": "https://careers.united.com/us/en/job/WHQ00026533"
     },
     {
       "id": "WHQ00026579",
@@ -235,17 +235,6 @@
       "url": "https://careers.united.com/us/en/job/TPA00000332"
     },
     {
-      "id": "WHQ00026600",
-      "title": "Senior Engineer- New Aircraft Quality",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Aircraft Maintenance and Support",
-      "level": "5",
-      "posted": "2026-09-04",
-      "url": "https://careers.united.com/us/en/job/WHQ00026600"
-    },
-    {
       "id": "IND00000262",
       "title": "Customer Service Representative - Part-Time",
       "city": "Indianapolis",
@@ -299,6 +288,17 @@
       "level": "6",
       "posted": "2026-09-04",
       "url": "https://careers.united.com/us/en/job/FLL00000192"
+    },
+    {
+      "id": "WHQ00026755",
+      "title": "Manager - Reliability",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Aircraft Maintenance and Support",
+      "level": "4",
+      "posted": "2026-09-04",
+      "url": "https://careers.united.com/us/en/job/WHQ00026755"
     }
   ]
 }
