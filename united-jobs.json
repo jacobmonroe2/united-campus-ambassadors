@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06",
+  "updated": "2026-09-07",
   "student": [
     {
       "id": "WHQ00026602",
@@ -35,17 +35,6 @@
       "url": "https://careers.united.com/us/en/job/WHQ00026618"
     },
     {
-      "id": "WHQ00026535",
-      "title": "Intern - Brand (Summer 2027)",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Student and Early Career",
-      "level": "0",
-      "posted": "2026-09-01",
-      "url": "https://careers.united.com/us/en/job/WHQ00026535"
-    },
-    {
       "id": "WHQ00026533",
       "title": "Intern - Market Research (Summer 2027)",
       "city": "Chicago",
@@ -55,6 +44,17 @@
       "level": "0",
       "posted": "2026-09-01",
       "url": "https://careers.united.com/us/en/job/WHQ00026533"
+    },
+    {
+      "id": "WHQ00026535",
+      "title": "Intern - Brand (Summer 2027)",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Student and Early Career",
+      "level": "0",
+      "posted": "2026-09-01",
+      "url": "https://careers.united.com/us/en/job/WHQ00026535"
     },
     {
       "id": "WHQ00026579",
@@ -268,17 +268,6 @@
       "url": "https://careers.united.com/us/en/job/LAX00001751"
     },
     {
-      "id": "IAH00005696",
-      "title": "Supt Rep - FltOps Business Ops",
-      "city": "Houston",
-      "state": "Texas",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "8",
-      "posted": "2026-09-04",
-      "url": "https://careers.united.com/us/en/job/IAH00005696"
-    },
-    {
       "id": "FLL00000192",
       "title": "Supervisor - Airport Operations",
       "city": "Ft. Lauderdale",
@@ -288,6 +277,17 @@
       "level": "6",
       "posted": "2026-09-04",
       "url": "https://careers.united.com/us/en/job/FLL00000192"
+    },
+    {
+      "id": "IAH00005696",
+      "title": "Supt Rep - FltOps Business Ops",
+      "city": "Houston",
+      "state": "Texas",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "8",
+      "posted": "2026-09-04",
+      "url": "https://careers.united.com/us/en/job/IAH00005696"
     },
     {
       "id": "WHQ00026755",
