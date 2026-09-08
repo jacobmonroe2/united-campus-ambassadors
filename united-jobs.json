@@ -1,6 +1,17 @@
 {
-  "updated": "2026-09-07",
+  "updated": "2026-09-08",
   "student": [
+    {
+      "id": "WHQ00026578",
+      "title": "Intern -MileagePlus (Summer 2027)",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Student and Early Career",
+      "level": "0",
+      "posted": "2026-09-08",
+      "url": "https://careers.united.com/us/en/job/WHQ00026578"
+    },
     {
       "id": "WHQ00026602",
       "title": "Intern – Digital Technology (Summer 2027)",
@@ -35,17 +46,6 @@
       "url": "https://careers.united.com/us/en/job/WHQ00026618"
     },
     {
-      "id": "WHQ00026533",
-      "title": "Intern - Market Research (Summer 2027)",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Student and Early Career",
-      "level": "0",
-      "posted": "2026-09-01",
-      "url": "https://careers.united.com/us/en/job/WHQ00026533"
-    },
-    {
       "id": "WHQ00026535",
       "title": "Intern - Brand (Summer 2027)",
       "city": "Chicago",
@@ -55,6 +55,17 @@
       "level": "0",
       "posted": "2026-09-01",
       "url": "https://careers.united.com/us/en/job/WHQ00026535"
+    },
+    {
+      "id": "WHQ00026533",
+      "title": "Intern - Market Research (Summer 2027)",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Student and Early Career",
+      "level": "0",
+      "posted": "2026-09-01",
+      "url": "https://careers.united.com/us/en/job/WHQ00026533"
     },
     {
       "id": "WHQ00026579",
@@ -101,17 +112,6 @@
       "url": "https://careers.united.com/us/en/job/WHQ00026537"
     },
     {
-      "id": "OPB00000959",
-      "title": "Intern - Flight Dispatch (Summer 2027)",
-      "city": "Arlington Heights",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Student and Early Career",
-      "level": "0",
-      "posted": "2026-09-01",
-      "url": "https://careers.united.com/us/en/job/OPB00000959"
-    },
-    {
       "id": "WHQ00026459",
       "title": "Industrial Engineering CO-OP",
       "city": "Chicago",
@@ -121,6 +121,17 @@
       "level": "0",
       "posted": "2026-09-01",
       "url": "https://careers.united.com/us/en/job/WHQ00026459"
+    },
+    {
+      "id": "WHQ00026619",
+      "title": "Intern Ops Strat & Anlytcs co op",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Student and Early Career",
+      "level": "0",
+      "posted": "2026-09-01",
+      "url": "https://careers.united.com/us/en/job/WHQ00026619"
     },
     {
       "id": "WHQ00026558",
@@ -154,20 +165,31 @@
       "level": "0",
       "posted": "2026-09-01",
       "url": "https://careers.united.com/us/en/job/WHQ00026604"
+    }
+  ],
+  "recent": [
+    {
+      "id": "ORD00003656",
+      "title": "Ramp Service Employee - Part-Time",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "At the Airport",
+      "level": "Line/Hourly",
+      "posted": "2026-09-08",
+      "url": "https://careers.united.com/us/en/job/ORD00003656"
     },
     {
-      "id": "WHQ00026449",
-      "title": "Intern - Tech Ops Strategic Planning (Summer 2027)",
+      "id": "WHQ00026578",
+      "title": "Intern -MileagePlus (Summer 2027)",
       "city": "Chicago",
       "state": "Illinois",
       "country": "United States",
       "category": "Student and Early Career",
       "level": "0",
-      "posted": "2026-09-01",
-      "url": "https://careers.united.com/us/en/job/WHQ00026449"
-    }
-  ],
-  "recent": [
+      "posted": "2026-09-08",
+      "url": "https://careers.united.com/us/en/job/WHQ00026578"
+    },
     {
       "id": "ORD00003654",
       "title": "Ramp Service Employee - Full-Time",
@@ -224,17 +246,6 @@
       "url": "https://careers.united.com/us/en/job/SMF00000120"
     },
     {
-      "id": "TPA00000332",
-      "title": "Ramp Service Employee - Part-Time",
-      "city": "Tampa",
-      "state": "Florida",
-      "country": "United States",
-      "category": "At the Airport",
-      "level": "Line/Hourly",
-      "posted": "2026-09-04",
-      "url": "https://careers.united.com/us/en/job/TPA00000332"
-    },
-    {
       "id": "IND00000262",
       "title": "Customer Service Representative - Part-Time",
       "city": "Indianapolis",
@@ -257,15 +268,15 @@
       "url": "https://careers.united.com/us/en/job/IAH00005689"
     },
     {
-      "id": "LAX00001751",
-      "title": "Material Handler / Storekeeper",
-      "city": "Los Angeles",
-      "state": "California",
+      "id": "IAH00005696",
+      "title": "Supt Rep - FltOps Business Ops",
+      "city": "Houston",
+      "state": "Texas",
       "country": "United States",
-      "category": "At the Airport",
-      "level": "Line/Hourly",
+      "category": "Corporate",
+      "level": "8",
       "posted": "2026-09-04",
-      "url": "https://careers.united.com/us/en/job/LAX00001751"
+      "url": "https://careers.united.com/us/en/job/IAH00005696"
     },
     {
       "id": "FLL00000192",
@@ -277,17 +288,6 @@
       "level": "6",
       "posted": "2026-09-04",
       "url": "https://careers.united.com/us/en/job/FLL00000192"
-    },
-    {
-      "id": "IAH00005696",
-      "title": "Supt Rep - FltOps Business Ops",
-      "city": "Houston",
-      "state": "Texas",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "8",
-      "posted": "2026-09-04",
-      "url": "https://careers.united.com/us/en/job/IAH00005696"
     },
     {
       "id": "WHQ00026755",
