@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08",
+  "updated": "2026-09-09",
   "student": [
     {
       "id": "WHQ00026578",
@@ -44,17 +44,6 @@
       "level": "0",
       "posted": "2026-09-01",
       "url": "https://careers.united.com/us/en/job/WHQ00026618"
-    },
-    {
-      "id": "WHQ00026535",
-      "title": "Intern - Brand (Summer 2027)",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Student and Early Career",
-      "level": "0",
-      "posted": "2026-09-01",
-      "url": "https://careers.united.com/us/en/job/WHQ00026535"
     },
     {
       "id": "WHQ00026533",
@@ -112,6 +101,17 @@
       "url": "https://careers.united.com/us/en/job/WHQ00026537"
     },
     {
+      "id": "OPB00000959",
+      "title": "Intern - Flight Dispatch (Summer 2027)",
+      "city": "Arlington Heights",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Student and Early Career",
+      "level": "0",
+      "posted": "2026-09-01",
+      "url": "https://careers.united.com/us/en/job/OPB00000959"
+    },
+    {
       "id": "WHQ00026459",
       "title": "Industrial Engineering CO-OP",
       "city": "Chicago",
@@ -121,17 +121,6 @@
       "level": "0",
       "posted": "2026-09-01",
       "url": "https://careers.united.com/us/en/job/WHQ00026459"
-    },
-    {
-      "id": "WHQ00026619",
-      "title": "Intern Ops Strat & Anlytcs co op",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Student and Early Career",
-      "level": "0",
-      "posted": "2026-09-01",
-      "url": "https://careers.united.com/us/en/job/WHQ00026619"
     },
     {
       "id": "WHQ00026558",
@@ -165,9 +154,86 @@
       "level": "0",
       "posted": "2026-09-01",
       "url": "https://careers.united.com/us/en/job/WHQ00026604"
+    },
+    {
+      "id": "WHQ00026449",
+      "title": "Intern - Tech Ops Strategic Planning (Summer 2027)",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Student and Early Career",
+      "level": "0",
+      "posted": "2026-09-01",
+      "url": "https://careers.united.com/us/en/job/WHQ00026449"
     }
   ],
   "recent": [
+    {
+      "id": "HSC00001084",
+      "title": "Senior Manager - Collaboration Platforms",
+      "city": "Houston",
+      "state": "Texas",
+      "country": "United States",
+      "category": "Digital Technology",
+      "level": "3",
+      "posted": "2026-09-08",
+      "url": "https://careers.united.com/us/en/job/HSC00001084"
+    },
+    {
+      "id": "WHQ00026782",
+      "title": "Senior Analyst - Alliances",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "5",
+      "posted": "2026-09-08",
+      "url": "https://careers.united.com/us/en/job/WHQ00026782"
+    },
+    {
+      "id": "WHQ00026779",
+      "title": "Manager - Contract Performance",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Aircraft Maintenance and Support",
+      "level": "4",
+      "posted": "2026-09-08",
+      "url": "https://careers.united.com/us/en/job/WHQ00026779"
+    },
+    {
+      "id": "WHQ00026451",
+      "title": "Maintenance Controller - Technical Operations",
+      "city": "Arlington Heights",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Aircraft Maintenance and Support",
+      "level": "Line/Hourly",
+      "posted": "2026-09-08",
+      "url": "https://careers.united.com/us/en/job/WHQ00026451"
+    },
+    {
+      "id": "WHQ00026819",
+      "title": "Intern - Flt Ops - Pilot - Professional Flight (Spring 2027)",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Student and Early Career",
+      "level": "0",
+      "posted": "2026-09-08",
+      "url": "https://careers.united.com/us/en/job/WHQ00026819"
+    },
+    {
+      "id": "IAH00005695",
+      "title": "Coord - Aprt Ops Station Suppt",
+      "city": "Houston",
+      "state": "Texas",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "9",
+      "posted": "2026-09-08",
+      "url": "https://careers.united.com/us/en/job/IAH00005695"
+    },
     {
       "id": "ORD00003656",
       "title": "Ramp Service Employee - Part-Time",
@@ -202,17 +268,6 @@
       "url": "https://careers.united.com/us/en/job/ORD00003654"
     },
     {
-      "id": "DEN00006892",
-      "title": "Associate Analyst - Airport Operations Business Office",
-      "city": "Denver",
-      "state": "Colorado",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "7",
-      "posted": "2026-09-04",
-      "url": "https://careers.united.com/us/en/job/DEN00006892"
-    },
-    {
       "id": "WHQ00026741",
       "title": "Senior Business Analyst – Customer AI Automation",
       "city": "Chicago",
@@ -244,61 +299,6 @@
       "level": "4",
       "posted": "2026-09-04",
       "url": "https://careers.united.com/us/en/job/SMF00000120"
-    },
-    {
-      "id": "IND00000262",
-      "title": "Customer Service Representative - Part-Time",
-      "city": "Indianapolis",
-      "state": "Indiana",
-      "country": "United States",
-      "category": "Customer Solutions",
-      "level": "Line/Hourly",
-      "posted": "2026-09-04",
-      "url": "https://careers.united.com/us/en/job/IND00000262"
-    },
-    {
-      "id": "IAH00005689",
-      "title": "Supervisor - AO Premium Services (Onsite)",
-      "city": "Houston",
-      "state": "Texas",
-      "country": "United States",
-      "category": "Customer Solutions",
-      "level": "6",
-      "posted": "2026-09-04",
-      "url": "https://careers.united.com/us/en/job/IAH00005689"
-    },
-    {
-      "id": "IAH00005696",
-      "title": "Supt Rep - FltOps Business Ops",
-      "city": "Houston",
-      "state": "Texas",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "8",
-      "posted": "2026-09-04",
-      "url": "https://careers.united.com/us/en/job/IAH00005696"
-    },
-    {
-      "id": "FLL00000192",
-      "title": "Supervisor - Airport Operations",
-      "city": "Ft. Lauderdale",
-      "state": "Florida",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "6",
-      "posted": "2026-09-04",
-      "url": "https://careers.united.com/us/en/job/FLL00000192"
-    },
-    {
-      "id": "WHQ00026755",
-      "title": "Manager - Reliability",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Aircraft Maintenance and Support",
-      "level": "4",
-      "posted": "2026-09-04",
-      "url": "https://careers.united.com/us/en/job/WHQ00026755"
     }
   ]
 }
