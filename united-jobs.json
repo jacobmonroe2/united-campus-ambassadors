@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09",
+  "updated": "2026-09-10",
   "student": [
     {
       "id": "WHQ00026578",
@@ -123,6 +123,17 @@
       "url": "https://careers.united.com/us/en/job/WHQ00026459"
     },
     {
+      "id": "WHQ00026619",
+      "title": "Operations Strategy & Analytics Co-Op (Summer - Fall 2027)",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Student and Early Career",
+      "level": "0",
+      "posted": "2026-09-01",
+      "url": "https://careers.united.com/us/en/job/WHQ00026619"
+    },
+    {
       "id": "WHQ00026558",
       "title": "Intern- Sales Products (Summer 2027)",
       "city": "Chicago",
@@ -169,6 +180,94 @@
   ],
   "recent": [
     {
+      "id": "ORD00003611",
+      "title": "Shift Mgr - Aircraft Mtc",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Aircraft Maintenance and Support",
+      "level": "4",
+      "posted": "2026-09-10",
+      "url": "https://careers.united.com/us/en/job/ORD00003611"
+    },
+    {
+      "id": "WHQ00026543",
+      "title": "Product Manager - Information Technology",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Digital Technology",
+      "level": "4",
+      "posted": "2026-09-09",
+      "url": "https://careers.united.com/us/en/job/WHQ00026543"
+    },
+    {
+      "id": "WHQ00026835",
+      "title": "Executive Assistant",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "8",
+      "posted": "2026-09-09",
+      "url": "https://careers.united.com/us/en/job/WHQ00026835"
+    },
+    {
+      "id": "WHQ00026824",
+      "title": "Senior Manager, Application Development (.NET)",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Digital Technology",
+      "level": "3",
+      "posted": "2026-09-09",
+      "url": "https://careers.united.com/us/en/job/WHQ00026824"
+    },
+    {
+      "id": "SFO00005323",
+      "title": "Line Planner SP",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "category": "At the Airport",
+      "level": "Line/Hourly",
+      "posted": "2026-09-09",
+      "url": "https://careers.united.com/us/en/job/SFO00005323"
+    },
+    {
+      "id": "WHQ00026728",
+      "title": "Senior Data Scientist - Operations Research",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Digital Technology",
+      "level": "4",
+      "posted": "2026-09-09",
+      "url": "https://careers.united.com/us/en/job/WHQ00026728"
+    },
+    {
+      "id": "WHQ00026233",
+      "title": "Senior Developer - Information Technology",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Digital Technology",
+      "level": "4",
+      "posted": "2026-09-09",
+      "url": "https://careers.united.com/us/en/job/WHQ00026233"
+    },
+    {
+      "id": "FA2026-5",
+      "title": "Flight Attendant",
+      "city": "Houston",
+      "state": "Texas",
+      "country": "United States",
+      "category": "Flight Attendant",
+      "level": "Line/Hourly",
+      "posted": "2026-09-09",
+      "url": "https://careers.united.com/us/en/job/FA2026-5"
+    },
+    {
       "id": "HSC00001084",
       "title": "Senior Manager - Collaboration Platforms",
       "city": "Houston",
@@ -211,94 +310,6 @@
       "level": "Line/Hourly",
       "posted": "2026-09-08",
       "url": "https://careers.united.com/us/en/job/WHQ00026451"
-    },
-    {
-      "id": "WHQ00026819",
-      "title": "Intern - Flt Ops - Pilot - Professional Flight (Spring 2027)",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Student and Early Career",
-      "level": "0",
-      "posted": "2026-09-08",
-      "url": "https://careers.united.com/us/en/job/WHQ00026819"
-    },
-    {
-      "id": "IAH00005695",
-      "title": "Coord - Aprt Ops Station Suppt",
-      "city": "Houston",
-      "state": "Texas",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "9",
-      "posted": "2026-09-08",
-      "url": "https://careers.united.com/us/en/job/IAH00005695"
-    },
-    {
-      "id": "ORD00003656",
-      "title": "Ramp Service Employee - Part-Time",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "At the Airport",
-      "level": "Line/Hourly",
-      "posted": "2026-09-08",
-      "url": "https://careers.united.com/us/en/job/ORD00003656"
-    },
-    {
-      "id": "WHQ00026578",
-      "title": "Intern -MileagePlus (Summer 2027)",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Student and Early Career",
-      "level": "0",
-      "posted": "2026-09-08",
-      "url": "https://careers.united.com/us/en/job/WHQ00026578"
-    },
-    {
-      "id": "ORD00003654",
-      "title": "Ramp Service Employee - Full-Time",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "At the Airport",
-      "level": "Line/Hourly",
-      "posted": "2026-09-05",
-      "url": "https://careers.united.com/us/en/job/ORD00003654"
-    },
-    {
-      "id": "WHQ00026741",
-      "title": "Senior Business Analyst – Customer AI Automation",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Digital Technology",
-      "level": "4",
-      "posted": "2026-09-04",
-      "url": "https://careers.united.com/us/en/job/WHQ00026741"
-    },
-    {
-      "id": "WHQ00026530",
-      "title": "Intern - Clubs & Lounges (Summer 2027)",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Student and Early Career",
-      "level": "0",
-      "posted": "2026-09-04",
-      "url": "https://careers.united.com/us/en/job/WHQ00026530"
-    },
-    {
-      "id": "SMF00000120",
-      "title": "General Manager - Airport Operations",
-      "city": "Sacramento",
-      "state": "California",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "4",
-      "posted": "2026-09-04",
-      "url": "https://careers.united.com/us/en/job/SMF00000120"
     }
   ]
 }
