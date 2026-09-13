@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12",
+  "updated": "2026-09-13",
   "student": [
     {
       "id": "WHQ00026578",
@@ -180,6 +180,17 @@
   ],
   "recent": [
     {
+      "id": "SFO00005348",
+      "title": "Senior Metallurgy Engineer",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "category": "Aircraft Maintenance and Support",
+      "level": "5",
+      "posted": "2026-09-12",
+      "url": "https://careers.united.com/us/en/job/SFO00005348"
+    },
+    {
       "id": "DEN00006784",
       "title": "Ramp Service Employee - Part-Time",
       "city": "Denver",
@@ -189,17 +200,6 @@
       "level": "Line/Hourly",
       "posted": "2026-09-11",
       "url": "https://careers.united.com/us/en/job/DEN00006784"
-    },
-    {
-      "id": "SFO00005443",
-      "title": "Supervisor - Aircraft Maintenance",
-      "city": "San Francisco",
-      "state": "California",
-      "country": "United States",
-      "category": "Aircraft Maintenance and Support",
-      "level": "6",
-      "posted": "2026-09-11",
-      "url": "https://careers.united.com/us/en/job/SFO00005443"
     },
     {
       "id": "DEN00006799",
