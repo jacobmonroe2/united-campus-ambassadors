@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-13",
+  "updated": "2026-09-14",
   "student": [
     {
       "id": "WHQ00026578",
@@ -180,6 +180,61 @@
   ],
   "recent": [
     {
+      "id": "DFW00000280",
+      "title": "Supervisor - Airport Operations",
+      "city": "Dallas",
+      "state": "Texas",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "6",
+      "posted": "2026-09-14",
+      "url": "https://careers.united.com/us/en/job/DFW00000280"
+    },
+    {
+      "id": "IAD00002037",
+      "title": "Zone/Gate Control Manager",
+      "city": "Dulles",
+      "state": "Virginia",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "5",
+      "posted": "2026-09-14",
+      "url": "https://careers.united.com/us/en/job/IAD00002037"
+    },
+    {
+      "id": "IAD00002030",
+      "title": "Supervisor - Aircraft Maintenance",
+      "city": "Dulles",
+      "state": "Virginia",
+      "country": "United States",
+      "category": "Aircraft Maintenance and Support",
+      "level": "6",
+      "posted": "2026-09-14",
+      "url": "https://careers.united.com/us/en/job/IAD00002030"
+    },
+    {
+      "id": "SFO00005459",
+      "title": "Ramp Tower Controller - Air Traffic Strategy",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "6",
+      "posted": "2026-09-14",
+      "url": "https://careers.united.com/us/en/job/SFO00005459"
+    },
+    {
+      "id": "IAD00001995",
+      "title": "Customer Service Representative - Part-Time",
+      "city": "Dulles",
+      "state": "Virginia",
+      "country": "United States",
+      "category": "Customer Solutions",
+      "level": "Line/Hourly",
+      "posted": "2026-09-14",
+      "url": "https://careers.united.com/us/en/job/IAD00001995"
+    },
+    {
       "id": "SFO00005348",
       "title": "Senior Metallurgy Engineer",
       "city": "San Francisco",
@@ -189,17 +244,6 @@
       "level": "5",
       "posted": "2026-09-12",
       "url": "https://careers.united.com/us/en/job/SFO00005348"
-    },
-    {
-      "id": "DEN00006784",
-      "title": "Ramp Service Employee - Part-Time",
-      "city": "Denver",
-      "state": "Colorado",
-      "country": "United States",
-      "category": "At the Airport",
-      "level": "Line/Hourly",
-      "posted": "2026-09-11",
-      "url": "https://careers.united.com/us/en/job/DEN00006784"
     },
     {
       "id": "DEN00006799",
@@ -266,50 +310,6 @@
       "level": "Line/Hourly",
       "posted": "2026-09-11",
       "url": "https://careers.united.com/us/en/job/DEN00006862"
-    },
-    {
-      "id": "WHQ00026792",
-      "title": "Senior Manager - IT Service Desk",
-      "city": "Arlington Heights",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Digital Technology",
-      "level": "3",
-      "posted": "2026-09-11",
-      "url": "https://careers.united.com/us/en/job/WHQ00026792"
-    },
-    {
-      "id": "WHQ00026285",
-      "title": "Senior .NET Full Stack Developer - Information Technology",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Digital Technology",
-      "level": "4",
-      "posted": "2026-09-11",
-      "url": "https://careers.united.com/us/en/job/WHQ00026285"
-    },
-    {
-      "id": "WDC00000005",
-      "title": "Intern - Government Affairs (Summer 2027)",
-      "city": "Washington",
-      "state": "District of Columbia",
-      "country": "United States",
-      "category": "Student and Early Career",
-      "level": "0",
-      "posted": "2026-09-11",
-      "url": "https://careers.united.com/us/en/job/WDC00000005"
-    },
-    {
-      "id": "IAD00001941",
-      "title": "Facilities Maintenance Technician (Building Engineer) $10,000 Sign On Bonus",
-      "city": "Dulles",
-      "state": "Virginia",
-      "country": "United States",
-      "category": "At the Airport",
-      "level": "Line/Hourly",
-      "posted": "2026-09-11",
-      "url": "https://careers.united.com/us/en/job/IAD00001941"
     }
   ]
 }
