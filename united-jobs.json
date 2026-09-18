@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17",
+  "updated": "2026-09-18",
   "student": [
     {
       "id": "WHQ00026578",
@@ -24,15 +24,26 @@
       "url": "https://careers.united.com/us/en/job/WHQ00026500"
     },
     {
-      "id": "WHQ00026449",
-      "title": "Intern - Tech Ops Strategic Planning (Summer 2027)",
+      "id": "WHQ00026536",
+      "title": "Intern - Menu Design (Summer 2027)",
       "city": "Chicago",
       "state": "Illinois",
       "country": "United States",
       "category": "Student and Early Career",
       "level": "0",
-      "posted": "2026-09-16",
-      "url": "https://careers.united.com/us/en/job/WHQ00026449"
+      "posted": "2026-09-17",
+      "url": "https://careers.united.com/us/en/job/WHQ00026536"
+    },
+    {
+      "id": "WHQ00026424",
+      "title": "Intern - Cargo Operations (Summer 2027)",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Student and Early Career",
+      "level": "0",
+      "posted": "2026-09-17",
+      "url": "https://careers.united.com/us/en/job/WHQ00026424"
     },
     {
       "id": "WHQ00026604",
@@ -44,6 +55,28 @@
       "level": "0",
       "posted": "2026-09-01",
       "url": "https://careers.united.com/us/en/job/WHQ00026604"
+    },
+    {
+      "id": "WHQ00026449",
+      "title": "Intern - Tech Ops Strategic Planning (Summer 2027)",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Student and Early Career",
+      "level": "0",
+      "posted": "2026-09-16",
+      "url": "https://careers.united.com/us/en/job/WHQ00026449"
+    },
+    {
+      "id": "WHQ00026530",
+      "title": "Intern - Clubs & Lounges (Summer 2027)",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Student and Early Career",
+      "level": "0",
+      "posted": "2026-09-17",
+      "url": "https://careers.united.com/us/en/job/WHQ00026530"
     },
     {
       "id": "WHQ00026620",
@@ -79,26 +112,37 @@
       "url": "https://careers.united.com/us/en/job/WHQ00026611"
     },
     {
-      "id": "WHQ00026638",
-      "title": "Intern - Ops Strat Analytics (Summer 2027)",
+      "id": "WHQ00026459",
+      "title": "Industrial Engineering CO-OP",
       "city": "Chicago",
       "state": "Illinois",
       "country": "United States",
       "category": "Student and Early Career",
       "level": "0",
       "posted": "2026-09-16",
-      "url": "https://careers.united.com/us/en/job/WHQ00026638"
+      "url": "https://careers.united.com/us/en/job/WHQ00026459"
     },
     {
-      "id": "WHQ00026503",
-      "title": "Intern - Tech Ops Heavy Maintenance Planning (Summer 2027)",
+      "id": "WHQ00026619",
+      "title": "Operations Strategy & Analytics Co-Op (Summer - Fall 2027)",
       "city": "Chicago",
       "state": "Illinois",
       "country": "United States",
       "category": "Student and Early Career",
       "level": "0",
       "posted": "2026-09-16",
-      "url": "https://careers.united.com/us/en/job/WHQ00026503"
+      "url": "https://careers.united.com/us/en/job/WHQ00026619"
+    },
+    {
+      "id": "WHQ00026558",
+      "title": "Intern- Sales Products (Summer 2027)",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Student and Early Career",
+      "level": "0",
+      "posted": "2026-09-17",
+      "url": "https://careers.united.com/us/en/job/WHQ00026558"
     },
     {
       "id": "WHQ00026501",
@@ -110,162 +154,140 @@
       "level": "0",
       "posted": "2026-09-16",
       "url": "https://careers.united.com/us/en/job/WHQ00026501"
-    },
-    {
-      "id": "WHQ00026459",
-      "title": "Industrial Engineering CO-OP",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Student and Early Career",
-      "level": "0",
-      "posted": "2026-09-16",
-      "url": "https://careers.united.com/us/en/job/WHQ00026459"
-    },
-    {
-      "id": "WHQ00026619",
-      "title": "Operations Strategy & Analytics Co-Op (Summer - Fall 2027)",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Student and Early Career",
-      "level": "0",
-      "posted": "2026-09-16",
-      "url": "https://careers.united.com/us/en/job/WHQ00026619"
     }
   ],
   "recent": [
     {
-      "id": "ORD00003694",
-      "title": "Supervisor - Aircraft Maintenance",
+      "id": "ORD00003668",
+      "title": "Sheet Metal Technician - Line",
       "city": "Chicago",
       "state": "Illinois",
       "country": "United States",
-      "category": "Aircraft Maintenance and Support",
-      "level": "6",
-      "posted": "2026-09-17",
-      "url": "https://careers.united.com/us/en/job/ORD00003694"
+      "category": "At the Airport",
+      "level": "Line/Hourly",
+      "posted": "2026-09-18",
+      "url": "https://careers.united.com/us/en/job/ORD00003668"
     },
     {
-      "id": "PDX00000368",
-      "title": "Supervisor - Aircraft Maintenance",
-      "city": "Portland",
-      "state": "Oregon",
+      "id": "HNL00001292",
+      "title": "Customer Service Represntative - Japanese Interpreter",
+      "city": "Honolulu",
+      "state": "Hawaii",
+      "country": "United States",
+      "category": "Customer Solutions",
+      "level": "Line/Hourly",
+      "posted": "2026-09-18",
+      "url": "https://careers.united.com/us/en/job/HNL00001292"
+    },
+    {
+      "id": "EWR00004755",
+      "title": "Assistant Manager - Airport Operations Ramp Service",
+      "city": "Newark",
+      "state": "New Jersey",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "5",
+      "posted": "2026-09-18",
+      "url": "https://careers.united.com/us/en/job/EWR00004755"
+    },
+    {
+      "id": "SFO00005460",
+      "title": "Supervisor - Warehousing and Distribution",
+      "city": "San Francisco",
+      "state": "California",
       "country": "United States",
       "category": "Aircraft Maintenance and Support",
       "level": "6",
       "posted": "2026-09-17",
-      "url": "https://careers.united.com/us/en/job/PDX00000368"
+      "url": "https://careers.united.com/us/en/job/SFO00005460"
     },
     {
-      "id": "BOS00000355",
-      "title": "Ramp Service Employee - Part-Time",
-      "city": "Boston",
-      "state": "Massachusetts",
+      "id": "WHQ00026850",
+      "title": "Analyst - People Analytics (Hybrid)",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "6",
+      "posted": "2026-09-17",
+      "url": "https://careers.united.com/us/en/job/WHQ00026850"
+    },
+    {
+      "id": "WHQ00026882",
+      "title": "Senior Manager - Application Development",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Digital Technology",
+      "level": "3",
+      "posted": "2026-09-17",
+      "url": "https://careers.united.com/us/en/job/WHQ00026882"
+    },
+    {
+      "id": "WHQ00026860",
+      "title": "Principal Analyst - Digital Compliance (Remote)",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Digital Technology",
+      "level": "3",
+      "posted": "2026-09-17",
+      "url": "https://careers.united.com/us/en/job/WHQ00026860"
+    },
+    {
+      "id": "WHQ00026859",
+      "title": "Associate Analyst – Retirement Plans (Hybrid)",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "7",
+      "posted": "2026-09-17",
+      "url": "https://careers.united.com/us/en/job/WHQ00026859"
+    },
+    {
+      "id": "ORD00003689",
+      "title": "Supervisor - Ramp Service Airport Operations",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "6",
+      "posted": "2026-09-17",
+      "url": "https://careers.united.com/us/en/job/ORD00003689"
+    },
+    {
+      "id": "HSC00001095",
+      "title": "Senior Developer - Information Technology",
+      "city": "Houston",
+      "state": "Texas",
+      "country": "United States",
+      "category": "Digital Technology",
+      "level": "4",
+      "posted": "2026-09-17",
+      "url": "https://careers.united.com/us/en/job/HSC00001095"
+    },
+    {
+      "id": "WHQ00026558",
+      "title": "Intern- Sales Products (Summer 2027)",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Student and Early Career",
+      "level": "0",
+      "posted": "2026-09-17",
+      "url": "https://careers.united.com/us/en/job/WHQ00026558"
+    },
+    {
+      "id": "IAD00001979",
+      "title": "Ground Service Equipment Technician (Automotive and Diesel)  - $10,000 Sign on Bonus",
+      "city": "Dulles",
+      "state": "Virginia",
       "country": "United States",
       "category": "At the Airport",
       "level": "Line/Hourly",
       "posted": "2026-09-17",
-      "url": "https://careers.united.com/us/en/job/BOS00000355"
-    },
-    {
-      "id": "SNA00000306",
-      "title": "Customer Service Representative - Full-Time",
-      "city": "Orange County",
-      "state": "California",
-      "country": "United States",
-      "category": "Customer Solutions",
-      "level": "Line/Hourly",
-      "posted": "2026-09-17",
-      "url": "https://careers.united.com/us/en/job/SNA00000306"
-    },
-    {
-      "id": "DEN00006877",
-      "title": "Supervisor - Airport Operations Customer Service",
-      "city": "Denver",
-      "state": "Colorado",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "6",
-      "posted": "2026-09-16",
-      "url": "https://careers.united.com/us/en/job/DEN00006877"
-    },
-    {
-      "id": "WHQ00026459",
-      "title": "Industrial Engineering CO-OP",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Student and Early Career",
-      "level": "0",
-      "posted": "2026-09-16",
-      "url": "https://careers.united.com/us/en/job/WHQ00026459"
-    },
-    {
-      "id": "WHQ00026460",
-      "title": "Research Scholar - Statistics",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Student and Early Career",
-      "level": "0",
-      "posted": "2026-09-16",
-      "url": "https://careers.united.com/us/en/job/WHQ00026460"
-    },
-    {
-      "id": "WHQ00026620",
-      "title": "Intern Ops Data Product & Anlytcs (Summer 2027)",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Student and Early Career",
-      "level": "0",
-      "posted": "2026-09-16",
-      "url": "https://careers.united.com/us/en/job/WHQ00026620"
-    },
-    {
-      "id": "WHQ00026638",
-      "title": "Intern - Ops Strat Analytics (Summer 2027)",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Student and Early Career",
-      "level": "0",
-      "posted": "2026-09-16",
-      "url": "https://careers.united.com/us/en/job/WHQ00026638"
-    },
-    {
-      "id": "WHQ00026613",
-      "title": "Intern - Air Traffic Strategy Data Analytics (Summer 2027)",
-      "city": "Arlington Heights",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Student and Early Career",
-      "level": "0",
-      "posted": "2026-09-16",
-      "url": "https://careers.united.com/us/en/job/WHQ00026613"
-    },
-    {
-      "id": "WHQ00026468",
-      "title": "Research Scholar - Operations Research",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Student and Early Career",
-      "level": "0",
-      "posted": "2026-09-16",
-      "url": "https://careers.united.com/us/en/job/WHQ00026468"
-    },
-    {
-      "id": "WHQ00026619",
-      "title": "Operations Strategy & Analytics Co-Op (Summer - Fall 2027)",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Student and Early Career",
-      "level": "0",
-      "posted": "2026-09-16",
-      "url": "https://careers.united.com/us/en/job/WHQ00026619"
+      "url": "https://careers.united.com/us/en/job/IAD00001979"
     }
   ]
 }
