@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19",
+  "updated": "2026-09-20",
   "student": [
     {
       "id": "WHQ00026578",
@@ -180,17 +180,6 @@
       "url": "https://careers.united.com/us/en/job/HNL00001297"
     },
     {
-      "id": "ORD00003668",
-      "title": "Sheet Metal Technician - Line",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "At the Airport",
-      "level": "Line/Hourly",
-      "posted": "2026-09-18",
-      "url": "https://careers.united.com/us/en/job/ORD00003668"
-    },
-    {
       "id": "HNL00001292",
       "title": "Customer Service Represntative - Japanese Interpreter",
       "city": "Honolulu",
@@ -244,6 +233,17 @@
       "level": "3",
       "posted": "2026-09-17",
       "url": "https://careers.united.com/us/en/job/WHQ00026882"
+    },
+    {
+      "id": "WHQ00026860",
+      "title": "Principal Analyst - Digital Compliance (Remote)",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Digital Technology",
+      "level": "3",
+      "posted": "2026-09-17",
+      "url": "https://careers.united.com/us/en/job/WHQ00026860"
     }
   ]
 }
