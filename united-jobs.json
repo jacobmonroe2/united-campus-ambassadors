@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21",
+  "updated": "2026-09-22",
   "student": [
     {
       "id": "WHQ00026578",
@@ -13,17 +13,6 @@
       "url": "https://careers.united.com/us/en/job/WHQ00026578"
     },
     {
-      "id": "WHQ00026500",
-      "title": "Intern – Tech Ops EA Planning (Summer 2027)",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Student and Early Career",
-      "level": "0",
-      "posted": "2026-09-16",
-      "url": "https://careers.united.com/us/en/job/WHQ00026500"
-    },
-    {
       "id": "WHQ00026604",
       "title": "Intern - Facilities & GSE Maintenance (Summer 2027)",
       "city": "Chicago",
@@ -35,28 +24,6 @@
       "url": "https://careers.united.com/us/en/job/WHQ00026604"
     },
     {
-      "id": "WHQ00026449",
-      "title": "Intern - Tech Ops Strategic Planning (Summer 2027)",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Student and Early Career",
-      "level": "0",
-      "posted": "2026-09-16",
-      "url": "https://careers.united.com/us/en/job/WHQ00026449"
-    },
-    {
-      "id": "WHQ00026502",
-      "title": "Intern - Tech Ops Heavy Maintenance Execution Strategy (Summer 2027)",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Student and Early Career",
-      "level": "0",
-      "posted": "2026-09-16",
-      "url": "https://careers.united.com/us/en/job/WHQ00026502"
-    },
-    {
       "id": "WHQ00026611",
       "title": "Intern - Global Supply Chain and MRO Shops (Summer 2027)",
       "city": "Chicago",
@@ -66,28 +33,6 @@
       "level": "0",
       "posted": "2026-09-01",
       "url": "https://careers.united.com/us/en/job/WHQ00026611"
-    },
-    {
-      "id": "WHQ00026503",
-      "title": "Intern - Tech Ops Heavy Maintenance Planning (Summer 2027)",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Student and Early Career",
-      "level": "0",
-      "posted": "2026-09-16",
-      "url": "https://careers.united.com/us/en/job/WHQ00026503"
-    },
-    {
-      "id": "WHQ00026501",
-      "title": "Intern - Tech Ops Heavy Maintenance Contract Strategy - (Summer 2027)",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Student and Early Career",
-      "level": "0",
-      "posted": "2026-09-16",
-      "url": "https://careers.united.com/us/en/job/WHQ00026501"
     },
     {
       "id": "WHQ00026819",
@@ -113,6 +58,61 @@
     }
   ],
   "recent": [
+    {
+      "id": "DEN00006912",
+      "title": "Supervisor - Aircraft Maintenance",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "category": "Aircraft Maintenance and Support",
+      "level": "6",
+      "posted": "2026-09-22",
+      "url": "https://careers.united.com/us/en/job/DEN00006912"
+    },
+    {
+      "id": "WHQ00026828",
+      "title": "Developer - Information Technology",
+      "city": "Arlington Heights",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Digital Technology",
+      "level": "5",
+      "posted": "2026-09-22",
+      "url": "https://careers.united.com/us/en/job/WHQ00026828"
+    },
+    {
+      "id": "BOS00000360",
+      "title": "Supervisor - Aircraft Maintenance",
+      "city": "Boston",
+      "state": "Massachusetts",
+      "country": "United States",
+      "category": "Aircraft Maintenance and Support",
+      "level": "6",
+      "posted": "2026-09-22",
+      "url": "https://careers.united.com/us/en/job/BOS00000360"
+    },
+    {
+      "id": "WHQ00026614",
+      "title": "Sr Analyst - Ops Product Delivery",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "5",
+      "posted": "2026-09-21",
+      "url": "https://careers.united.com/us/en/job/WHQ00026614"
+    },
+    {
+      "id": "SFO00005462",
+      "title": "Sr Analyst - Engine Planning",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "category": "Aircraft Maintenance and Support",
+      "level": "5",
+      "posted": "2026-09-21",
+      "url": "https://careers.united.com/us/en/job/SFO00005462"
+    },
     {
       "id": "HSC00001084",
       "title": "Senior Manager - Collaboration Platforms",
@@ -178,28 +178,6 @@
       "level": "Line/Hourly",
       "posted": "2026-09-18",
       "url": "https://careers.united.com/us/en/job/SFO00005332-1"
-    },
-    {
-      "id": "WHQ00026818",
-      "title": "Principal Full Stack Developer - Java, React",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Digital Technology",
-      "level": "3",
-      "posted": "2026-09-18",
-      "url": "https://careers.united.com/us/en/job/WHQ00026818"
-    },
-    {
-      "id": "HNL00001297",
-      "title": "Ramp Service Employee - Part-Time",
-      "city": "Honolulu",
-      "state": "Hawaii",
-      "country": "United States",
-      "category": "At the Airport",
-      "level": "Line/Hourly",
-      "posted": "2026-09-18",
-      "url": "https://careers.united.com/us/en/job/HNL00001297"
     }
   ]
 }
