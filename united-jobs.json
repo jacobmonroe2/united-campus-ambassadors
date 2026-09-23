@@ -1,17 +1,6 @@
 {
-  "updated": "2026-09-22",
+  "updated": "2026-09-23",
   "student": [
-    {
-      "id": "WHQ00026578",
-      "title": "Intern -MileagePlus (Summer 2027)",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Student and Early Career",
-      "level": "0",
-      "posted": "2026-09-10",
-      "url": "https://careers.united.com/us/en/job/WHQ00026578"
-    },
     {
       "id": "WHQ00026604",
       "title": "Intern - Facilities & GSE Maintenance (Summer 2027)",
@@ -35,17 +24,6 @@
       "url": "https://careers.united.com/us/en/job/WHQ00026611"
     },
     {
-      "id": "WHQ00026819",
-      "title": "Intern - Flt Ops - Pilot - Professional Flight (Spring 2027)",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Student and Early Career",
-      "level": "0",
-      "posted": "2026-09-08",
-      "url": "https://careers.united.com/us/en/job/WHQ00026819"
-    },
-    {
       "id": "WHQ00026615-1",
       "title": "Intern/Co-op - Tech Ops Engineering (2027)",
       "city": "Chicago",
@@ -59,125 +37,136 @@
   ],
   "recent": [
     {
-      "id": "DEN00006912",
-      "title": "Supervisor - Aircraft Maintenance",
+      "id": "SFO00005357-1",
+      "title": "Facilities Maintenance Technician ($20,000 Sign-On Bonus)",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "category": "At the Airport",
+      "level": "Line/Hourly",
+      "posted": "2026-09-23",
+      "url": "https://careers.united.com/us/en/job/SFO00005357-1"
+    },
+    {
+      "id": "HNL00001300",
+      "title": "Supervisor - Airport Operations",
+      "city": "Honolulu",
+      "state": "Hawaii",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "6",
+      "posted": "2026-09-22",
+      "url": "https://careers.united.com/us/en/job/HNL00001300"
+    },
+    {
+      "id": "DEN00006707",
+      "title": "Flight Simulator Technician",
       "city": "Denver",
       "state": "Colorado",
       "country": "United States",
-      "category": "Aircraft Maintenance and Support",
-      "level": "6",
+      "category": "At the Airport",
+      "level": "Line/Hourly",
       "posted": "2026-09-22",
-      "url": "https://careers.united.com/us/en/job/DEN00006912"
+      "url": "https://careers.united.com/us/en/job/DEN00006707"
     },
     {
-      "id": "WHQ00026828",
-      "title": "Developer - Information Technology",
-      "city": "Arlington Heights",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Digital Technology",
-      "level": "5",
-      "posted": "2026-09-22",
-      "url": "https://careers.united.com/us/en/job/WHQ00026828"
-    },
-    {
-      "id": "BOS00000360",
-      "title": "Supervisor - Aircraft Maintenance",
-      "city": "Boston",
-      "state": "Massachusetts",
-      "country": "United States",
-      "category": "Aircraft Maintenance and Support",
-      "level": "6",
-      "posted": "2026-09-22",
-      "url": "https://careers.united.com/us/en/job/BOS00000360"
-    },
-    {
-      "id": "WHQ00026614",
-      "title": "Sr Analyst - Ops Product Delivery",
+      "id": "WHQ00026886",
+      "title": "Senior Analyst-Domestic Planning",
       "city": "Chicago",
       "state": "Illinois",
       "country": "United States",
       "category": "Corporate",
       "level": "5",
-      "posted": "2026-09-21",
-      "url": "https://careers.united.com/us/en/job/WHQ00026614"
+      "posted": "2026-09-22",
+      "url": "https://careers.united.com/us/en/job/WHQ00026886"
     },
     {
-      "id": "SFO00005462",
-      "title": "Sr Analyst - Engine Planning",
-      "city": "San Francisco",
-      "state": "California",
+      "id": "CLE00000748",
+      "title": "Sheet Metal Technician - Line",
+      "city": "Cleveland",
+      "state": "Ohio",
       "country": "United States",
-      "category": "Aircraft Maintenance and Support",
-      "level": "5",
-      "posted": "2026-09-21",
-      "url": "https://careers.united.com/us/en/job/SFO00005462"
+      "category": "At the Airport",
+      "level": "Line/Hourly",
+      "posted": "2026-09-22",
+      "url": "https://careers.united.com/us/en/job/CLE00000748"
     },
     {
-      "id": "HSC00001084",
-      "title": "Senior Manager - Collaboration Platforms",
-      "city": "Houston",
-      "state": "Texas",
+      "id": "CLE00000747",
+      "title": "Avionics Technician - Line",
+      "city": "Cleveland",
+      "state": "Ohio",
+      "country": "United States",
+      "category": "At the Airport",
+      "level": "Line/Hourly",
+      "posted": "2026-09-22",
+      "url": "https://careers.united.com/us/en/job/CLE00000747"
+    },
+    {
+      "id": "WHQ00026835",
+      "title": "Executive Assistant",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "8",
+      "posted": "2026-09-22",
+      "url": "https://careers.united.com/us/en/job/WHQ00026835"
+    },
+    {
+      "id": "WHQ00026677",
+      "title": "Senior Analyst - Financial Planning and Analysis (Campus 2027 Hires/New Grads)",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Student and Early Career",
+      "level": "5",
+      "posted": "2026-09-22",
+      "url": "https://careers.united.com/us/en/job/WHQ00026677"
+    },
+    {
+      "id": "WHQ00026879",
+      "title": "Sr Mgr - E&O Automation & AI",
+      "city": "Chicago",
+      "state": "Illinois",
       "country": "United States",
       "category": "Digital Technology",
       "level": "3",
-      "posted": "2026-09-21",
-      "url": "https://careers.united.com/us/en/job/HSC00001084"
+      "posted": "2026-09-22",
+      "url": "https://careers.united.com/us/en/job/WHQ00026879"
     },
     {
-      "id": "HSC00001098",
-      "title": "Senior Developer - Information Technology",
-      "city": "Houston",
-      "state": "Texas",
+      "id": "WHQ00026675",
+      "title": "Associate Analyst - Financial Planning and Analysis (Campus 2027 Hires/New Grads)",
+      "city": "Chicago",
+      "state": "Illinois",
       "country": "United States",
-      "category": "Digital Technology",
-      "level": "4",
-      "posted": "2026-09-21",
-      "url": "https://careers.united.com/us/en/job/HSC00001098"
+      "category": "Student and Early Career",
+      "level": "7",
+      "posted": "2026-09-22",
+      "url": "https://careers.united.com/us/en/job/WHQ00026675"
     },
     {
-      "id": "MCO00000736",
-      "title": "Senior Engineer",
-      "city": "Orlando",
-      "state": "Florida",
-      "country": "United States",
-      "category": "Aircraft Maintenance and Support",
-      "level": "5",
-      "posted": "2026-09-21",
-      "url": "https://careers.united.com/us/en/job/MCO00000736"
-    },
-    {
-      "id": "IAD00002022",
-      "title": "Material Handler / Storekeeper - Full Time",
-      "city": "Dulles",
-      "state": "Virginia",
-      "country": "United States",
-      "category": "At the Airport",
-      "level": "Line/Hourly",
-      "posted": "2026-09-21",
-      "url": "https://careers.united.com/us/en/job/IAD00002022"
-    },
-    {
-      "id": "IAD00002045",
-      "title": "Supervisor - Customer Service Airport Operations",
-      "city": "Dulles",
-      "state": "Virginia",
+      "id": "DEN00006907",
+      "title": "Manager - Training Deployment (Onsite)",
+      "city": "Denver",
+      "state": "Colorado",
       "country": "United States",
       "category": "Corporate",
-      "level": "6",
-      "posted": "2026-09-19",
-      "url": "https://careers.united.com/us/en/job/IAD00002045"
+      "level": "4",
+      "posted": "2026-09-22",
+      "url": "https://careers.united.com/us/en/job/DEN00006907"
     },
     {
-      "id": "SFO00005332-1",
-      "title": "Security Officer",
-      "city": "San Francisco",
-      "state": "California",
+      "id": "WHQ00026890",
+      "title": "Manager - Premium Services Planning (Hybrid)",
+      "city": "Chicago",
+      "state": "Illinois",
       "country": "United States",
-      "category": "At the Airport",
-      "level": "Line/Hourly",
-      "posted": "2026-09-18",
-      "url": "https://careers.united.com/us/en/job/SFO00005332-1"
+      "category": "Customer Solutions",
+      "level": "4",
+      "posted": "2026-09-22",
+      "url": "https://careers.united.com/us/en/job/WHQ00026890"
     }
   ]
 }
