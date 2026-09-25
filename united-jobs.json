@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24",
+  "updated": "2026-09-25",
   "student": [
     {
       "id": "WHQ00026604",
@@ -36,6 +36,72 @@
     }
   ],
   "recent": [
+    {
+      "id": "EWR00004748",
+      "title": "Senior Manager - Airport Operations Projects and Execution",
+      "city": "Newark",
+      "state": "New Jersey",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "3",
+      "posted": "2026-09-25",
+      "url": "https://careers.united.com/us/en/job/EWR00004748"
+    },
+    {
+      "id": "LAX00001771",
+      "title": "Supt Rep - FltOps Business Ops",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "8",
+      "posted": "2026-09-25",
+      "url": "https://careers.united.com/us/en/job/LAX00001771"
+    },
+    {
+      "id": "DEN00006913",
+      "title": "Supervisor - Training Service Center",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "6",
+      "posted": "2026-09-25",
+      "url": "https://careers.united.com/us/en/job/DEN00006913"
+    },
+    {
+      "id": "WHQ00026891",
+      "title": "Counsel - Antitrust and Global Competition",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "2",
+      "posted": "2026-09-24",
+      "url": "https://careers.united.com/us/en/job/WHQ00026891"
+    },
+    {
+      "id": "HSC00001100",
+      "title": "Senior Developer - Information Technology",
+      "city": "Houston",
+      "state": "Texas",
+      "country": "United States",
+      "category": "Digital Technology",
+      "level": "4",
+      "posted": "2026-09-24",
+      "url": "https://careers.united.com/us/en/job/HSC00001100"
+    },
+    {
+      "id": "WHQ00026543",
+      "title": "Product Manager - Information Technology",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Digital Technology",
+      "level": "4",
+      "posted": "2026-09-24",
+      "url": "https://careers.united.com/us/en/job/WHQ00026543"
+    },
     {
       "id": "DEN00006902",
       "title": "Senior Manager - Simulator Maintenance and Engineering",
@@ -101,72 +167,6 @@
       "level": "5",
       "posted": "2026-09-23",
       "url": "https://careers.united.com/us/en/job/WHQ00026872"
-    },
-    {
-      "id": "IAD00002039",
-      "title": "Zone/Gate Control Manager",
-      "city": "Dulles",
-      "state": "Virginia",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "5",
-      "posted": "2026-09-23",
-      "url": "https://careers.united.com/us/en/job/IAD00002039"
-    },
-    {
-      "id": "IAD00002002",
-      "title": "Supervisor - AO Premium Services (Onsite)",
-      "city": "Dulles",
-      "state": "Virginia",
-      "country": "United States",
-      "category": "Customer Solutions",
-      "level": "6",
-      "posted": "2026-09-23",
-      "url": "https://careers.united.com/us/en/job/IAD00002002"
-    },
-    {
-      "id": "EWR00004746",
-      "title": "Manager - Station Operations Center",
-      "city": "Newark",
-      "state": "New Jersey",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "4",
-      "posted": "2026-09-23",
-      "url": "https://careers.united.com/us/en/job/EWR00004746"
-    },
-    {
-      "id": "SFO00005357-1",
-      "title": "Facilities Maintenance Technician ($20,000 Sign-On Bonus)",
-      "city": "San Francisco",
-      "state": "California",
-      "country": "United States",
-      "category": "At the Airport",
-      "level": "Line/Hourly",
-      "posted": "2026-09-23",
-      "url": "https://careers.united.com/us/en/job/SFO00005357-1"
-    },
-    {
-      "id": "HNL00001300",
-      "title": "Supervisor - Airport Operations",
-      "city": "Honolulu",
-      "state": "Hawaii",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "6",
-      "posted": "2026-09-22",
-      "url": "https://careers.united.com/us/en/job/HNL00001300"
-    },
-    {
-      "id": "DEN00006707",
-      "title": "Flight Simulator Technician",
-      "city": "Denver",
-      "state": "Colorado",
-      "country": "United States",
-      "category": "At the Airport",
-      "level": "Line/Hourly",
-      "posted": "2026-09-22",
-      "url": "https://careers.united.com/us/en/job/DEN00006707"
     }
   ]
 }
