@@ -1,7 +1,29 @@
 {
-  "updated": "2026-09-26",
+  "updated": "2026-09-27",
   "student": [],
   "recent": [
+    {
+      "id": "WHQ00026880",
+      "title": "Analyst - Technical Operations Strategic Planning",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Aircraft Maintenance and Support",
+      "level": "6",
+      "posted": "2026-09-27",
+      "url": "https://careers.united.com/us/en/job/WHQ00026880"
+    },
+    {
+      "id": "IAH00005699",
+      "title": "Assistant Manager - AO Business Office",
+      "city": "Houston",
+      "state": "Texas",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "5",
+      "posted": "2026-09-26",
+      "url": "https://careers.united.com/us/en/job/IAH00005699"
+    },
     {
       "id": "WHQ00026868",
       "title": "Program Manager - GSE & Facility Asset Planning",
@@ -111,28 +133,6 @@
       "level": "4",
       "posted": "2026-09-24",
       "url": "https://careers.united.com/us/en/job/WHQ00026543"
-    },
-    {
-      "id": "DEN00006902",
-      "title": "Senior Manager - Simulator Maintenance and Engineering",
-      "city": "Denver",
-      "state": "Colorado",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "3",
-      "posted": "2026-09-24",
-      "url": "https://careers.united.com/us/en/job/DEN00006902"
-    },
-    {
-      "id": "WHQ00026889",
-      "title": "Project Manager - HR (Hybrid)",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "4",
-      "posted": "2026-09-23",
-      "url": "https://careers.united.com/us/en/job/WHQ00026889"
     }
   ]
 }
