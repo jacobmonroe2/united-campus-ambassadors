@@ -1,7 +1,128 @@
 {
-  "updated": "2026-09-29",
+  "updated": "2026-09-30",
   "student": [],
   "recent": [
+    {
+      "id": "WHQ00026864",
+      "title": "Senior Enterprise Integration Platform Developer / Technical Lead",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Digital Technology",
+      "level": "4",
+      "posted": "2026-09-30",
+      "url": "https://careers.united.com/us/en/job/WHQ00026864"
+    },
+    {
+      "id": "WHQ00026873",
+      "title": "Senior Engineer – Identity & Access Management (Remote)",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Digital Technology",
+      "level": "4",
+      "posted": "2026-09-30",
+      "url": "https://careers.united.com/us/en/job/WHQ00026873"
+    },
+    {
+      "id": "EWR00004769",
+      "title": "Lead Ramp Service Employee",
+      "city": "Newark",
+      "state": "New Jersey",
+      "country": "United States",
+      "category": "At the Airport",
+      "level": "Line/Hourly",
+      "posted": "2026-09-30",
+      "url": "https://careers.united.com/us/en/job/EWR00004769"
+    },
+    {
+      "id": "SNA00000308",
+      "title": "Supervisor - Airport Operations",
+      "city": "Orange County",
+      "state": "California",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "6",
+      "posted": "2026-09-30",
+      "url": "https://careers.united.com/us/en/job/SNA00000308"
+    },
+    {
+      "id": "OPB00001005",
+      "title": "MD - NOC Daily Operations",
+      "city": "Arlington Heights",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "1",
+      "posted": "2026-09-30",
+      "url": "https://careers.united.com/us/en/job/OPB00001005"
+    },
+    {
+      "id": "HSC00001101",
+      "title": "Sr Manager - IT Application Development",
+      "city": "Houston",
+      "state": "Texas",
+      "country": "United States",
+      "category": "Digital Technology",
+      "level": "3",
+      "posted": "2026-09-29",
+      "url": "https://careers.united.com/us/en/job/HSC00001101"
+    },
+    {
+      "id": "SFO00005445",
+      "title": "Ramp Service Employee - Full-Time",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "category": "At the Airport",
+      "level": "Line/Hourly",
+      "posted": "2026-09-29",
+      "url": "https://careers.united.com/us/en/job/SFO00005445"
+    },
+    {
+      "id": "PIT00000276",
+      "title": "Ramp Service Employee - Part-Time",
+      "city": "Pittsburgh",
+      "state": "Pennsylvania",
+      "country": "United States",
+      "category": "At the Airport",
+      "level": "Line/Hourly",
+      "posted": "2026-09-29",
+      "url": "https://careers.united.com/us/en/job/PIT00000276"
+    },
+    {
+      "id": "WHQ00026861",
+      "title": "Data Analytics Manager",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Digital Technology",
+      "level": "4",
+      "posted": "2026-09-29",
+      "url": "https://careers.united.com/us/en/job/WHQ00026861"
+    },
+    {
+      "id": "ORD00003657",
+      "title": "Assistant Manager - Aircraft Maintenance",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Aircraft Maintenance and Support",
+      "level": "5",
+      "posted": "2026-09-29",
+      "url": "https://careers.united.com/us/en/job/ORD00003657"
+    },
+    {
+      "id": "WHQ00026865",
+      "title": "Specialist - Responsible Sourcing (Hybrid)",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "6",
+      "posted": "2026-09-29",
+      "url": "https://careers.united.com/us/en/job/WHQ00026865"
+    },
     {
       "id": "WHQ00026909",
       "title": "Analyst - Business Partner Insights & Solutions",
@@ -12,116 +133,6 @@
       "level": "6",
       "posted": "2026-09-29",
       "url": "https://careers.united.com/us/en/job/WHQ00026909"
-    },
-    {
-      "id": "WHQ00026903",
-      "title": "Senior Analyst - Tech Ops Analytics",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Aircraft Maintenance and Support",
-      "level": "5",
-      "posted": "2026-09-29",
-      "url": "https://careers.united.com/us/en/job/WHQ00026903"
-    },
-    {
-      "id": "IAH00005706",
-      "title": "Supervisor - Customer Service Airport Operations",
-      "city": "Houston",
-      "state": "Texas",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "6",
-      "posted": "2026-09-29",
-      "url": "https://careers.united.com/us/en/job/IAH00005706"
-    },
-    {
-      "id": "WHQ00026885",
-      "title": "Analyst - Cargo Business Intelligence",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "6",
-      "posted": "2026-09-28",
-      "url": "https://careers.united.com/us/en/job/WHQ00026885"
-    },
-    {
-      "id": "LAX00001572-A",
-      "title": "Senior Line Engineer | Onsite |Overnight shift",
-      "city": "Los Angeles",
-      "state": "California",
-      "country": "United States",
-      "category": "Aircraft Maintenance and Support",
-      "level": "5",
-      "posted": "2026-09-28",
-      "url": "https://careers.united.com/us/en/job/LAX00001572-A"
-    },
-    {
-      "id": "WHQ00026913",
-      "title": "Managing Director – Technical Operations Planning",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Aircraft Maintenance and Support",
-      "level": "1",
-      "posted": "2026-09-28",
-      "url": "https://careers.united.com/us/en/job/WHQ00026913"
-    },
-    {
-      "id": "PDX00000362",
-      "title": "Line Technician",
-      "city": "Portland",
-      "state": "Oregon",
-      "country": "United States",
-      "category": "At the Airport",
-      "level": "Line/Hourly",
-      "posted": "2026-09-28",
-      "url": "https://careers.united.com/us/en/job/PDX00000362"
-    },
-    {
-      "id": "PDX00000370",
-      "title": "Coordinator - Maintenance Business Operations",
-      "city": "Portland",
-      "state": "Oregon",
-      "country": "United States",
-      "category": "Aircraft Maintenance and Support",
-      "level": "8",
-      "posted": "2026-09-28",
-      "url": "https://careers.united.com/us/en/job/PDX00000370"
-    },
-    {
-      "id": "WHQ00026566",
-      "title": "Senior Manager - Asset Trading",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "3",
-      "posted": "2026-09-28",
-      "url": "https://careers.united.com/us/en/job/WHQ00026566"
-    },
-    {
-      "id": "WHQ00026876",
-      "title": "Senior Investigator - Internal Investigations (Hybrid)",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "5",
-      "posted": "2026-09-28",
-      "url": "https://careers.united.com/us/en/job/WHQ00026876"
-    },
-    {
-      "id": "IAD00002018",
-      "title": "Project Manager II - CRE - Planning and Development",
-      "city": "Dulles",
-      "state": "Virginia",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "4",
-      "posted": "2026-09-28",
-      "url": "https://careers.united.com/us/en/job/IAD00002018"
     }
   ]
 }
