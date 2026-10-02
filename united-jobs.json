@@ -1,7 +1,117 @@
 {
-  "updated": "2026-10-01",
+  "updated": "2026-10-02",
   "student": [],
   "recent": [
+    {
+      "id": "IAH00005720",
+      "title": "Manager - Deferral Management",
+      "city": "Houston",
+      "state": "Texas",
+      "country": "United States",
+      "category": "Aircraft Maintenance and Support",
+      "level": "4",
+      "posted": "2026-10-02",
+      "url": "https://careers.united.com/us/en/job/IAH00005720"
+    },
+    {
+      "id": "HSC00001102",
+      "title": "Associate Analyst - Payroll Operations (Hybrid)",
+      "city": "Houston",
+      "state": "Texas",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "7",
+      "posted": "2026-10-02",
+      "url": "https://careers.united.com/us/en/job/HSC00001102"
+    },
+    {
+      "id": "EWR00004765",
+      "title": "Coordinator - Airport Operations Station Support",
+      "city": "Newark",
+      "state": "New Jersey",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "9",
+      "posted": "2026-10-02",
+      "url": "https://careers.united.com/us/en/job/EWR00004765"
+    },
+    {
+      "id": "IAD00002030",
+      "title": "Supervisor - Aircraft Maintenance",
+      "city": "Dulles",
+      "state": "Virginia",
+      "country": "United States",
+      "category": "Aircraft Maintenance and Support",
+      "level": "6",
+      "posted": "2026-10-02",
+      "url": "https://careers.united.com/us/en/job/IAD00002030"
+    },
+    {
+      "id": "EWR00004751",
+      "title": "Material Handler / Storekeeper - Full Time",
+      "city": "Newark",
+      "state": "New Jersey",
+      "country": "United States",
+      "category": "At the Airport",
+      "level": "Line/Hourly",
+      "posted": "2026-10-02",
+      "url": "https://careers.united.com/us/en/job/EWR00004751"
+    },
+    {
+      "id": "WHQ00026915",
+      "title": "Senior Manager - Sales Information Systems",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "3",
+      "posted": "2026-10-02",
+      "url": "https://careers.united.com/us/en/job/WHQ00026915"
+    },
+    {
+      "id": "WHQ00026755",
+      "title": "Manager - Reliability",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Aircraft Maintenance and Support",
+      "level": "4",
+      "posted": "2026-10-01",
+      "url": "https://careers.united.com/us/en/job/WHQ00026755"
+    },
+    {
+      "id": "WHQ00026912",
+      "title": "Counsel - Privacy",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "2",
+      "posted": "2026-10-01",
+      "url": "https://careers.united.com/us/en/job/WHQ00026912"
+    },
+    {
+      "id": "WHQ00026906",
+      "title": "Sr Engineer - Identity Governance & Administration (Remote)",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Digital Technology",
+      "level": "4",
+      "posted": "2026-10-01",
+      "url": "https://careers.united.com/us/en/job/WHQ00026906"
+    },
+    {
+      "id": "IAH00005671",
+      "title": "Assistant Manager - Aircraft Tooling (Supply Chain Forecasting)",
+      "city": "Houston",
+      "state": "Texas",
+      "country": "United States",
+      "category": "Aircraft Maintenance and Support",
+      "level": "5",
+      "posted": "2026-10-01",
+      "url": "https://careers.united.com/us/en/job/IAH00005671"
+    },
     {
       "id": "WHQ00026827",
       "title": "Developer - Information Technology",
@@ -23,116 +133,6 @@
       "level": "5",
       "posted": "2026-09-30",
       "url": "https://careers.united.com/us/en/job/WHQ00026870"
-    },
-    {
-      "id": "WHQ00026902",
-      "title": "Sr. Manager - IT App Dev Loyalty ",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Digital Technology",
-      "level": "3",
-      "posted": "2026-09-30",
-      "url": "https://careers.united.com/us/en/job/WHQ00026902"
-    },
-    {
-      "id": "IAD00002043",
-      "title": "Representative - Quality and Process Auditor",
-      "city": "Dulles",
-      "state": "Virginia",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "7",
-      "posted": "2026-09-30",
-      "url": "https://careers.united.com/us/en/job/IAD00002043"
-    },
-    {
-      "id": "SFO00005440",
-      "title": "Operational Excellence & CPI Manager",
-      "city": "San Francisco",
-      "state": "California",
-      "country": "United States",
-      "category": "Aircraft Maintenance and Support",
-      "level": "4",
-      "posted": "2026-09-30",
-      "url": "https://careers.united.com/us/en/job/SFO00005440"
-    },
-    {
-      "id": "MCO00000774",
-      "title": "Supervisor - Aircraft Maintenance",
-      "city": "Orlando",
-      "state": "Florida",
-      "country": "United States",
-      "category": "Aircraft Maintenance and Support",
-      "level": "6",
-      "posted": "2026-09-30",
-      "url": "https://careers.united.com/us/en/job/MCO00000774"
-    },
-    {
-      "id": "IAH00005715",
-      "title": "Senior Coordinator - Airport Operations Station Support",
-      "city": "Houston",
-      "state": "Texas",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "8",
-      "posted": "2026-09-30",
-      "url": "https://careers.united.com/us/en/job/IAH00005715"
-    },
-    {
-      "id": "IAH00005721",
-      "title": "Supervisor - Cargo Operations",
-      "city": "Houston",
-      "state": "Texas",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "6",
-      "posted": "2026-09-30",
-      "url": "https://careers.united.com/us/en/job/IAH00005721"
-    },
-    {
-      "id": "WHQ00026864",
-      "title": "Senior Enterprise Integration Platform Developer / Technical Lead",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Digital Technology",
-      "level": "4",
-      "posted": "2026-09-30",
-      "url": "https://careers.united.com/us/en/job/WHQ00026864"
-    },
-    {
-      "id": "WHQ00026873",
-      "title": "Senior Engineer – Identity & Access Management (Remote)",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Digital Technology",
-      "level": "4",
-      "posted": "2026-09-30",
-      "url": "https://careers.united.com/us/en/job/WHQ00026873"
-    },
-    {
-      "id": "EWR00004769",
-      "title": "Lead Ramp Service Employee",
-      "city": "Newark",
-      "state": "New Jersey",
-      "country": "United States",
-      "category": "At the Airport",
-      "level": "Line/Hourly",
-      "posted": "2026-09-30",
-      "url": "https://careers.united.com/us/en/job/EWR00004769"
-    },
-    {
-      "id": "SNA00000308",
-      "title": "Supervisor - Airport Operations",
-      "city": "Orange County",
-      "state": "California",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "6",
-      "posted": "2026-09-30",
-      "url": "https://careers.united.com/us/en/job/SNA00000308"
     }
   ]
 }
