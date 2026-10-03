@@ -1,7 +1,106 @@
 {
-  "updated": "2026-10-02",
+  "updated": "2026-10-03",
   "student": [],
   "recent": [
+    {
+      "id": "EWR00004764",
+      "title": "Supervisor - Ramp Airport Operations",
+      "city": "Newark",
+      "state": "New Jersey",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "6",
+      "posted": "2026-10-03",
+      "url": "https://careers.united.com/us/en/job/EWR00004764"
+    },
+    {
+      "id": "WHQ00026329",
+      "title": "Analyst - Digital Fleet Management Products",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Aircraft Maintenance and Support",
+      "level": "6",
+      "posted": "2026-10-03",
+      "url": "https://careers.united.com/us/en/job/WHQ00026329"
+    },
+    {
+      "id": "OPB00000986",
+      "title": "Flight Dispatcher (Greater Chicago Area)",
+      "city": "Arlington Heights",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "Line/Hourly",
+      "posted": "2026-10-03",
+      "url": "https://careers.united.com/us/en/job/OPB00000986"
+    },
+    {
+      "id": "WHQ00026928",
+      "title": "Global Procurement - Sr. Strategic Sourcing Manager (Digital Technology)",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "4",
+      "posted": "2026-10-02",
+      "url": "https://careers.united.com/us/en/job/WHQ00026928"
+    },
+    {
+      "id": "DEN00006612",
+      "title": "Engineer - Flight Simulator",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "category": "Digital Technology",
+      "level": "Line/Hourly",
+      "posted": "2026-10-02",
+      "url": "https://careers.united.com/us/en/job/DEN00006612"
+    },
+    {
+      "id": "WHQ00026118-1",
+      "title": "Senior Product Manager - API Management",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Digital Technology",
+      "level": "3",
+      "posted": "2026-10-02",
+      "url": "https://careers.united.com/us/en/job/WHQ00026118-1"
+    },
+    {
+      "id": "WHQ00026896",
+      "title": "Senior Full Stack Developer - Java, Angular",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Digital Technology",
+      "level": "4",
+      "posted": "2026-10-02",
+      "url": "https://careers.united.com/us/en/job/WHQ00026896"
+    },
+    {
+      "id": "WHQ00026855",
+      "title": "Senior HR Partner Representative (Hybrid)",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "5",
+      "posted": "2026-10-02",
+      "url": "https://careers.united.com/us/en/job/WHQ00026855"
+    },
+    {
+      "id": "SFO00005436",
+      "title": "Line Technician",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "category": "At the Airport",
+      "level": "Line/Hourly",
+      "posted": "2026-10-02",
+      "url": "https://careers.united.com/us/en/job/SFO00005436"
+    },
     {
       "id": "IAH00005720",
       "title": "Manager - Deferral Management",
@@ -34,105 +133,6 @@
       "level": "9",
       "posted": "2026-10-02",
       "url": "https://careers.united.com/us/en/job/EWR00004765"
-    },
-    {
-      "id": "IAD00002030",
-      "title": "Supervisor - Aircraft Maintenance",
-      "city": "Dulles",
-      "state": "Virginia",
-      "country": "United States",
-      "category": "Aircraft Maintenance and Support",
-      "level": "6",
-      "posted": "2026-10-02",
-      "url": "https://careers.united.com/us/en/job/IAD00002030"
-    },
-    {
-      "id": "EWR00004751",
-      "title": "Material Handler / Storekeeper - Full Time",
-      "city": "Newark",
-      "state": "New Jersey",
-      "country": "United States",
-      "category": "At the Airport",
-      "level": "Line/Hourly",
-      "posted": "2026-10-02",
-      "url": "https://careers.united.com/us/en/job/EWR00004751"
-    },
-    {
-      "id": "WHQ00026915",
-      "title": "Senior Manager - Sales Information Systems",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "3",
-      "posted": "2026-10-02",
-      "url": "https://careers.united.com/us/en/job/WHQ00026915"
-    },
-    {
-      "id": "WHQ00026755",
-      "title": "Manager - Reliability",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Aircraft Maintenance and Support",
-      "level": "4",
-      "posted": "2026-10-01",
-      "url": "https://careers.united.com/us/en/job/WHQ00026755"
-    },
-    {
-      "id": "WHQ00026912",
-      "title": "Counsel - Privacy",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "2",
-      "posted": "2026-10-01",
-      "url": "https://careers.united.com/us/en/job/WHQ00026912"
-    },
-    {
-      "id": "WHQ00026906",
-      "title": "Sr Engineer - Identity Governance & Administration (Remote)",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Digital Technology",
-      "level": "4",
-      "posted": "2026-10-01",
-      "url": "https://careers.united.com/us/en/job/WHQ00026906"
-    },
-    {
-      "id": "IAH00005671",
-      "title": "Assistant Manager - Aircraft Tooling (Supply Chain Forecasting)",
-      "city": "Houston",
-      "state": "Texas",
-      "country": "United States",
-      "category": "Aircraft Maintenance and Support",
-      "level": "5",
-      "posted": "2026-10-01",
-      "url": "https://careers.united.com/us/en/job/IAH00005671"
-    },
-    {
-      "id": "WHQ00026827",
-      "title": "Developer - Information Technology",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Digital Technology",
-      "level": "5",
-      "posted": "2026-10-01",
-      "url": "https://careers.united.com/us/en/job/WHQ00026827"
-    },
-    {
-      "id": "WHQ00026870",
-      "title": "Software Developer - Customer Care Technology",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Digital Technology",
-      "level": "5",
-      "posted": "2026-09-30",
-      "url": "https://careers.united.com/us/en/job/WHQ00026870"
     }
   ]
 }
