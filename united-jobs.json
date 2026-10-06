@@ -1,138 +1,138 @@
 {
-  "updated": "2026-10-04",
+  "updated": "2026-10-06",
   "student": [],
   "recent": [
     {
-      "id": "EWR00004764",
-      "title": "Supervisor - Ramp Airport Operations",
-      "city": "Newark",
-      "state": "New Jersey",
+      "id": "LAX00001761",
+      "title": "Customer Service Representative - Full-Time",
+      "city": "Los Angeles",
+      "state": "California",
       "country": "United States",
-      "category": "Corporate",
-      "level": "6",
-      "posted": "2026-10-03",
-      "url": "https://careers.united.com/us/en/job/EWR00004764"
+      "category": "Customer Solutions",
+      "level": "Line/Hourly",
+      "posted": "2026-10-06",
+      "url": "https://careers.united.com/us/en/job/LAX00001761"
     },
     {
-      "id": "WHQ00026329",
-      "title": "Analyst - Digital Fleet Management Products",
-      "city": "Chicago",
-      "state": "Illinois",
+      "id": "LAX00001770",
+      "title": "Ramp Service Employee - Full-Time",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "category": "At the Airport",
+      "level": "Line/Hourly",
+      "posted": "2026-10-06",
+      "url": "https://careers.united.com/us/en/job/LAX00001770"
+    },
+    {
+      "id": "CLE00000756",
+      "title": "Supervisor - Aircraft Maintenance",
+      "city": "Cleveland",
+      "state": "Ohio",
       "country": "United States",
       "category": "Aircraft Maintenance and Support",
       "level": "6",
-      "posted": "2026-10-03",
-      "url": "https://careers.united.com/us/en/job/WHQ00026329"
+      "posted": "2026-10-06",
+      "url": "https://careers.united.com/us/en/job/CLE00000756"
     },
     {
-      "id": "OPB00000986",
-      "title": "Flight Dispatcher (Greater Chicago Area)",
-      "city": "Arlington Heights",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "Line/Hourly",
-      "posted": "2026-10-03",
-      "url": "https://careers.united.com/us/en/job/OPB00000986"
-    },
-    {
-      "id": "WHQ00026928",
-      "title": "Global Procurement - Sr. Strategic Sourcing Manager (Digital Technology)",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "4",
-      "posted": "2026-10-02",
-      "url": "https://careers.united.com/us/en/job/WHQ00026928"
-    },
-    {
-      "id": "DEN00006612",
-      "title": "Engineer - Flight Simulator",
-      "city": "Denver",
-      "state": "Colorado",
-      "country": "United States",
-      "category": "Digital Technology",
-      "level": "Line/Hourly",
-      "posted": "2026-10-02",
-      "url": "https://careers.united.com/us/en/job/DEN00006612"
-    },
-    {
-      "id": "WHQ00026118-1",
-      "title": "Senior Product Manager - API Management",
+      "id": "WHQ00026895",
+      "title": "Principal Architect - Information Technology",
       "city": "Chicago",
       "state": "Illinois",
       "country": "United States",
       "category": "Digital Technology",
       "level": "3",
-      "posted": "2026-10-02",
-      "url": "https://careers.united.com/us/en/job/WHQ00026118-1"
+      "posted": "2026-10-06",
+      "url": "https://careers.united.com/us/en/job/WHQ00026895"
     },
     {
-      "id": "WHQ00026896",
-      "title": "Senior Full Stack Developer - Java, Angular",
+      "id": "DSM00000066",
+      "title": "Tech Ops Station Supervisor",
+      "city": "Des Moines",
+      "state": "Iowa",
+      "country": "United States",
+      "category": "Aircraft Maintenance and Support",
+      "level": "6",
+      "posted": "2026-10-06",
+      "url": "https://careers.united.com/us/en/job/DSM00000066"
+    },
+    {
+      "id": "OPB00000946",
+      "title": "Manager - Air Traffic Strategy Data",
+      "city": "Arlington Heights",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "4",
+      "posted": "2026-10-05",
+      "url": "https://careers.united.com/us/en/job/OPB00000946"
+    },
+    {
+      "id": "WHQ00026910",
+      "title": "Senior Manager – Customer Identity & Access Management Operations (Remote)",
       "city": "Chicago",
       "state": "Illinois",
       "country": "United States",
       "category": "Digital Technology",
-      "level": "4",
-      "posted": "2026-10-02",
-      "url": "https://careers.united.com/us/en/job/WHQ00026896"
+      "level": "3",
+      "posted": "2026-10-05",
+      "url": "https://careers.united.com/us/en/job/WHQ00026910"
     },
     {
-      "id": "WHQ00026855",
-      "title": "Senior HR Partner Representative (Hybrid)",
+      "id": "WHQ00026789",
+      "title": "Manager - Parts Manufacturer Approval",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Aircraft Maintenance and Support",
+      "level": "4",
+      "posted": "2026-10-05",
+      "url": "https://careers.united.com/us/en/job/WHQ00026789"
+    },
+    {
+      "id": "WHQ00026934",
+      "title": "Recruiting Representative (Hybrid)",
       "city": "Chicago",
       "state": "Illinois",
       "country": "United States",
       "category": "Corporate",
-      "level": "5",
-      "posted": "2026-10-02",
-      "url": "https://careers.united.com/us/en/job/WHQ00026855"
+      "level": "7",
+      "posted": "2026-10-05",
+      "url": "https://careers.united.com/us/en/job/WHQ00026934"
     },
     {
-      "id": "SFO00005436",
-      "title": "Line Technician",
-      "city": "San Francisco",
-      "state": "California",
+      "id": "WHQ00026835",
+      "title": "Executive Assistant",
+      "city": "Chicago",
+      "state": "Illinois",
       "country": "United States",
-      "category": "At the Airport",
-      "level": "Line/Hourly",
-      "posted": "2026-10-02",
-      "url": "https://careers.united.com/us/en/job/SFO00005436"
+      "category": "Corporate",
+      "level": "8",
+      "posted": "2026-10-05",
+      "url": "https://careers.united.com/us/en/job/WHQ00026835"
     },
     {
-      "id": "IAH00005720",
-      "title": "Manager - Deferral Management",
-      "city": "Houston",
-      "state": "Texas",
+      "id": "WHQ00026941",
+      "title": "Senior Product Manager - Integration Platforms",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Digital Technology",
+      "level": "3",
+      "posted": "2026-10-05",
+      "url": "https://careers.united.com/us/en/job/WHQ00026941"
+    },
+    {
+      "id": "WHQ00026930",
+      "title": "Senior Manager Engineering Authorization ( EA) - Plan and Execution",
+      "city": "Chicago",
+      "state": "Illinois",
       "country": "United States",
       "category": "Aircraft Maintenance and Support",
-      "level": "4",
-      "posted": "2026-10-02",
-      "url": "https://careers.united.com/us/en/job/IAH00005720"
-    },
-    {
-      "id": "HSC00001102",
-      "title": "Associate Analyst - Payroll Operations (Hybrid)",
-      "city": "Houston",
-      "state": "Texas",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "7",
-      "posted": "2026-10-02",
-      "url": "https://careers.united.com/us/en/job/HSC00001102"
-    },
-    {
-      "id": "EWR00004765",
-      "title": "Coordinator - Airport Operations Station Support",
-      "city": "Newark",
-      "state": "New Jersey",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "9",
-      "posted": "2026-10-02",
-      "url": "https://careers.united.com/us/en/job/EWR00004765"
+      "level": "3",
+      "posted": "2026-10-05",
+      "url": "https://careers.united.com/us/en/job/WHQ00026930"
     }
   ]
 }
