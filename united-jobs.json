@@ -1,7 +1,84 @@
 {
-  "updated": "2026-10-06",
+  "updated": "2026-10-07",
   "student": [],
   "recent": [
+    {
+      "id": "IAH00005723",
+      "title": "Coord - Training Ctr Bus Op",
+      "city": "Houston",
+      "state": "Texas",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "8",
+      "posted": "2026-10-07",
+      "url": "https://careers.united.com/us/en/job/IAH00005723"
+    },
+    {
+      "id": "RNO00000177",
+      "title": "Ramp Service Employee - Part Time",
+      "city": "Reno",
+      "state": "Nevada",
+      "country": "United States",
+      "category": "At the Airport",
+      "level": "Line/Hourly",
+      "posted": "2026-10-07",
+      "url": "https://careers.united.com/us/en/job/RNO00000177"
+    },
+    {
+      "id": "WHQ00026492",
+      "title": "Sr. Analyst - Performance Management - Hybrid (Chicago/Houston)",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "5",
+      "posted": "2026-10-07",
+      "url": "https://careers.united.com/us/en/job/WHQ00026492"
+    },
+    {
+      "id": "SMF00000121",
+      "title": "Customer Service Representative - Full-Time",
+      "city": "Sacramento",
+      "state": "California",
+      "country": "United States",
+      "category": "Customer Solutions",
+      "level": "Line/Hourly",
+      "posted": "2026-10-07",
+      "url": "https://careers.united.com/us/en/job/SMF00000121"
+    },
+    {
+      "id": "WHQ00026936",
+      "title": "Analyst - Cargo Operations Analysis & Budget Management",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "6",
+      "posted": "2026-10-06",
+      "url": "https://careers.united.com/us/en/job/WHQ00026936"
+    },
+    {
+      "id": "WHQ00026914",
+      "title": "Senior Staff Representative - Quality Assurance ( REMOTE)",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Aircraft Maintenance and Support",
+      "level": "5",
+      "posted": "2026-10-06",
+      "url": "https://careers.united.com/us/en/job/WHQ00026914"
+    },
+    {
+      "id": "WHQ00026939",
+      "title": "Specialist - Customer Communication",
+      "city": "Arlington Heights",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Customer Solutions",
+      "level": "6",
+      "posted": "2026-10-06",
+      "url": "https://careers.united.com/us/en/job/WHQ00026939"
+    },
     {
       "id": "LAX00001761",
       "title": "Customer Service Representative - Full-Time",
@@ -56,83 +133,6 @@
       "level": "6",
       "posted": "2026-10-06",
       "url": "https://careers.united.com/us/en/job/DSM00000066"
-    },
-    {
-      "id": "OPB00000946",
-      "title": "Manager - Air Traffic Strategy Data",
-      "city": "Arlington Heights",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "4",
-      "posted": "2026-10-05",
-      "url": "https://careers.united.com/us/en/job/OPB00000946"
-    },
-    {
-      "id": "WHQ00026910",
-      "title": "Senior Manager – Customer Identity & Access Management Operations (Remote)",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Digital Technology",
-      "level": "3",
-      "posted": "2026-10-05",
-      "url": "https://careers.united.com/us/en/job/WHQ00026910"
-    },
-    {
-      "id": "WHQ00026789",
-      "title": "Manager - Parts Manufacturer Approval",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Aircraft Maintenance and Support",
-      "level": "4",
-      "posted": "2026-10-05",
-      "url": "https://careers.united.com/us/en/job/WHQ00026789"
-    },
-    {
-      "id": "WHQ00026934",
-      "title": "Recruiting Representative (Hybrid)",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "7",
-      "posted": "2026-10-05",
-      "url": "https://careers.united.com/us/en/job/WHQ00026934"
-    },
-    {
-      "id": "WHQ00026835",
-      "title": "Executive Assistant",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "8",
-      "posted": "2026-10-05",
-      "url": "https://careers.united.com/us/en/job/WHQ00026835"
-    },
-    {
-      "id": "WHQ00026941",
-      "title": "Senior Product Manager - Integration Platforms",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Digital Technology",
-      "level": "3",
-      "posted": "2026-10-05",
-      "url": "https://careers.united.com/us/en/job/WHQ00026941"
-    },
-    {
-      "id": "WHQ00026930",
-      "title": "Senior Manager Engineering Authorization ( EA) - Plan and Execution",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Aircraft Maintenance and Support",
-      "level": "3",
-      "posted": "2026-10-05",
-      "url": "https://careers.united.com/us/en/job/WHQ00026930"
     }
   ]
 }
