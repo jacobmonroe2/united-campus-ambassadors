@@ -1,7 +1,106 @@
 {
-  "updated": "2026-10-08",
+  "updated": "2026-10-09",
   "student": [],
   "recent": [
+    {
+      "id": "ORD00003656",
+      "title": "Ramp Service Employee - Part-Time",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "At the Airport",
+      "level": "Line/Hourly",
+      "posted": "2026-10-09",
+      "url": "https://careers.united.com/us/en/job/ORD00003656"
+    },
+    {
+      "id": "ORD00003712",
+      "title": "Shift Mgr - Aircraft Mtc",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Aircraft Maintenance and Support",
+      "level": "4",
+      "posted": "2026-10-09",
+      "url": "https://careers.united.com/us/en/job/ORD00003712"
+    },
+    {
+      "id": "SFO00005421",
+      "title": "Manager - Station Operations Center",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "4",
+      "posted": "2026-10-09",
+      "url": "https://careers.united.com/us/en/job/SFO00005421"
+    },
+    {
+      "id": "WHQ00026927",
+      "title": "Manager - Logistics Services Performance Analysis",
+      "city": "Arlington Heights",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Aircraft Maintenance and Support",
+      "level": "4",
+      "posted": "2026-10-08",
+      "url": "https://careers.united.com/us/en/job/WHQ00026927"
+    },
+    {
+      "id": "IAH00005701",
+      "title": "Supervisor - Component Overhaul and Repair",
+      "city": "Houston",
+      "state": "Texas",
+      "country": "United States",
+      "category": "Aircraft Maintenance and Support",
+      "level": "6",
+      "posted": "2026-10-08",
+      "url": "https://careers.united.com/us/en/job/IAH00005701"
+    },
+    {
+      "id": "WHQ00026235",
+      "title": "Quality Engineering Manager",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Digital Technology",
+      "level": "4",
+      "posted": "2026-10-08",
+      "url": "https://careers.united.com/us/en/job/WHQ00026235"
+    },
+    {
+      "id": "WHQ00026937",
+      "title": "Senior Manager - International Security Operations",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "3",
+      "posted": "2026-10-08",
+      "url": "https://careers.united.com/us/en/job/WHQ00026937"
+    },
+    {
+      "id": "OPB00001008",
+      "title": "Associate Scheduler - Crew Hotel Operations (Onsite)",
+      "city": "Arlington Heights",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Customer Solutions",
+      "level": "7",
+      "posted": "2026-10-08",
+      "url": "https://careers.united.com/us/en/job/OPB00001008"
+    },
+    {
+      "id": "ORD00003706",
+      "title": "Supervisor - Customer Service Airport Operations",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "6",
+      "posted": "2026-10-08",
+      "url": "https://careers.united.com/us/en/job/ORD00003706"
+    },
     {
       "id": "WHQ00026929",
       "title": "Analyst - Operations Products & Strategy",
@@ -25,17 +124,6 @@
       "url": "https://careers.united.com/us/en/job/LAX00001773"
     },
     {
-      "id": "RDU00000116",
-      "title": "Customer Service Representative - Part-Time",
-      "city": "Raleigh",
-      "state": "North Carolina",
-      "country": "United States",
-      "category": "Customer Solutions",
-      "level": "Line/Hourly",
-      "posted": "2026-10-07",
-      "url": "https://careers.united.com/us/en/job/RDU00000116"
-    },
-    {
       "id": "WHQ00026170-1",
       "title": "Sr. Manager, AI Platform Engineering",
       "city": "Chicago",
@@ -45,94 +133,6 @@
       "level": "3",
       "posted": "2026-10-07",
       "url": "https://careers.united.com/us/en/job/WHQ00026170-1"
-    },
-    {
-      "id": "WHQ00026406-1",
-      "title": "Principal Architect - Machine Learning",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Digital Technology",
-      "level": "3",
-      "posted": "2026-10-07",
-      "url": "https://careers.united.com/us/en/job/WHQ00026406-1"
-    },
-    {
-      "id": "IAH00005723",
-      "title": "Coord - Training Ctr Bus Op",
-      "city": "Houston",
-      "state": "Texas",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "8",
-      "posted": "2026-10-07",
-      "url": "https://careers.united.com/us/en/job/IAH00005723"
-    },
-    {
-      "id": "RNO00000177",
-      "title": "Ramp Service Employee - Part Time",
-      "city": "Reno",
-      "state": "Nevada",
-      "country": "United States",
-      "category": "At the Airport",
-      "level": "Line/Hourly",
-      "posted": "2026-10-07",
-      "url": "https://careers.united.com/us/en/job/RNO00000177"
-    },
-    {
-      "id": "WHQ00026492",
-      "title": "Sr. Analyst - Performance Management - Hybrid (Chicago/Houston)",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "5",
-      "posted": "2026-10-07",
-      "url": "https://careers.united.com/us/en/job/WHQ00026492"
-    },
-    {
-      "id": "SMF00000121",
-      "title": "Customer Service Representative - Full-Time",
-      "city": "Sacramento",
-      "state": "California",
-      "country": "United States",
-      "category": "Customer Solutions",
-      "level": "Line/Hourly",
-      "posted": "2026-10-07",
-      "url": "https://careers.united.com/us/en/job/SMF00000121"
-    },
-    {
-      "id": "WHQ00026936",
-      "title": "Analyst - Cargo Operations Analysis & Budget Management",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "6",
-      "posted": "2026-10-06",
-      "url": "https://careers.united.com/us/en/job/WHQ00026936"
-    },
-    {
-      "id": "WHQ00026914",
-      "title": "Senior Staff Representative - Quality Assurance ( REMOTE)",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Aircraft Maintenance and Support",
-      "level": "5",
-      "posted": "2026-10-06",
-      "url": "https://careers.united.com/us/en/job/WHQ00026914"
-    },
-    {
-      "id": "WHQ00026939",
-      "title": "Specialist - Customer Communication",
-      "city": "Arlington Heights",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Customer Solutions",
-      "level": "6",
-      "posted": "2026-10-06",
-      "url": "https://careers.united.com/us/en/job/WHQ00026939"
     }
   ]
 }
