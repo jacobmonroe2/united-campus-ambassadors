@@ -1,7 +1,95 @@
 {
-  "updated": "2026-10-09",
+  "updated": "2026-10-10",
   "student": [],
   "recent": [
+    {
+      "id": "WHQ00026703",
+      "title": "Associate Analyst - Data Analytics",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Aircraft Maintenance and Support",
+      "level": "7",
+      "posted": "2026-10-10",
+      "url": "https://careers.united.com/us/en/job/WHQ00026703"
+    },
+    {
+      "id": "WHQ00026922",
+      "title": "Airframe Vendor Maintenance - Program Manager",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Aircraft Maintenance and Support",
+      "level": "5",
+      "posted": "2026-10-10",
+      "url": "https://careers.united.com/us/en/job/WHQ00026922"
+    },
+    {
+      "id": "WHQ00026959",
+      "title": "Principal Architect - ServiceNow Platform",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Digital Technology",
+      "level": "3",
+      "posted": "2026-10-09",
+      "url": "https://careers.united.com/us/en/job/WHQ00026959"
+    },
+    {
+      "id": "SFO00005478",
+      "title": "Assistant Manager - Hub Catering Operations & Logistics",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "5",
+      "posted": "2026-10-09",
+      "url": "https://careers.united.com/us/en/job/SFO00005478"
+    },
+    {
+      "id": "WHQ00026737",
+      "title": "Technical Planner - Heavy Maintenance Planning",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Aircraft Maintenance and Support",
+      "level": "6",
+      "posted": "2026-10-09",
+      "url": "https://careers.united.com/us/en/job/WHQ00026737"
+    },
+    {
+      "id": "HSC00001099",
+      "title": "Sr Manager - IT Application Development",
+      "city": "Houston",
+      "state": "Texas",
+      "country": "United States",
+      "category": "Digital Technology",
+      "level": "3",
+      "posted": "2026-10-09",
+      "url": "https://careers.united.com/us/en/job/HSC00001099"
+    },
+    {
+      "id": "WHQ00026733",
+      "title": "Senior Technical Planner - Heavy Maintenance Planning",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Aircraft Maintenance and Support",
+      "level": "5",
+      "posted": "2026-10-09",
+      "url": "https://careers.united.com/us/en/job/WHQ00026733"
+    },
+    {
+      "id": "WHQ00026920",
+      "title": "Scrum Master - IT",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Digital Technology",
+      "level": "4",
+      "posted": "2026-10-09",
+      "url": "https://careers.united.com/us/en/job/WHQ00026920"
+    },
     {
       "id": "ORD00003656",
       "title": "Ramp Service Employee - Part-Time",
@@ -45,94 +133,6 @@
       "level": "4",
       "posted": "2026-10-08",
       "url": "https://careers.united.com/us/en/job/WHQ00026927"
-    },
-    {
-      "id": "IAH00005701",
-      "title": "Supervisor - Component Overhaul and Repair",
-      "city": "Houston",
-      "state": "Texas",
-      "country": "United States",
-      "category": "Aircraft Maintenance and Support",
-      "level": "6",
-      "posted": "2026-10-08",
-      "url": "https://careers.united.com/us/en/job/IAH00005701"
-    },
-    {
-      "id": "WHQ00026235",
-      "title": "Quality Engineering Manager",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Digital Technology",
-      "level": "4",
-      "posted": "2026-10-08",
-      "url": "https://careers.united.com/us/en/job/WHQ00026235"
-    },
-    {
-      "id": "WHQ00026937",
-      "title": "Senior Manager - International Security Operations",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "3",
-      "posted": "2026-10-08",
-      "url": "https://careers.united.com/us/en/job/WHQ00026937"
-    },
-    {
-      "id": "OPB00001008",
-      "title": "Associate Scheduler - Crew Hotel Operations (Onsite)",
-      "city": "Arlington Heights",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Customer Solutions",
-      "level": "7",
-      "posted": "2026-10-08",
-      "url": "https://careers.united.com/us/en/job/OPB00001008"
-    },
-    {
-      "id": "ORD00003706",
-      "title": "Supervisor - Customer Service Airport Operations",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "6",
-      "posted": "2026-10-08",
-      "url": "https://careers.united.com/us/en/job/ORD00003706"
-    },
-    {
-      "id": "WHQ00026929",
-      "title": "Analyst - Operations Products & Strategy",
-      "city": "Arlington Heights",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "6",
-      "posted": "2026-10-08",
-      "url": "https://careers.united.com/us/en/job/WHQ00026929"
-    },
-    {
-      "id": "LAX00001773",
-      "title": "Executive Assistant",
-      "city": "Los Angeles",
-      "state": "California",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "8",
-      "posted": "2026-10-07",
-      "url": "https://careers.united.com/us/en/job/LAX00001773"
-    },
-    {
-      "id": "WHQ00026170-1",
-      "title": "Sr. Manager, AI Platform Engineering",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Digital Technology",
-      "level": "3",
-      "posted": "2026-10-07",
-      "url": "https://careers.united.com/us/en/job/WHQ00026170-1"
     }
   ]
 }
