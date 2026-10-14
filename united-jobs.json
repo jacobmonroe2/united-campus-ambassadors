@@ -1,106 +1,7 @@
 {
-  "updated": "2026-10-13",
+  "updated": "2026-10-14",
   "student": [],
   "recent": [
-    {
-      "id": "EWR00004761",
-      "title": "Managing Director - Station Operations Center",
-      "city": "Newark",
-      "state": "New Jersey",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "1",
-      "posted": "2026-10-13",
-      "url": "https://careers.united.com/us/en/job/EWR00004761"
-    },
-    {
-      "id": "LAX00001775",
-      "title": "Senior Manager - Ground Equipment Maintenance (Major Hub and Region)",
-      "city": "Los Angeles",
-      "state": "California",
-      "country": "United States",
-      "category": "Aircraft Maintenance and Support",
-      "level": "3",
-      "posted": "2026-10-13",
-      "url": "https://careers.united.com/us/en/job/LAX00001775"
-    },
-    {
-      "id": "LAS00000344",
-      "title": "Assistant General Manager - Line Station",
-      "city": "Las Vegas",
-      "state": "Nevada",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "4",
-      "posted": "2026-10-13",
-      "url": "https://careers.united.com/us/en/job/LAS00000344"
-    },
-    {
-      "id": "WHQ00026957",
-      "title": "Senior Planner - EA Materials",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Aircraft Maintenance and Support",
-      "level": "5",
-      "posted": "2026-10-12",
-      "url": "https://careers.united.com/us/en/job/WHQ00026957"
-    },
-    {
-      "id": "WHQ00026969",
-      "title": "Senior Developer - Ancillary Products",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Digital Technology",
-      "level": "4",
-      "posted": "2026-10-12",
-      "url": "https://careers.united.com/us/en/job/WHQ00026969"
-    },
-    {
-      "id": "SEA00000489",
-      "title": "Line Technician",
-      "city": "Seattle",
-      "state": "Washington",
-      "country": "United States",
-      "category": "At the Airport",
-      "level": "Line/Hourly",
-      "posted": "2026-10-12",
-      "url": "https://careers.united.com/us/en/job/SEA00000489"
-    },
-    {
-      "id": "ORD00003684",
-      "title": "Hub Maintenance Coordinator",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Aircraft Maintenance and Support",
-      "level": "6",
-      "posted": "2026-10-12",
-      "url": "https://careers.united.com/us/en/job/ORD00003684"
-    },
-    {
-      "id": "DFW00000285",
-      "title": "Ramp Service Employee - Part-Time",
-      "city": "Dallas",
-      "state": "Texas",
-      "country": "United States",
-      "category": "At the Airport",
-      "level": "Line/Hourly",
-      "posted": "2026-10-12",
-      "url": "https://careers.united.com/us/en/job/DFW00000285"
-    },
-    {
-      "id": "IAD00002042",
-      "title": "Line Planner SP",
-      "city": "Dulles",
-      "state": "Virginia",
-      "country": "United States",
-      "category": "At the Airport",
-      "level": "Line/Hourly",
-      "posted": "2026-10-12",
-      "url": "https://careers.united.com/us/en/job/IAD00002042"
-    },
     {
       "id": "CLE00000755",
       "title": "Line Technician",
@@ -109,30 +10,129 @@
       "country": "United States",
       "category": "At the Airport",
       "level": "Line/Hourly",
-      "posted": "2026-10-12",
+      "posted": "2026-10-14",
       "url": "https://careers.united.com/us/en/job/CLE00000755"
     },
     {
-      "id": "SFO00005361",
-      "title": "Base Specialty HVAC ($20,000 Sign-On Bonus)",
+      "id": "EWR00004673",
+      "title": "Facilities Maintenance Technician (Building Engineer) $10,000 Sign on Bonus",
+      "city": "Newark",
+      "state": "New Jersey",
+      "country": "United States",
+      "category": "At the Airport",
+      "level": "Line/Hourly",
+      "posted": "2026-10-14",
+      "url": "https://careers.united.com/us/en/job/EWR00004673"
+    },
+    {
+      "id": "WHQ00026948",
+      "title": "Sales Manager - Multi-Channel Agencies",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "5",
+      "posted": "2026-10-14",
+      "url": "https://careers.united.com/us/en/job/WHQ00026948"
+    },
+    {
+      "id": "WHQ00026940",
+      "title": "Associate Analyst - Central Business Office",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "7",
+      "posted": "2026-10-14",
+      "url": "https://careers.united.com/us/en/job/WHQ00026940"
+    },
+    {
+      "id": "DEN00006928",
+      "title": "Assistant Manager - Facility Maintenance Operations (Flight Training Center)",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "category": "Aircraft Maintenance and Support",
+      "level": "5",
+      "posted": "2026-10-14",
+      "url": "https://careers.united.com/us/en/job/DEN00006928"
+    },
+    {
+      "id": "DEN00006927",
+      "title": "Senior Coordinator - Facility Maintenance Admin",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "category": "Aircraft Maintenance and Support",
+      "level": "8",
+      "posted": "2026-10-14",
+      "url": "https://careers.united.com/us/en/job/DEN00006927"
+    },
+    {
+      "id": "SEA00000494",
+      "title": "Storekeeper / Material Handler - Full Time",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "category": "At the Airport",
+      "level": "Line/Hourly",
+      "posted": "2026-10-14",
+      "url": "https://careers.united.com/us/en/job/SEA00000494"
+    },
+    {
+      "id": "ORD00003709",
+      "title": "Zone Control Supervisor",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "6",
+      "posted": "2026-10-14",
+      "url": "https://careers.united.com/us/en/job/ORD00003709"
+    },
+    {
+      "id": "SFO00005461",
+      "title": "Material Handler / Storekeeper",
       "city": "San Francisco",
       "state": "California",
       "country": "United States",
       "category": "At the Airport",
       "level": "Line/Hourly",
-      "posted": "2026-10-12",
-      "url": "https://careers.united.com/us/en/job/SFO00005361"
+      "posted": "2026-10-13",
+      "url": "https://careers.united.com/us/en/job/SFO00005461"
     },
     {
-      "id": "EWR00004740",
-      "title": "Supervisor - Inflight Services",
-      "city": "Newark",
-      "state": "New Jersey",
+      "id": "WHQ00026961",
+      "title": "Manager - Project Manager-PMO",
+      "city": "Chicago",
+      "state": "Illinois",
       "country": "United States",
       "category": "Corporate",
-      "level": "6",
-      "posted": "2026-10-12",
-      "url": "https://careers.united.com/us/en/job/EWR00004740"
+      "level": "4",
+      "posted": "2026-10-13",
+      "url": "https://careers.united.com/us/en/job/WHQ00026961"
+    },
+    {
+      "id": "SFO00005360",
+      "title": "Base Specialty Electrician ($20,000 Sign On Bonus)",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "category": "At the Airport",
+      "level": "Line/Hourly",
+      "posted": "2026-10-13",
+      "url": "https://careers.united.com/us/en/job/SFO00005360"
+    },
+    {
+      "id": "ORD00003683",
+      "title": "Project Manager II - Corporate Real Estate Planning and Development (Onsite)",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "4",
+      "posted": "2026-10-13",
+      "url": "https://careers.united.com/us/en/job/ORD00003683"
     }
   ]
 }
