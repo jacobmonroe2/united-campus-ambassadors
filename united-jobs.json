@@ -1,127 +1,138 @@
 {
-  "updated": "2026-10-15",
+  "updated": "2026-10-16",
   "student": [],
   "recent": [
     {
-      "id": "WHQ00026747",
-      "title": "Specialist - Trade Compliance",
+      "id": "OPB00000988",
+      "title": "Crew Scheduler - Pilot",
       "city": "Arlington Heights",
       "state": "Illinois",
       "country": "United States",
-      "category": "Aircraft Maintenance and Support",
-      "level": "5",
+      "category": "Corporate",
+      "level": "7",
       "posted": "2026-10-15",
-      "url": "https://careers.united.com/us/en/job/WHQ00026747"
+      "url": "https://careers.united.com/us/en/job/OPB00000988"
     },
     {
-      "id": "WHQ00026943",
-      "title": "Data Analytics Manager",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Digital Technology",
-      "level": "4",
-      "posted": "2026-10-14",
-      "url": "https://careers.united.com/us/en/job/WHQ00026943"
-    },
-    {
-      "id": "WHQ00026896",
-      "title": "Senior Full Stack Developer - Java, Angular",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Digital Technology",
-      "level": "4",
-      "posted": "2026-10-14",
-      "url": "https://careers.united.com/us/en/job/WHQ00026896"
-    },
-    {
-      "id": "WHQ00026975",
-      "title": "Sales Manager - Agency",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "5",
-      "posted": "2026-10-14",
-      "url": "https://careers.united.com/us/en/job/WHQ00026975"
-    },
-    {
-      "id": "WHQ00026928",
-      "title": "Global Procurement - Sr. Strategic Sourcing Manager (Digital Technology)",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "4",
-      "posted": "2026-10-14",
-      "url": "https://careers.united.com/us/en/job/WHQ00026928"
-    },
-    {
-      "id": "WHQ00026864",
-      "title": "Java Team Lead (Integration Developer)",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Digital Technology",
-      "level": "4",
-      "posted": "2026-10-14",
-      "url": "https://careers.united.com/us/en/job/WHQ00026864"
-    },
-    {
-      "id": "HNL00001300",
-      "title": "Supervisor - Airport Operations",
-      "city": "Honolulu",
-      "state": "Hawaii",
+      "id": "IAH00005737",
+      "title": "Regulatory AQP Instructional Systems Designer",
+      "city": "Houston",
+      "state": "Texas",
       "country": "United States",
       "category": "Corporate",
       "level": "6",
-      "posted": "2026-10-14",
-      "url": "https://careers.united.com/us/en/job/HNL00001300"
+      "posted": "2026-10-15",
+      "url": "https://careers.united.com/us/en/job/IAH00005737"
     },
     {
-      "id": "WHQ00026831",
-      "title": "Sr Manager - IT Appl Dev",
+      "id": "SFO00005445",
+      "title": "Ramp Service Employee - Full-Time",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "category": "At the Airport",
+      "level": "Line/Hourly",
+      "posted": "2026-10-15",
+      "url": "https://careers.united.com/us/en/job/SFO00005445"
+    },
+    {
+      "id": "WHQ00025935-1",
+      "title": "Principal Architect - Information Technology",
       "city": "Chicago",
       "state": "Illinois",
       "country": "United States",
       "category": "Digital Technology",
       "level": "3",
-      "posted": "2026-10-14",
-      "url": "https://careers.united.com/us/en/job/WHQ00026831"
+      "posted": "2026-10-15",
+      "url": "https://careers.united.com/us/en/job/WHQ00025935-1"
     },
     {
-      "id": "WHQ00026942",
-      "title": "Global Procurement - Strategic Sourcing Manager - Hotels and Travel (Hybrid)",
+      "id": "WHQ00026979",
+      "title": "Senior Analyst - Cargo Sales Strategy",
       "city": "Chicago",
       "state": "Illinois",
       "country": "United States",
       "category": "Corporate",
       "level": "5",
-      "posted": "2026-10-14",
-      "url": "https://careers.united.com/us/en/job/WHQ00026942"
+      "posted": "2026-10-15",
+      "url": "https://careers.united.com/us/en/job/WHQ00026979"
     },
     {
-      "id": "IAH00005686",
-      "title": "Operational Excellence & CPI Manager",
-      "city": "Houston",
-      "state": "Texas",
-      "country": "United States",
-      "category": "Aircraft Maintenance and Support",
-      "level": "4",
-      "posted": "2026-10-14",
-      "url": "https://careers.united.com/us/en/job/IAH00005686"
-    },
-    {
-      "id": "WHQ00026938",
-      "title": "Specialist - Compliance & Ethics",
+      "id": "WHQ00026682",
+      "title": "Sr Conversation Designer",
       "city": "Chicago",
       "state": "Illinois",
       "country": "United States",
       "category": "Corporate",
+      "level": "5",
+      "posted": "2026-10-15",
+      "url": "https://careers.united.com/us/en/job/WHQ00026682"
+    },
+    {
+      "id": "SMF00000120",
+      "title": "General Manager - Airport Operations",
+      "city": "Sacramento",
+      "state": "California",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "4",
+      "posted": "2026-10-15",
+      "url": "https://careers.united.com/us/en/job/SMF00000120"
+    },
+    {
+      "id": "FA2026-LQ-ITA-3",
+      "title": "Flight Attendant (Italian Speakers Only)",
+      "city": "Newark",
+      "state": "New Jersey",
+      "country": "United States",
+      "category": "Flight Attendant",
+      "level": "Line/Hourly",
+      "posted": "2026-10-15",
+      "url": "https://careers.united.com/us/en/job/FA2026-LQ-ITA-3"
+    },
+    {
+      "id": "FA2026-LQ-DUT-3",
+      "title": "Flight Attendant (Dutch Speakers Only)",
+      "city": "Newark",
+      "state": "New Jersey",
+      "country": "United States",
+      "category": "Flight Attendant",
+      "level": "Line/Hourly",
+      "posted": "2026-10-15",
+      "url": "https://careers.united.com/us/en/job/FA2026-LQ-DUT-3"
+    },
+    {
+      "id": "HSC00001080",
+      "title": "Associate Software Developer",
+      "city": "Houston",
+      "state": "Texas",
+      "country": "United States",
+      "category": "Digital Technology",
       "level": "6",
-      "posted": "2026-10-14",
-      "url": "https://careers.united.com/us/en/job/WHQ00026938"
+      "posted": "2026-10-15",
+      "url": "https://careers.united.com/us/en/job/HSC00001080"
+    },
+    {
+      "id": "FA2026-LQ-GER-3",
+      "title": "Flight Attendant (German Speakers Only)",
+      "city": "Newark",
+      "state": "New Jersey",
+      "country": "United States",
+      "category": "Flight Attendant",
+      "level": "Line/Hourly",
+      "posted": "2026-10-15",
+      "url": "https://careers.united.com/us/en/job/FA2026-LQ-GER-3"
+    },
+    {
+      "id": "IAD00002018",
+      "title": "Project Manager II - CRE - Planning and Development",
+      "city": "Dulles",
+      "state": "Virginia",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "4",
+      "posted": "2026-10-15",
+      "url": "https://careers.united.com/us/en/job/IAD00002018"
     }
   ]
 }
