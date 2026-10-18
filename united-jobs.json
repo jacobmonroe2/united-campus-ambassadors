@@ -1,7 +1,18 @@
 {
-  "updated": "2026-10-17",
+  "updated": "2026-10-18",
   "student": [],
   "recent": [
+    {
+      "id": "WHQ00026996",
+      "title": "Representative - Operations Scheduling & Payroll",
+      "city": "Arlington Heights",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "7",
+      "posted": "2026-10-17",
+      "url": "https://careers.united.com/us/en/job/WHQ00026996"
+    },
     {
       "id": "DEN00006932",
       "title": "Senior Coordinator - Pilot Qualifications",
@@ -122,17 +133,6 @@
       "level": "4",
       "posted": "2026-10-16",
       "url": "https://careers.united.com/us/en/job/DEN00006926"
-    },
-    {
-      "id": "IAD00002038",
-      "title": "Line Technician",
-      "city": "Dulles",
-      "state": "Virginia",
-      "country": "United States",
-      "category": "At the Airport",
-      "level": "Line/Hourly",
-      "posted": "2026-10-16",
-      "url": "https://careers.united.com/us/en/job/IAD00002038"
     }
   ]
 }
