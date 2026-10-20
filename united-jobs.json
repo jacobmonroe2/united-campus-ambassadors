@@ -1,7 +1,73 @@
 {
-  "updated": "2026-10-19",
+  "updated": "2026-10-20",
   "student": [],
   "recent": [
+    {
+      "id": "BWI00000211",
+      "title": "General Manager - Airport Operations",
+      "city": "Baltimore",
+      "state": "Maryland",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "4",
+      "posted": "2026-10-20",
+      "url": "https://careers.united.com/us/en/job/BWI00000211"
+    },
+    {
+      "id": "SFO00005482",
+      "title": "Manager - Airport Operations Customer Service",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "4",
+      "posted": "2026-10-20",
+      "url": "https://careers.united.com/us/en/job/SFO00005482"
+    },
+    {
+      "id": "WHQ00026984",
+      "title": "Senior Manager – Line Maintenance Operations Excellence",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Aircraft Maintenance and Support",
+      "level": "3",
+      "posted": "2026-10-20",
+      "url": "https://careers.united.com/us/en/job/WHQ00026984"
+    },
+    {
+      "id": "WHQ00026566",
+      "title": "Senior Manager - Aircraft Asset Trading",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "3",
+      "posted": "2026-10-19",
+      "url": "https://careers.united.com/us/en/job/WHQ00026566"
+    },
+    {
+      "id": "WHQ00026981",
+      "title": "Global Procurement - Sr Strategic Sourcing Manager - Tech Ops (Hybrid)",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "4",
+      "posted": "2026-10-19",
+      "url": "https://careers.united.com/us/en/job/WHQ00026981"
+    },
+    {
+      "id": "WHQ00027000",
+      "title": "Senior Analyst - Catering Financial Controls",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "5",
+      "posted": "2026-10-19",
+      "url": "https://careers.united.com/us/en/job/WHQ00027000"
+    },
     {
       "id": "WHQ00026968",
       "title": "Manager - Purchasing and Performance",
@@ -67,72 +133,6 @@
       "level": "Line/Hourly",
       "posted": "2026-10-16",
       "url": "https://careers.united.com/us/en/job/KOA00000148"
-    },
-    {
-      "id": "EWR00004634",
-      "title": "(Experienced) Machinist (Precision Tool and Die) Technician",
-      "city": "Newark",
-      "state": "New Jersey",
-      "country": "United States",
-      "category": "At the Airport",
-      "level": "Line/Hourly",
-      "posted": "2026-10-16",
-      "url": "https://careers.united.com/us/en/job/EWR00004634"
-    },
-    {
-      "id": "FA2026-LQ-ITA-3",
-      "title": "Flight Attendant (Italian Speakers Only)",
-      "city": "Newark",
-      "state": "New Jersey",
-      "country": "United States",
-      "category": "Flight Attendant",
-      "level": "Line/Hourly",
-      "posted": "2026-10-16",
-      "url": "https://careers.united.com/us/en/job/FA2026-LQ-ITA-3"
-    },
-    {
-      "id": "WHQ00026940",
-      "title": "Associate Analyst - Central Business Office (Remote)",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "7",
-      "posted": "2026-10-16",
-      "url": "https://careers.united.com/us/en/job/WHQ00026940"
-    },
-    {
-      "id": "FA2026-LQ-HEB-3",
-      "title": "Flight Attendant (Hebrew Speakers Only)",
-      "city": "Newark",
-      "state": "New Jersey",
-      "country": "United States",
-      "category": "Flight Attendant",
-      "level": "Line/Hourly",
-      "posted": "2026-10-16",
-      "url": "https://careers.united.com/us/en/job/FA2026-LQ-HEB-3"
-    },
-    {
-      "id": "FA2026-LQ-GRE-3",
-      "title": "Flight Attendant (Greek Speakers Only)",
-      "city": "Newark",
-      "state": "New Jersey",
-      "country": "United States",
-      "category": "Flight Attendant",
-      "level": "Line/Hourly",
-      "posted": "2026-10-16",
-      "url": "https://careers.united.com/us/en/job/FA2026-LQ-GRE-3"
-    },
-    {
-      "id": "FA2026-LQ-DUT-3",
-      "title": "Flight Attendant (Dutch Speakers Only)",
-      "city": "Newark",
-      "state": "New Jersey",
-      "country": "United States",
-      "category": "Flight Attendant",
-      "level": "Line/Hourly",
-      "posted": "2026-10-16",
-      "url": "https://careers.united.com/us/en/job/FA2026-LQ-DUT-3"
     }
   ]
 }
