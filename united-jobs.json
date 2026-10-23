@@ -1,7 +1,73 @@
 {
-  "updated": "2026-10-22",
+  "updated": "2026-10-23",
   "student": [],
   "recent": [
+    {
+      "id": "IAH00005727",
+      "title": "Manager - Base Maintenance Material Operations",
+      "city": "Houston",
+      "state": "Texas",
+      "country": "United States",
+      "category": "Aircraft Maintenance and Support",
+      "level": "4",
+      "posted": "2026-10-23",
+      "url": "https://careers.united.com/us/en/job/IAH00005727"
+    },
+    {
+      "id": "EWR00004778",
+      "title": "Supervisor - Facility Maintenance Operations",
+      "city": "Newark",
+      "state": "New Jersey",
+      "country": "United States",
+      "category": "Aircraft Maintenance and Support",
+      "level": "6",
+      "posted": "2026-10-23",
+      "url": "https://careers.united.com/us/en/job/EWR00004778"
+    },
+    {
+      "id": "IAD00001979",
+      "title": "Ground Service Equipment Technician (Automotive and Diesel)  - $10,000 Sign on Bonus",
+      "city": "Dulles",
+      "state": "Virginia",
+      "country": "United States",
+      "category": "At the Airport",
+      "level": "Line/Hourly",
+      "posted": "2026-10-23",
+      "url": "https://careers.united.com/us/en/job/IAD00001979"
+    },
+    {
+      "id": "ORD00003702",
+      "title": "Sheet Metal Technician - Line",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "At the Airport",
+      "level": "Line/Hourly",
+      "posted": "2026-10-22",
+      "url": "https://careers.united.com/us/en/job/ORD00003702"
+    },
+    {
+      "id": "WHQ00026976",
+      "title": "Sr Manager – Infrastructure Cybersecurity (Remote)",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Aircraft Maintenance and Support",
+      "level": "3",
+      "posted": "2026-10-22",
+      "url": "https://careers.united.com/us/en/job/WHQ00026976"
+    },
+    {
+      "id": "MIA00000131",
+      "title": "Controller - Base Maintenance Material",
+      "city": "Miami",
+      "state": "Florida",
+      "country": "United States",
+      "category": "Aircraft Maintenance and Support",
+      "level": "6",
+      "posted": "2026-10-22",
+      "url": "https://careers.united.com/us/en/job/MIA00000131"
+    },
     {
       "id": "DEN00006947",
       "title": "Training Scheduler - Flght Ops",
@@ -48,7 +114,7 @@
     },
     {
       "id": "IAH00005749",
-      "title": "Senior Staff Representative - Quality Assurance, Airworthiness Directive Compliance",
+      "title": "Senior Staff Representative - Quality Assurance, Airworthiness Directive Compliance (Remote)",
       "city": "Houston",
       "state": "Texas",
       "country": "United States",
@@ -67,72 +133,6 @@
       "level": "Line/Hourly",
       "posted": "2026-10-21",
       "url": "https://careers.united.com/us/en/job/DEN00006779"
-    },
-    {
-      "id": "OPB00001016",
-      "title": "Senior Representative - NOC Security Desk",
-      "city": "Arlington Heights",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "5",
-      "posted": "2026-10-21",
-      "url": "https://careers.united.com/us/en/job/OPB00001016"
-    },
-    {
-      "id": "WHQ00027005",
-      "title": "Manager - Accounting (Hybrid)",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "4",
-      "posted": "2026-10-21",
-      "url": "https://careers.united.com/us/en/job/WHQ00027005"
-    },
-    {
-      "id": "DEN00006912",
-      "title": "Supervisor - Aircraft Maintenance",
-      "city": "Denver",
-      "state": "Colorado",
-      "country": "United States",
-      "category": "Aircraft Maintenance and Support",
-      "level": "6",
-      "posted": "2026-10-21",
-      "url": "https://careers.united.com/us/en/job/DEN00006912"
-    },
-    {
-      "id": "SFO00005449",
-      "title": "Storekeeper/ Material Handler - GSE",
-      "city": "San Francisco",
-      "state": "California",
-      "country": "United States",
-      "category": "At the Airport",
-      "level": "Line/Hourly",
-      "posted": "2026-10-21",
-      "url": "https://careers.united.com/us/en/job/SFO00005449"
-    },
-    {
-      "id": "LAX00001766",
-      "title": "Customer Service Represntative - (Cantonese)Interpreter",
-      "city": "Los Angeles",
-      "state": "California",
-      "country": "United States",
-      "category": "Customer Solutions",
-      "level": "Line/Hourly",
-      "posted": "2026-10-21",
-      "url": "https://careers.united.com/us/en/job/LAX00001766"
-    },
-    {
-      "id": "LAX00001765",
-      "title": "Customer Service Represntative - (Japanese) Interpreter",
-      "city": "Los Angeles",
-      "state": "California",
-      "country": "United States",
-      "category": "Customer Solutions",
-      "level": "Line/Hourly",
-      "posted": "2026-10-21",
-      "url": "https://careers.united.com/us/en/job/LAX00001765"
     }
   ]
 }
