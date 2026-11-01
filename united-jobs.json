@@ -1,7 +1,18 @@
 {
-  "updated": "2026-10-31",
+  "updated": "2026-11-01",
   "student": [],
   "recent": [
+    {
+      "id": "WHQ00027003",
+      "title": "Senior Manager Ops Product Delivery",
+      "city": "Arlington Heights",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "3",
+      "posted": "2026-11-01",
+      "url": "https://careers.united.com/us/en/job/WHQ00027003"
+    },
     {
       "id": "LGA00000244",
       "title": "Ramp Service Employee - Part-Time",
@@ -122,17 +133,6 @@
       "level": "1",
       "posted": "2026-10-30",
       "url": "https://careers.united.com/us/en/job/WHQ00027046"
-    },
-    {
-      "id": "ORD00003666",
-      "title": "Cargo Rep-Internal Support",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "At the Airport",
-      "level": "Line/Hourly",
-      "posted": "2026-10-30",
-      "url": "https://careers.united.com/us/en/job/ORD00003666"
     }
   ]
 }
