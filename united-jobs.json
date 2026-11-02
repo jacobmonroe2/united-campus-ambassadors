@@ -1,7 +1,128 @@
 {
-  "updated": "2026-11-01",
+  "updated": "2026-11-02",
   "student": [],
   "recent": [
+    {
+      "id": "SFO00005440",
+      "title": "Operational Excellence & CPI Manager",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "category": "Aircraft Maintenance and Support",
+      "level": "4",
+      "posted": "2026-11-02",
+      "url": "https://careers.united.com/us/en/job/SFO00005440"
+    },
+    {
+      "id": "ORD00003714",
+      "title": "Engineer - IT Field Services",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Digital Technology",
+      "level": "6",
+      "posted": "2026-11-02",
+      "url": "https://careers.united.com/us/en/job/ORD00003714"
+    },
+    {
+      "id": "WHQ00026722",
+      "title": "Senior Technical Business  Analyst - Information Technology",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Digital Technology",
+      "level": "4",
+      "posted": "2026-11-02",
+      "url": "https://careers.united.com/us/en/job/WHQ00026722"
+    },
+    {
+      "id": "OPB00001022",
+      "title": "AOG Controller",
+      "city": "Arlington Heights",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Aircraft Maintenance and Support",
+      "level": "6",
+      "posted": "2026-11-02",
+      "url": "https://careers.united.com/us/en/job/OPB00001022"
+    },
+    {
+      "id": "EWR00004785",
+      "title": "Assistant Manager - AO Projects and Execution",
+      "city": "Newark",
+      "state": "New Jersey",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "5",
+      "posted": "2026-11-02",
+      "url": "https://careers.united.com/us/en/job/EWR00004785"
+    },
+    {
+      "id": "OPB00001018",
+      "title": "Flight Dispatcher (Greater Chicago Area)",
+      "city": "Arlington Heights",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "Line/Hourly",
+      "posted": "2026-11-02",
+      "url": "https://careers.united.com/us/en/job/OPB00001018"
+    },
+    {
+      "id": "ORD00003699",
+      "title": "Storekeeper / Material Handler - Full Time",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "At the Airport",
+      "level": "Line/Hourly",
+      "posted": "2026-11-02",
+      "url": "https://careers.united.com/us/en/job/ORD00003699"
+    },
+    {
+      "id": "LGA00000243",
+      "title": "Facilities Maintenance Technician (Building Engineer)",
+      "city": "New York",
+      "state": "New York",
+      "country": "United States",
+      "category": "At the Airport",
+      "level": "Line/Hourly",
+      "posted": "2026-11-02",
+      "url": "https://careers.united.com/us/en/job/LGA00000243"
+    },
+    {
+      "id": "IAH00005747",
+      "title": "Senior Systems Analyst - Configuration Management & Technical Records",
+      "city": "Houston",
+      "state": "Texas",
+      "country": "United States",
+      "category": "Aircraft Maintenance and Support",
+      "level": "5",
+      "posted": "2026-11-02",
+      "url": "https://careers.united.com/us/en/job/IAH00005747"
+    },
+    {
+      "id": "IAH00005748",
+      "title": "Senior Analyst - Technical Records",
+      "city": "Houston",
+      "state": "Texas",
+      "country": "United States",
+      "category": "Aircraft Maintenance and Support",
+      "level": "5",
+      "posted": "2026-11-02",
+      "url": "https://careers.united.com/us/en/job/IAH00005748"
+    },
+    {
+      "id": "IAH00005750",
+      "title": "Sr Analst - Config Mgmt",
+      "city": "Houston",
+      "state": "Texas",
+      "country": "United States",
+      "category": "Aircraft Maintenance and Support",
+      "level": "5",
+      "posted": "2026-11-02",
+      "url": "https://careers.united.com/us/en/job/IAH00005750"
+    },
     {
       "id": "WHQ00027003",
       "title": "Senior Manager Ops Product Delivery",
@@ -12,127 +133,6 @@
       "level": "3",
       "posted": "2026-11-01",
       "url": "https://careers.united.com/us/en/job/WHQ00027003"
-    },
-    {
-      "id": "LGA00000244",
-      "title": "Ramp Service Employee - Part-Time",
-      "city": "New York",
-      "state": "New York",
-      "country": "United States",
-      "category": "At the Airport",
-      "level": "Line/Hourly",
-      "posted": "2026-10-31",
-      "url": "https://careers.united.com/us/en/job/LGA00000244"
-    },
-    {
-      "id": "LAX00001791",
-      "title": "Supervisor - Ramp Airport Operations",
-      "city": "Los Angeles",
-      "state": "California",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "6",
-      "posted": "2026-10-31",
-      "url": "https://careers.united.com/us/en/job/LAX00001791"
-    },
-    {
-      "id": "IAD00001987",
-      "title": "Facilities Maintenance Technician (Building Engineer) - $10,000 Sign on Bonus",
-      "city": "Dulles",
-      "state": "Virginia",
-      "country": "United States",
-      "category": "At the Airport",
-      "level": "Line/Hourly",
-      "posted": "2026-10-31",
-      "url": "https://careers.united.com/us/en/job/IAD00001987"
-    },
-    {
-      "id": "IAH00005758",
-      "title": "Coordinator - Airport Operations Station Support",
-      "city": "Houston",
-      "state": "Texas",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "9",
-      "posted": "2026-10-30",
-      "url": "https://careers.united.com/us/en/job/IAH00005758"
-    },
-    {
-      "id": "LAX00001792",
-      "title": "Supervisor - Aircraft Maintenance",
-      "city": "Los Angeles",
-      "state": "California",
-      "country": "United States",
-      "category": "Aircraft Maintenance and Support",
-      "level": "6",
-      "posted": "2026-10-30",
-      "url": "https://careers.united.com/us/en/job/LAX00001792"
-    },
-    {
-      "id": "EWR00004780",
-      "title": "Supervisor - Catering Operations & Logistics",
-      "city": "Newark",
-      "state": "New Jersey",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "6",
-      "posted": "2026-10-30",
-      "url": "https://careers.united.com/us/en/job/EWR00004780"
-    },
-    {
-      "id": "WHQ00027037",
-      "title": "Manager - Heavy Maintenance Execution Strategy",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Aircraft Maintenance and Support",
-      "level": "4",
-      "posted": "2026-10-30",
-      "url": "https://careers.united.com/us/en/job/WHQ00027037"
-    },
-    {
-      "id": "EWR00004770",
-      "title": "Facilities Utility Specialist",
-      "city": "Newark",
-      "state": "New Jersey",
-      "country": "United States",
-      "category": "At the Airport",
-      "level": "Line/Hourly",
-      "posted": "2026-10-30",
-      "url": "https://careers.united.com/us/en/job/EWR00004770"
-    },
-    {
-      "id": "DCH00000086",
-      "title": "Supervisor - Warehousing and Distribution",
-      "city": "Houston",
-      "state": "Texas",
-      "country": "United States",
-      "category": "Aircraft Maintenance and Support",
-      "level": "6",
-      "posted": "2026-10-30",
-      "url": "https://careers.united.com/us/en/job/DCH00000086"
-    },
-    {
-      "id": "DEN00006939",
-      "title": "Supervisor - Hub Business Partners",
-      "city": "Denver",
-      "state": "Colorado",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "6",
-      "posted": "2026-10-30",
-      "url": "https://careers.united.com/us/en/job/DEN00006939"
-    },
-    {
-      "id": "WHQ00027046",
-      "title": "Managing Director - Engine Maintenance Management",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Aircraft Maintenance and Support",
-      "level": "1",
-      "posted": "2026-10-30",
-      "url": "https://careers.united.com/us/en/job/WHQ00027046"
     }
   ]
 }
