@@ -1,138 +1,150 @@
 {
-  "updated": "2026-11-03",
-  "student": [],
+  "updated": "2026-11-04",
+  "student": [
+    {
+      "id": "GGN00002711",
+      "title": "Intern - Data Analytics",
+      "city": "Gurugram",
+      "state": "Haryana",
+      "country": "India",
+      "category": "Student and Early Career",
+      "level": "0",
+      "posted": "2026-11-04",
+      "url": "https://careers.united.com/us/en/job/GGN00002711"
+    }
+  ],
   "recent": [
     {
-      "id": "EWR00004785",
-      "title": "Assistant Manager - AO Projects and Execution",
-      "city": "Newark",
-      "state": "New Jersey",
+      "id": "WHQ00026995",
+      "title": "Analyst - Responsible AI & Privacy (Remote)",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Digital Technology",
+      "level": "5",
+      "posted": "2026-11-04",
+      "url": "https://careers.united.com/us/en/job/WHQ00026995"
+    },
+    {
+      "id": "HNL00001290",
+      "title": "Supervisor - Airport Operations",
+      "city": "Honolulu",
+      "state": "Hawaii",
       "country": "United States",
       "category": "Corporate",
-      "level": "5",
-      "posted": "2026-11-03",
-      "url": "https://careers.united.com/us/en/job/EWR00004785"
+      "level": "6",
+      "posted": "2026-11-04",
+      "url": "https://careers.united.com/us/en/job/HNL00001290"
     },
     {
-      "id": "SFO00005122",
-      "title": "Machinist Technician - Base",
-      "city": "San Francisco",
-      "state": "California",
-      "country": "United States",
-      "category": "At the Airport",
-      "level": "Line/Hourly",
-      "posted": "2026-11-03",
-      "url": "https://careers.united.com/us/en/job/SFO00005122"
-    },
-    {
-      "id": "SFO00005443",
-      "title": "Supervisor - Aircraft Maintenance",
-      "city": "San Francisco",
-      "state": "California",
+      "id": "ORD00003724",
+      "title": "Supervisor - Warehousing and Distribution",
+      "city": "Chicago",
+      "state": "Illinois",
       "country": "United States",
       "category": "Aircraft Maintenance and Support",
       "level": "6",
-      "posted": "2026-11-03",
-      "url": "https://careers.united.com/us/en/job/SFO00005443"
+      "posted": "2026-11-04",
+      "url": "https://careers.united.com/us/en/job/ORD00003724"
     },
     {
-      "id": "ORD00003714",
-      "title": "Engineer - IT Field Services",
+      "id": "WHQ00026990",
+      "title": "Artificial Intelligence and Intellectual Property Manager (Hybrid)",
       "city": "Chicago",
       "state": "Illinois",
       "country": "United States",
-      "category": "Digital Technology",
-      "level": "6",
-      "posted": "2026-11-02",
-      "url": "https://careers.united.com/us/en/job/ORD00003714"
+      "category": "Corporate",
+      "level": "4",
+      "posted": "2026-11-04",
+      "url": "https://careers.united.com/us/en/job/WHQ00026990"
     },
     {
-      "id": "WHQ00026545",
-      "title": "Machine Learning Engineering Manager",
+      "id": "WHQ00027028",
+      "title": "Managing Director - Quality Control (Chief Inspector)",
       "city": "Chicago",
       "state": "Illinois",
-      "country": "United States",
-      "category": "Digital Technology",
-      "level": "4",
-      "posted": "2026-11-02",
-      "url": "https://careers.united.com/us/en/job/WHQ00026545"
-    },
-    {
-      "id": "HSC00001096",
-      "title": ".NET Developer",
-      "city": "Houston",
-      "state": "Texas",
-      "country": "United States",
-      "category": "Digital Technology",
-      "level": "5",
-      "posted": "2026-11-02",
-      "url": "https://careers.united.com/us/en/job/HSC00001096"
-    },
-    {
-      "id": "SAT00000240",
-      "title": "Ramp Service Employee - Part-Time",
-      "city": "San Antonio",
-      "state": "Texas",
-      "country": "United States",
-      "category": "At the Airport",
-      "level": "Line/Hourly",
-      "posted": "2026-11-02",
-      "url": "https://careers.united.com/us/en/job/SAT00000240"
-    },
-    {
-      "id": "HSC00001103",
-      "title": "Lead Engineer – Automation Modernization",
-      "city": "Houston",
-      "state": "Texas",
-      "country": "United States",
-      "category": "Digital Technology",
-      "level": "4",
-      "posted": "2026-11-02",
-      "url": "https://careers.united.com/us/en/job/HSC00001103"
-    },
-    {
-      "id": "SFO00005440",
-      "title": "Operational Excellence & CPI Manager",
-      "city": "San Francisco",
-      "state": "California",
       "country": "United States",
       "category": "Aircraft Maintenance and Support",
-      "level": "4",
-      "posted": "2026-11-02",
-      "url": "https://careers.united.com/us/en/job/SFO00005440"
+      "level": "1",
+      "posted": "2026-11-04",
+      "url": "https://careers.united.com/us/en/job/WHQ00027028"
     },
     {
-      "id": "WHQ00026722",
-      "title": "Senior Technical Business  Analyst - Information Technology",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Digital Technology",
-      "level": "4",
-      "posted": "2026-11-02",
-      "url": "https://careers.united.com/us/en/job/WHQ00026722"
-    },
-    {
-      "id": "OPB00001022",
-      "title": "AOG Controller",
+      "id": "OPB00001018",
+      "title": "Flight Dispatcher (Greater Chicago Area)",
       "city": "Arlington Heights",
       "state": "Illinois",
       "country": "United States",
-      "category": "Aircraft Maintenance and Support",
-      "level": "6",
-      "posted": "2026-11-02",
-      "url": "https://careers.united.com/us/en/job/OPB00001022"
+      "category": "Corporate",
+      "level": "Line/Hourly",
+      "posted": "2026-11-04",
+      "url": "https://careers.united.com/us/en/job/OPB00001018"
     },
     {
-      "id": "ORD00003699",
-      "title": "Storekeeper / Material Handler - Full Time",
-      "city": "Chicago",
+      "id": "LAX00001763",
+      "title": "Customer Service Represntative - (Vietnamese)Interpreter",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "category": "Customer Solutions",
+      "level": "Line/Hourly",
+      "posted": "2026-11-04",
+      "url": "https://careers.united.com/us/en/job/LAX00001763"
+    },
+    {
+      "id": "OPB00000988",
+      "title": "Crew Scheduler - Pilot",
+      "city": "Arlington Heights",
       "state": "Illinois",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "7",
+      "posted": "2026-11-03",
+      "url": "https://careers.united.com/us/en/job/OPB00000988"
+    },
+    {
+      "id": "DEN00006910",
+      "title": "Sheet Metal Technician - Line",
+      "city": "Denver",
+      "state": "Colorado",
       "country": "United States",
       "category": "At the Airport",
       "level": "Line/Hourly",
-      "posted": "2026-11-02",
-      "url": "https://careers.united.com/us/en/job/ORD00003699"
+      "posted": "2026-11-03",
+      "url": "https://careers.united.com/us/en/job/DEN00006910"
+    },
+    {
+      "id": "HSC00001104",
+      "title": "Principal Developer - AI",
+      "city": "Houston",
+      "state": "Texas",
+      "country": "United States",
+      "category": "Digital Technology",
+      "level": "3",
+      "posted": "2026-11-03",
+      "url": "https://careers.united.com/us/en/job/HSC00001104"
+    },
+    {
+      "id": "WHQ00027029",
+      "title": "Senior Manager - Identity & Access (Remote) Management",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Digital Technology",
+      "level": "3",
+      "posted": "2026-11-03",
+      "url": "https://careers.united.com/us/en/job/WHQ00027029"
+    },
+    {
+      "id": "WHQ00027023",
+      "title": "Senior Engineer - Enterprise AI Risk (Remote)",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Digital Technology",
+      "level": "4",
+      "posted": "2026-11-03",
+      "url": "https://careers.united.com/us/en/job/WHQ00027023"
     }
   ]
 }
