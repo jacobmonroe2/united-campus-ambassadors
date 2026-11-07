@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06",
+  "updated": "2026-11-07",
   "student": [
     {
       "id": "GGN00002711",
@@ -14,6 +14,105 @@
     }
   ],
   "recent": [
+    {
+      "id": "WHQ00027043",
+      "title": "Senior Analyst - Customer Strategy & Innovation (Chicago or Houston)",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "5",
+      "posted": "2026-11-07",
+      "url": "https://careers.united.com/us/en/job/WHQ00027043"
+    },
+    {
+      "id": "EWR00004787",
+      "title": "Supervisor - Aircraft Maintenance",
+      "city": "Newark",
+      "state": "New Jersey",
+      "country": "United States",
+      "category": "Aircraft Maintenance and Support",
+      "level": "6",
+      "posted": "2026-11-07",
+      "url": "https://careers.united.com/us/en/job/EWR00004787"
+    },
+    {
+      "id": "WHQ00027045",
+      "title": "Managing Director - Digital Infrastructure and Reliability",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Digital Technology",
+      "level": "1",
+      "posted": "2026-11-06",
+      "url": "https://careers.united.com/us/en/job/WHQ00027045"
+    },
+    {
+      "id": "WHQ00026962",
+      "title": "Director - Network Infrastructure Security & Engineering",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Digital Technology",
+      "level": "2",
+      "posted": "2026-11-06",
+      "url": "https://careers.united.com/us/en/job/WHQ00026962"
+    },
+    {
+      "id": "WHQ00027032",
+      "title": "Senior Manager In-Person/Employee Co-Brand Acquisition",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "3",
+      "posted": "2026-11-06",
+      "url": "https://careers.united.com/us/en/job/WHQ00027032"
+    },
+    {
+      "id": "SAN00000274",
+      "title": "Supervisor - Airport Operations",
+      "city": "San Diego",
+      "state": "California",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "6",
+      "posted": "2026-11-06",
+      "url": "https://careers.united.com/us/en/job/SAN00000274"
+    },
+    {
+      "id": "WHQ00027060",
+      "title": "Senior Manager - UX Design & Innovation",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Digital Technology",
+      "level": "3",
+      "posted": "2026-11-06",
+      "url": "https://careers.united.com/us/en/job/WHQ00027060"
+    },
+    {
+      "id": "WHQ00026912",
+      "title": "Counsel - Privacy",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "2",
+      "posted": "2026-11-06",
+      "url": "https://careers.united.com/us/en/job/WHQ00026912"
+    },
+    {
+      "id": "SFO00005405",
+      "title": "General Shop Technician",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "category": "At the Airport",
+      "level": "Line/Hourly",
+      "posted": "2026-11-06",
+      "url": "https://careers.united.com/us/en/job/SFO00005405"
+    },
     {
       "id": "IAD00002044",
       "title": "Material Handler / Storekeeper - Full Time",
@@ -46,105 +145,6 @@
       "level": "4",
       "posted": "2026-11-06",
       "url": "https://careers.united.com/us/en/job/WHQ00026971"
-    },
-    {
-      "id": "DEN00006812",
-      "title": "Avionics Technician - Line",
-      "city": "Denver",
-      "state": "Colorado",
-      "country": "United States",
-      "category": "At the Airport",
-      "level": "Line/Hourly",
-      "posted": "2026-11-06",
-      "url": "https://careers.united.com/us/en/job/DEN00006812"
-    },
-    {
-      "id": "IAH00005740",
-      "title": "Instructor - Maintenance Operations",
-      "city": "Houston",
-      "state": "Texas",
-      "country": "United States",
-      "category": "At the Airport",
-      "level": "Line/Hourly",
-      "posted": "2026-11-06",
-      "url": "https://careers.united.com/us/en/job/IAH00005740"
-    },
-    {
-      "id": "WHQ00027036",
-      "title": "Product Manager - IT Metrics & Governance",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Digital Technology",
-      "level": "4",
-      "posted": "2026-11-05",
-      "url": "https://careers.united.com/us/en/job/WHQ00027036"
-    },
-    {
-      "id": "WHQ00026882",
-      "title": "Senior Manager - Application Development",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Digital Technology",
-      "level": "3",
-      "posted": "2026-11-05",
-      "url": "https://careers.united.com/us/en/job/WHQ00026882"
-    },
-    {
-      "id": "WHQ00026880-A",
-      "title": "Associate Analyst - Technical Operations Strategic Planning",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Aircraft Maintenance and Support",
-      "level": "7",
-      "posted": "2026-11-05",
-      "url": "https://careers.united.com/us/en/job/WHQ00026880-A"
-    },
-    {
-      "id": "EWR00004779",
-      "title": "Hub Maintenance Coordinator",
-      "city": "Newark",
-      "state": "New Jersey",
-      "country": "United States",
-      "category": "Aircraft Maintenance and Support",
-      "level": "6",
-      "posted": "2026-11-05",
-      "url": "https://careers.united.com/us/en/job/EWR00004779"
-    },
-    {
-      "id": "WHQ00027001",
-      "title": "Senior Analyst - Pricing Implementation",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "5",
-      "posted": "2026-11-05",
-      "url": "https://careers.united.com/us/en/job/WHQ00027001"
-    },
-    {
-      "id": "WHQ00027004",
-      "title": "Analyst - Pricing Implementation",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "6",
-      "posted": "2026-11-05",
-      "url": "https://careers.united.com/us/en/job/WHQ00027004"
-    },
-    {
-      "id": "IAH00005760",
-      "title": "Recruiting Representative (Hybrid)",
-      "city": "Houston",
-      "state": "Texas",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "7",
-      "posted": "2026-11-05",
-      "url": "https://careers.united.com/us/en/job/IAH00005760"
     }
   ]
 }
