@@ -1,7 +1,128 @@
 {
-  "updated": "2026-11-09",
+  "updated": "2026-11-10",
   "student": [],
   "recent": [
+    {
+      "id": "FA2026-6",
+      "title": "Flight Attendant",
+      "city": "Houston",
+      "state": "Texas",
+      "country": "United States",
+      "category": "Flight Attendant",
+      "level": "Line/Hourly",
+      "posted": "2026-11-10",
+      "url": "https://careers.united.com/us/en/job/FA2026-6"
+    },
+    {
+      "id": "FA2026-LQ-ITA-4",
+      "title": "Flight Attendant (Italian Speakers Only)",
+      "city": "Newark",
+      "state": "New Jersey",
+      "country": "United States",
+      "category": "Flight Attendant",
+      "level": "Line/Hourly",
+      "posted": "2026-11-10",
+      "url": "https://careers.united.com/us/en/job/FA2026-LQ-ITA-4"
+    },
+    {
+      "id": "FA2026-LQ-HEB-4",
+      "title": "Flight Attendant (Hebrew Speakers Only)",
+      "city": "Newark",
+      "state": "New Jersey",
+      "country": "United States",
+      "category": "Flight Attendant",
+      "level": "Line/Hourly",
+      "posted": "2026-11-10",
+      "url": "https://careers.united.com/us/en/job/FA2026-LQ-HEB-4"
+    },
+    {
+      "id": "FA2026-LQ-GRE-4",
+      "title": "Flight Attendant (Greek Speakers Only)",
+      "city": "Newark",
+      "state": "New Jersey",
+      "country": "United States",
+      "category": "Flight Attendant",
+      "level": "Line/Hourly",
+      "posted": "2026-11-10",
+      "url": "https://careers.united.com/us/en/job/FA2026-LQ-GRE-4"
+    },
+    {
+      "id": "FA2026-LQ-GER-4",
+      "title": "Flight Attendant (German Speakers Only)",
+      "city": "Newark",
+      "state": "New Jersey",
+      "country": "United States",
+      "category": "Flight Attendant",
+      "level": "Line/Hourly",
+      "posted": "2026-11-10",
+      "url": "https://careers.united.com/us/en/job/FA2026-LQ-GER-4"
+    },
+    {
+      "id": "FA2026-LQ-DUT-4",
+      "title": "Flight Attendant (Dutch Speakers Only)",
+      "city": "Newark",
+      "state": "New Jersey",
+      "country": "United States",
+      "category": "Flight Attendant",
+      "level": "Line/Hourly",
+      "posted": "2026-11-10",
+      "url": "https://careers.united.com/us/en/job/FA2026-LQ-DUT-4"
+    },
+    {
+      "id": "WHQ00026687",
+      "title": "Engineer - Flight Operations (Remote)",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "6",
+      "posted": "2026-11-09",
+      "url": "https://careers.united.com/us/en/job/WHQ00026687"
+    },
+    {
+      "id": "CLE00000764",
+      "title": "Supervisor - Aircraft Maintenance",
+      "city": "Cleveland",
+      "state": "Ohio",
+      "country": "United States",
+      "category": "Aircraft Maintenance and Support",
+      "level": "6",
+      "posted": "2026-11-09",
+      "url": "https://careers.united.com/us/en/job/CLE00000764"
+    },
+    {
+      "id": "SEA00000500",
+      "title": "Supervisor - Airport Operations",
+      "city": "Seattle",
+      "state": "Washington",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "6",
+      "posted": "2026-11-09",
+      "url": "https://careers.united.com/us/en/job/SEA00000500"
+    },
+    {
+      "id": "DEN00006951",
+      "title": "Assistant Manager - Airport Operations Customer Service",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "5",
+      "posted": "2026-11-09",
+      "url": "https://careers.united.com/us/en/job/DEN00006951"
+    },
+    {
+      "id": "DEN00006934",
+      "title": "Supervisor - Customer Service Airport Operations",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "6",
+      "posted": "2026-11-09",
+      "url": "https://careers.united.com/us/en/job/DEN00006934"
+    },
     {
       "id": "SFO00005513",
       "title": "Assistant Manager - Inflight",
@@ -12,127 +133,6 @@
       "level": "5",
       "posted": "2026-11-09",
       "url": "https://careers.united.com/us/en/job/SFO00005513"
-    },
-    {
-      "id": "SFO00005490",
-      "title": "Senior Engineer - Landing Gear Shop Support",
-      "city": "San Francisco",
-      "state": "California",
-      "country": "United States",
-      "category": "Aircraft Maintenance and Support",
-      "level": "5",
-      "posted": "2026-11-09",
-      "url": "https://careers.united.com/us/en/job/SFO00005490"
-    },
-    {
-      "id": "WHQ00027038",
-      "title": "Senior Analyst - Contract Administration",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Aircraft Maintenance and Support",
-      "level": "5",
-      "posted": "2026-11-09",
-      "url": "https://careers.united.com/us/en/job/WHQ00027038"
-    },
-    {
-      "id": "WHQ00027050",
-      "title": "Engineer- Structures",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Aircraft Maintenance and Support",
-      "level": "6",
-      "posted": "2026-11-09",
-      "url": "https://careers.united.com/us/en/job/WHQ00027050"
-    },
-    {
-      "id": "EWR00004731",
-      "title": "Project Manager II - CRE - Planning and Development (Onsite)",
-      "city": "Newark",
-      "state": "New Jersey",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "4",
-      "posted": "2026-11-09",
-      "url": "https://careers.united.com/us/en/job/EWR00004731"
-    },
-    {
-      "id": "WHQ00027064",
-      "title": "Senior Insights Analyst - Digital Optimization (Hybrid)",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "5",
-      "posted": "2026-11-09",
-      "url": "https://careers.united.com/us/en/job/WHQ00027064"
-    },
-    {
-      "id": "WHQ00027043",
-      "title": "Senior Analyst - Customer Strategy & Innovation (Chicago or Houston)",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "5",
-      "posted": "2026-11-07",
-      "url": "https://careers.united.com/us/en/job/WHQ00027043"
-    },
-    {
-      "id": "EWR00004787",
-      "title": "Supervisor - Aircraft Maintenance",
-      "city": "Newark",
-      "state": "New Jersey",
-      "country": "United States",
-      "category": "Aircraft Maintenance and Support",
-      "level": "6",
-      "posted": "2026-11-07",
-      "url": "https://careers.united.com/us/en/job/EWR00004787"
-    },
-    {
-      "id": "WHQ00027045",
-      "title": "Managing Director - Digital Infrastructure and Reliability",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Digital Technology",
-      "level": "1",
-      "posted": "2026-11-06",
-      "url": "https://careers.united.com/us/en/job/WHQ00027045"
-    },
-    {
-      "id": "WHQ00026962",
-      "title": "Director - Network Infrastructure Security & Engineering",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Digital Technology",
-      "level": "2",
-      "posted": "2026-11-06",
-      "url": "https://careers.united.com/us/en/job/WHQ00026962"
-    },
-    {
-      "id": "WHQ00027032",
-      "title": "Senior Manager In-Person/Employee Co-Brand Acquisition",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "3",
-      "posted": "2026-11-06",
-      "url": "https://careers.united.com/us/en/job/WHQ00027032"
-    },
-    {
-      "id": "SAN00000274",
-      "title": "Supervisor - Airport Operations",
-      "city": "San Diego",
-      "state": "California",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "6",
-      "posted": "2026-11-06",
-      "url": "https://careers.united.com/us/en/job/SAN00000274"
     }
   ]
 }
