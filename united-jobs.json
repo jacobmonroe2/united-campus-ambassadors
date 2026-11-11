@@ -1,138 +1,138 @@
 {
-  "updated": "2026-11-10",
+  "updated": "2026-11-11",
   "student": [],
   "recent": [
     {
-      "id": "FA2026-6",
-      "title": "Flight Attendant",
-      "city": "Houston",
-      "state": "Texas",
+      "id": "WHQ00026895",
+      "title": "Principal Architect - Information Technology",
+      "city": "Chicago",
+      "state": "Illinois",
       "country": "United States",
-      "category": "Flight Attendant",
-      "level": "Line/Hourly",
-      "posted": "2026-11-10",
-      "url": "https://careers.united.com/us/en/job/FA2026-6"
+      "category": "Digital Technology",
+      "level": "3",
+      "posted": "2026-11-11",
+      "url": "https://careers.united.com/us/en/job/WHQ00026895"
     },
     {
-      "id": "FA2026-LQ-ITA-4",
-      "title": "Flight Attendant (Italian Speakers Only)",
-      "city": "Newark",
-      "state": "New Jersey",
-      "country": "United States",
-      "category": "Flight Attendant",
-      "level": "Line/Hourly",
-      "posted": "2026-11-10",
-      "url": "https://careers.united.com/us/en/job/FA2026-LQ-ITA-4"
-    },
-    {
-      "id": "FA2026-LQ-HEB-4",
-      "title": "Flight Attendant (Hebrew Speakers Only)",
-      "city": "Newark",
-      "state": "New Jersey",
-      "country": "United States",
-      "category": "Flight Attendant",
-      "level": "Line/Hourly",
-      "posted": "2026-11-10",
-      "url": "https://careers.united.com/us/en/job/FA2026-LQ-HEB-4"
-    },
-    {
-      "id": "FA2026-LQ-GRE-4",
-      "title": "Flight Attendant (Greek Speakers Only)",
-      "city": "Newark",
-      "state": "New Jersey",
-      "country": "United States",
-      "category": "Flight Attendant",
-      "level": "Line/Hourly",
-      "posted": "2026-11-10",
-      "url": "https://careers.united.com/us/en/job/FA2026-LQ-GRE-4"
-    },
-    {
-      "id": "FA2026-LQ-GER-4",
-      "title": "Flight Attendant (German Speakers Only)",
-      "city": "Newark",
-      "state": "New Jersey",
-      "country": "United States",
-      "category": "Flight Attendant",
-      "level": "Line/Hourly",
-      "posted": "2026-11-10",
-      "url": "https://careers.united.com/us/en/job/FA2026-LQ-GER-4"
-    },
-    {
-      "id": "FA2026-LQ-DUT-4",
-      "title": "Flight Attendant (Dutch Speakers Only)",
-      "city": "Newark",
-      "state": "New Jersey",
-      "country": "United States",
-      "category": "Flight Attendant",
-      "level": "Line/Hourly",
-      "posted": "2026-11-10",
-      "url": "https://careers.united.com/us/en/job/FA2026-LQ-DUT-4"
-    },
-    {
-      "id": "WHQ00026687",
-      "title": "Engineer - Flight Operations (Remote)",
+      "id": "WHQ00027027",
+      "title": "Global Procurement - Strategic Sourcing Manager (Digital Technology)",
       "city": "Chicago",
       "state": "Illinois",
       "country": "United States",
       "category": "Corporate",
-      "level": "6",
-      "posted": "2026-11-09",
-      "url": "https://careers.united.com/us/en/job/WHQ00026687"
-    },
-    {
-      "id": "CLE00000764",
-      "title": "Supervisor - Aircraft Maintenance",
-      "city": "Cleveland",
-      "state": "Ohio",
-      "country": "United States",
-      "category": "Aircraft Maintenance and Support",
-      "level": "6",
-      "posted": "2026-11-09",
-      "url": "https://careers.united.com/us/en/job/CLE00000764"
-    },
-    {
-      "id": "SEA00000500",
-      "title": "Supervisor - Airport Operations",
-      "city": "Seattle",
-      "state": "Washington",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "6",
-      "posted": "2026-11-09",
-      "url": "https://careers.united.com/us/en/job/SEA00000500"
-    },
-    {
-      "id": "DEN00006951",
-      "title": "Assistant Manager - Airport Operations Customer Service",
-      "city": "Denver",
-      "state": "Colorado",
-      "country": "United States",
-      "category": "Corporate",
       "level": "5",
-      "posted": "2026-11-09",
-      "url": "https://careers.united.com/us/en/job/DEN00006951"
+      "posted": "2026-11-11",
+      "url": "https://careers.united.com/us/en/job/WHQ00027027"
     },
     {
-      "id": "DEN00006934",
-      "title": "Supervisor - Customer Service Airport Operations",
-      "city": "Denver",
-      "state": "Colorado",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "6",
-      "posted": "2026-11-09",
-      "url": "https://careers.united.com/us/en/job/DEN00006934"
-    },
-    {
-      "id": "SFO00005513",
-      "title": "Assistant Manager - Inflight",
-      "city": "San Francisco",
+      "id": "LAX00001793",
+      "title": "Ramp Tower Controller - Air Traffic Strategy",
+      "city": "Los Angeles",
       "state": "California",
       "country": "United States",
       "category": "Corporate",
-      "level": "5",
-      "posted": "2026-11-09",
-      "url": "https://careers.united.com/us/en/job/SFO00005513"
+      "level": "6",
+      "posted": "2026-11-11",
+      "url": "https://careers.united.com/us/en/job/LAX00001793"
+    },
+    {
+      "id": "WHQ00027053",
+      "title": "Senior Manager - Safety Management Systems Programs (Hybrid)",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "3",
+      "posted": "2026-11-11",
+      "url": "https://careers.united.com/us/en/job/WHQ00027053"
+    },
+    {
+      "id": "DEN00006953",
+      "title": "Senior Coordinator - Airport Operations Station Support",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "8",
+      "posted": "2026-11-10",
+      "url": "https://careers.united.com/us/en/job/DEN00006953"
+    },
+    {
+      "id": "HSC00001092",
+      "title": "Associate Developer - Information Technology",
+      "city": "Houston",
+      "state": "Texas",
+      "country": "United States",
+      "category": "Digital Technology",
+      "level": "6",
+      "posted": "2026-11-10",
+      "url": "https://careers.united.com/us/en/job/HSC00001092"
+    },
+    {
+      "id": "EWR00004775",
+      "title": "Instructor - Maintenance Operations",
+      "city": "Newark",
+      "state": "New Jersey",
+      "country": "United States",
+      "category": "At the Airport",
+      "level": "Line/Hourly",
+      "posted": "2026-11-10",
+      "url": "https://careers.united.com/us/en/job/EWR00004775"
+    },
+    {
+      "id": "WHQ00027056",
+      "title": "Senior Engineer - Fraud Detection (Remote)",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Digital Technology",
+      "level": "4",
+      "posted": "2026-11-10",
+      "url": "https://careers.united.com/us/en/job/WHQ00027056"
+    },
+    {
+      "id": "WHQ00027055",
+      "title": "Senior Manager - Fraud Operations (Remote)",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Digital Technology",
+      "level": "3",
+      "posted": "2026-11-10",
+      "url": "https://careers.united.com/us/en/job/WHQ00027055"
+    },
+    {
+      "id": "IAD00002063",
+      "title": "Employee Assistance Program - Regional Manager",
+      "city": "Dulles",
+      "state": "Virginia",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "4",
+      "posted": "2026-11-10",
+      "url": "https://careers.united.com/us/en/job/IAD00002063"
+    },
+    {
+      "id": "WHQ00027054",
+      "title": "Senior Manager - Fraud Strategy (Remote)",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Digital Technology",
+      "level": "3",
+      "posted": "2026-11-10",
+      "url": "https://careers.united.com/us/en/job/WHQ00027054"
+    },
+    {
+      "id": "WHQ00027052",
+      "title": "Program Manager - Digital Fraud (Remote)",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Digital Technology",
+      "level": "4",
+      "posted": "2026-11-10",
+      "url": "https://careers.united.com/us/en/job/WHQ00027052"
     }
   ]
 }
