@@ -1,94 +1,127 @@
 {
-  "updated": "2026-11-11",
+  "updated": "2026-11-12",
   "student": [],
   "recent": [
     {
-      "id": "WHQ00026895",
-      "title": "Principal Architect - Information Technology",
+      "id": "WHQ00027071",
+      "title": "Senior Engineer- Cabin Systems",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Aircraft Maintenance and Support",
+      "level": "5",
+      "posted": "2026-11-12",
+      "url": "https://careers.united.com/us/en/job/WHQ00027071"
+    },
+    {
+      "id": "WHQ00027067",
+      "title": "Engineer- Cabin Systems",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Aircraft Maintenance and Support",
+      "level": "6",
+      "posted": "2026-11-12",
+      "url": "https://careers.united.com/us/en/job/WHQ00027067"
+    },
+    {
+      "id": "DEN00006958",
+      "title": "Manager - Flight Ops Transformation",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "4",
+      "posted": "2026-11-12",
+      "url": "https://careers.united.com/us/en/job/DEN00006958"
+    },
+    {
+      "id": "WHQ00026394",
+      "title": "Associate Analyst - Pricing & Revenue Management (Campus 2027 Hires/New Grads)",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "7",
+      "posted": "2026-11-12",
+      "url": "https://careers.united.com/us/en/job/WHQ00026394"
+    },
+    {
+      "id": "WHQ00026827",
+      "title": "Developer - Java, Spring Boot",
       "city": "Chicago",
       "state": "Illinois",
       "country": "United States",
       "category": "Digital Technology",
-      "level": "3",
-      "posted": "2026-11-11",
-      "url": "https://careers.united.com/us/en/job/WHQ00026895"
+      "level": "5",
+      "posted": "2026-11-12",
+      "url": "https://careers.united.com/us/en/job/WHQ00026827"
     },
     {
-      "id": "WHQ00027027",
-      "title": "Global Procurement - Strategic Sourcing Manager (Digital Technology)",
+      "id": "WHQ00026996",
+      "title": "Representative - Operations Scheduling & Payroll",
+      "city": "Arlington Heights",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "7",
+      "posted": "2026-11-12",
+      "url": "https://careers.united.com/us/en/job/WHQ00026996"
+    },
+    {
+      "id": "WHQ00027039",
+      "title": "Senior Analyst - Global Procurement (Hybrid)",
       "city": "Chicago",
       "state": "Illinois",
       "country": "United States",
       "category": "Corporate",
       "level": "5",
-      "posted": "2026-11-11",
-      "url": "https://careers.united.com/us/en/job/WHQ00027027"
+      "posted": "2026-11-12",
+      "url": "https://careers.united.com/us/en/job/WHQ00027039"
     },
     {
-      "id": "LAX00001793",
-      "title": "Ramp Tower Controller - Air Traffic Strategy",
+      "id": "LAX00001763",
+      "title": "Customer Service Represntative - (Vietnamese)Interpreter",
       "city": "Los Angeles",
       "state": "California",
       "country": "United States",
-      "category": "Corporate",
-      "level": "6",
-      "posted": "2026-11-11",
-      "url": "https://careers.united.com/us/en/job/LAX00001793"
+      "category": "Customer Solutions",
+      "level": "Line/Hourly",
+      "posted": "2026-11-12",
+      "url": "https://careers.united.com/us/en/job/LAX00001763"
     },
     {
-      "id": "WHQ00027053",
-      "title": "Senior Manager - Safety Management Systems Programs (Hybrid)",
+      "id": "WHQ00027074",
+      "title": "Analyst - Pilot PBS and Awards",
       "city": "Chicago",
       "state": "Illinois",
       "country": "United States",
       "category": "Corporate",
-      "level": "3",
+      "level": "6",
       "posted": "2026-11-11",
-      "url": "https://careers.united.com/us/en/job/WHQ00027053"
+      "url": "https://careers.united.com/us/en/job/WHQ00027074"
     },
     {
-      "id": "DEN00006953",
-      "title": "Senior Coordinator - Airport Operations Station Support",
+      "id": "DEN00006798",
+      "title": "Facilities Maintenance Technician - Building Engineer - $10,000 Sign On Bonus",
       "city": "Denver",
       "state": "Colorado",
       "country": "United States",
-      "category": "Corporate",
-      "level": "8",
-      "posted": "2026-11-10",
-      "url": "https://careers.united.com/us/en/job/DEN00006953"
-    },
-    {
-      "id": "HSC00001092",
-      "title": "Associate Developer - Information Technology",
-      "city": "Houston",
-      "state": "Texas",
-      "country": "United States",
-      "category": "Digital Technology",
-      "level": "6",
-      "posted": "2026-11-10",
-      "url": "https://careers.united.com/us/en/job/HSC00001092"
-    },
-    {
-      "id": "EWR00004775",
-      "title": "Instructor - Maintenance Operations",
-      "city": "Newark",
-      "state": "New Jersey",
-      "country": "United States",
       "category": "At the Airport",
       "level": "Line/Hourly",
-      "posted": "2026-11-10",
-      "url": "https://careers.united.com/us/en/job/EWR00004775"
+      "posted": "2026-11-11",
+      "url": "https://careers.united.com/us/en/job/DEN00006798"
     },
     {
-      "id": "WHQ00027056",
-      "title": "Senior Engineer - Fraud Detection (Remote)",
+      "id": "WHQ00027040",
+      "title": "Scrum Master - IT",
       "city": "Chicago",
       "state": "Illinois",
       "country": "United States",
       "category": "Digital Technology",
       "level": "4",
-      "posted": "2026-11-10",
-      "url": "https://careers.united.com/us/en/job/WHQ00027056"
+      "posted": "2026-11-11",
+      "url": "https://careers.united.com/us/en/job/WHQ00027040"
     },
     {
       "id": "WHQ00027055",
@@ -98,41 +131,8 @@
       "country": "United States",
       "category": "Digital Technology",
       "level": "3",
-      "posted": "2026-11-10",
+      "posted": "2026-11-11",
       "url": "https://careers.united.com/us/en/job/WHQ00027055"
-    },
-    {
-      "id": "IAD00002063",
-      "title": "Employee Assistance Program - Regional Manager",
-      "city": "Dulles",
-      "state": "Virginia",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "4",
-      "posted": "2026-11-10",
-      "url": "https://careers.united.com/us/en/job/IAD00002063"
-    },
-    {
-      "id": "WHQ00027054",
-      "title": "Senior Manager - Fraud Strategy (Remote)",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Digital Technology",
-      "level": "3",
-      "posted": "2026-11-10",
-      "url": "https://careers.united.com/us/en/job/WHQ00027054"
-    },
-    {
-      "id": "WHQ00027052",
-      "title": "Program Manager - Digital Fraud (Remote)",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Digital Technology",
-      "level": "4",
-      "posted": "2026-11-10",
-      "url": "https://careers.united.com/us/en/job/WHQ00027052"
     }
   ]
 }
