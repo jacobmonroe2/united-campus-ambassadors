@@ -1,7 +1,62 @@
 {
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "student": [],
   "recent": [
+    {
+      "id": "WHQ00027075",
+      "title": "Lead AI Process Engineer",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "4",
+      "posted": "2026-11-14",
+      "url": "https://careers.united.com/us/en/job/WHQ00027075"
+    },
+    {
+      "id": "WHQ00027077",
+      "title": "Forward Deployed Engineer",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "4",
+      "posted": "2026-11-14",
+      "url": "https://careers.united.com/us/en/job/WHQ00027077"
+    },
+    {
+      "id": "CLE00000761",
+      "title": "Avionics Technician - Line",
+      "city": "Cleveland",
+      "state": "Ohio",
+      "country": "United States",
+      "category": "At the Airport",
+      "level": "Line/Hourly",
+      "posted": "2026-11-13",
+      "url": "https://careers.united.com/us/en/job/CLE00000761"
+    },
+    {
+      "id": "WHQ00026818",
+      "title": "Principal Full Stack Developer - Java, React",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Digital Technology",
+      "level": "3",
+      "posted": "2026-11-13",
+      "url": "https://careers.united.com/us/en/job/WHQ00026818"
+    },
+    {
+      "id": "BIL00000162",
+      "title": "General Manager - Airport Operations",
+      "city": "Billings",
+      "state": "Montana",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "4",
+      "posted": "2026-11-13",
+      "url": "https://careers.united.com/us/en/job/BIL00000162"
+    },
     {
       "id": "PHX00000403",
       "title": "Supervisor - Airport Operations",
@@ -78,61 +133,6 @@
       "level": "5",
       "posted": "2026-11-12",
       "url": "https://careers.united.com/us/en/job/WHQ00027071"
-    },
-    {
-      "id": "WHQ00027067",
-      "title": "Engineer- Cabin Systems",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Aircraft Maintenance and Support",
-      "level": "6",
-      "posted": "2026-11-12",
-      "url": "https://careers.united.com/us/en/job/WHQ00027067"
-    },
-    {
-      "id": "DEN00006958",
-      "title": "Manager - Flight Ops Transformation",
-      "city": "Denver",
-      "state": "Colorado",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "4",
-      "posted": "2026-11-12",
-      "url": "https://careers.united.com/us/en/job/DEN00006958"
-    },
-    {
-      "id": "WHQ00026394",
-      "title": "Associate Analyst - Pricing & Revenue Management (Campus 2027 Hires/New Grads)",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "7",
-      "posted": "2026-11-12",
-      "url": "https://careers.united.com/us/en/job/WHQ00026394"
-    },
-    {
-      "id": "WHQ00026827",
-      "title": "Developer - Java, Spring Boot",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Digital Technology",
-      "level": "5",
-      "posted": "2026-11-12",
-      "url": "https://careers.united.com/us/en/job/WHQ00026827"
-    },
-    {
-      "id": "WHQ00026996",
-      "title": "Representative - Operations Scheduling & Payroll",
-      "city": "Arlington Heights",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "7",
-      "posted": "2026-11-12",
-      "url": "https://careers.united.com/us/en/job/WHQ00026996"
     }
   ]
 }
