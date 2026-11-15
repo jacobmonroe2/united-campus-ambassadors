@@ -1,7 +1,18 @@
 {
-  "updated": "2026-11-14",
+  "updated": "2026-11-15",
   "student": [],
   "recent": [
+    {
+      "id": "DEN00006961",
+      "title": "Supervisor - Flight Simulator Maintenance",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "6",
+      "posted": "2026-11-15",
+      "url": "https://careers.united.com/us/en/job/DEN00006961"
+    },
     {
       "id": "WHQ00027075",
       "title": "Lead AI Process Engineer",
@@ -122,17 +133,6 @@
       "level": "4",
       "posted": "2026-11-12",
       "url": "https://careers.united.com/us/en/job/SMF00000120"
-    },
-    {
-      "id": "WHQ00027071",
-      "title": "Senior Engineer- Cabin Systems",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Aircraft Maintenance and Support",
-      "level": "5",
-      "posted": "2026-11-12",
-      "url": "https://careers.united.com/us/en/job/WHQ00027071"
     }
   ]
 }
