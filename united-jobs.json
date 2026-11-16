@@ -1,7 +1,73 @@
 {
-  "updated": "2026-11-15",
+  "updated": "2026-11-16",
   "student": [],
   "recent": [
+    {
+      "id": "ORD00003551",
+      "title": "Facilities Maintenance Technician",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "At the Airport",
+      "level": "Line/Hourly",
+      "posted": "2026-11-16",
+      "url": "https://careers.united.com/us/en/job/ORD00003551"
+    },
+    {
+      "id": "DTW00000074",
+      "title": "Tech Ops Station Supervisor",
+      "city": "Detroit",
+      "state": "Michigan",
+      "country": "United States",
+      "category": "Aircraft Maintenance and Support",
+      "level": "6",
+      "posted": "2026-11-16",
+      "url": "https://careers.united.com/us/en/job/DTW00000074"
+    },
+    {
+      "id": "WHQ00027088",
+      "title": "Program Manager - Engine Supplier Management",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Aircraft Maintenance and Support",
+      "level": "5",
+      "posted": "2026-11-16",
+      "url": "https://careers.united.com/us/en/job/WHQ00027088"
+    },
+    {
+      "id": "IAD00002004",
+      "title": "Ground Service Equipment Technician (Automotive and Diesel) - $10,000 Sign on Bonus",
+      "city": "Dulles",
+      "state": "Virginia",
+      "country": "United States",
+      "category": "At the Airport",
+      "level": "Line/Hourly",
+      "posted": "2026-11-16",
+      "url": "https://careers.united.com/us/en/job/IAD00002004"
+    },
+    {
+      "id": "ORD00003712",
+      "title": "Shift Mgr - Aircraft Mtc",
+      "city": "Chicago",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Aircraft Maintenance and Support",
+      "level": "4",
+      "posted": "2026-11-16",
+      "url": "https://careers.united.com/us/en/job/ORD00003712"
+    },
+    {
+      "id": "CLE00000761",
+      "title": "Avionics Technician - Line",
+      "city": "Cleveland",
+      "state": "Ohio",
+      "country": "United States",
+      "category": "At the Airport",
+      "level": "Line/Hourly",
+      "posted": "2026-11-16",
+      "url": "https://careers.united.com/us/en/job/CLE00000761"
+    },
     {
       "id": "DEN00006961",
       "title": "Supervisor - Flight Simulator Maintenance",
@@ -36,17 +102,6 @@
       "url": "https://careers.united.com/us/en/job/WHQ00027077"
     },
     {
-      "id": "CLE00000761",
-      "title": "Avionics Technician - Line",
-      "city": "Cleveland",
-      "state": "Ohio",
-      "country": "United States",
-      "category": "At the Airport",
-      "level": "Line/Hourly",
-      "posted": "2026-11-13",
-      "url": "https://careers.united.com/us/en/job/CLE00000761"
-    },
-    {
       "id": "WHQ00026818",
       "title": "Principal Full Stack Developer - Java, React",
       "city": "Chicago",
@@ -78,61 +133,6 @@
       "level": "6",
       "posted": "2026-11-13",
       "url": "https://careers.united.com/us/en/job/PHX00000403"
-    },
-    {
-      "id": "IAH00005717",
-      "title": "Supervisor - Aircraft Maintenance",
-      "city": "Houston",
-      "state": "Texas",
-      "country": "United States",
-      "category": "Aircraft Maintenance and Support",
-      "level": "6",
-      "posted": "2026-11-13",
-      "url": "https://careers.united.com/us/en/job/IAH00005717"
-    },
-    {
-      "id": "WHQ00027057",
-      "title": "Data Analyst - Fraud Strategy (Remote)",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Digital Technology",
-      "level": "5",
-      "posted": "2026-11-13",
-      "url": "https://careers.united.com/us/en/job/WHQ00027057"
-    },
-    {
-      "id": "WHQ00027058",
-      "title": "Analyst - Fraud Operations (Remote)",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Digital Technology",
-      "level": "5",
-      "posted": "2026-11-13",
-      "url": "https://careers.united.com/us/en/job/WHQ00027058"
-    },
-    {
-      "id": "OPB00001025",
-      "title": "Director - Network Operations Safety, QA, & Regulatory Compliance",
-      "city": "Arlington Heights",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "2",
-      "posted": "2026-11-12",
-      "url": "https://careers.united.com/us/en/job/OPB00001025"
-    },
-    {
-      "id": "SMF00000120",
-      "title": "General Manager - Airport Operations",
-      "city": "Sacramento",
-      "state": "California",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "4",
-      "posted": "2026-11-12",
-      "url": "https://careers.united.com/us/en/job/SMF00000120"
     }
   ]
 }
