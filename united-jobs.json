@@ -1,7 +1,84 @@
 {
-  "updated": "2026-11-25",
+  "updated": "2026-11-26",
   "student": [],
   "recent": [
+    {
+      "id": "EWR00004789",
+      "title": "Material Handler / Storekeeper - Full Time",
+      "city": "Newark",
+      "state": "New Jersey",
+      "country": "United States",
+      "category": "At the Airport",
+      "level": "Line/Hourly",
+      "posted": "2026-11-26",
+      "url": "https://careers.united.com/us/en/job/EWR00004789"
+    },
+    {
+      "id": "DCA00000364",
+      "title": "Material Handler / Storekeeper - Full Time",
+      "city": "Washington",
+      "state": "District of Columbia",
+      "country": "United States",
+      "category": "At the Airport",
+      "level": "Line/Hourly",
+      "posted": "2026-11-26",
+      "url": "https://careers.united.com/us/en/job/DCA00000364"
+    },
+    {
+      "id": "OPB00001029",
+      "title": "Aircraft Router",
+      "city": "Arlington Heights",
+      "state": "Illinois",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "6",
+      "posted": "2026-11-25",
+      "url": "https://careers.united.com/us/en/job/OPB00001029"
+    },
+    {
+      "id": "DEN00006965",
+      "title": "Senior Specialist - Environmental Operations",
+      "city": "Denver",
+      "state": "Colorado",
+      "country": "United States",
+      "category": "Corporate",
+      "level": "5",
+      "posted": "2026-11-25",
+      "url": "https://careers.united.com/us/en/job/DEN00006965"
+    },
+    {
+      "id": "SFO00005480",
+      "title": "GSE Storekeeper - Full Time",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "category": "At the Airport",
+      "level": "Line/Hourly",
+      "posted": "2026-11-25",
+      "url": "https://careers.united.com/us/en/job/SFO00005480"
+    },
+    {
+      "id": "SFO00005461",
+      "title": "Material Handler / Storekeeper",
+      "city": "San Francisco",
+      "state": "California",
+      "country": "United States",
+      "category": "At the Airport",
+      "level": "Line/Hourly",
+      "posted": "2026-11-25",
+      "url": "https://careers.united.com/us/en/job/SFO00005461"
+    },
+    {
+      "id": "LAX00001808",
+      "title": "Assistant Manager - Ground Service Equipment Maintenance Operations",
+      "city": "Los Angeles",
+      "state": "California",
+      "country": "United States",
+      "category": "Aircraft Maintenance and Support",
+      "level": "5",
+      "posted": "2026-11-25",
+      "url": "https://careers.united.com/us/en/job/LAX00001808"
+    },
     {
       "id": "MCO00000775",
       "title": "Customer Service Representative - Part-Time",
@@ -56,83 +133,6 @@
       "level": "Line/Hourly",
       "posted": "2026-11-25",
       "url": "https://careers.united.com/us/en/job/IAD00002042"
-    },
-    {
-      "id": "WHQ00027157",
-      "title": "Manager - Airframe Vendor Management",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Aircraft Maintenance and Support",
-      "level": "4",
-      "posted": "2026-11-25",
-      "url": "https://careers.united.com/us/en/job/WHQ00027157"
-    },
-    {
-      "id": "ORD00003574",
-      "title": "Ramp Training Instructor",
-      "city": "San Francisco",
-      "state": "California",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "6",
-      "posted": "2026-11-25",
-      "url": "https://careers.united.com/us/en/job/ORD00003574"
-    },
-    {
-      "id": "HSC00001108",
-      "title": "Senior Manager - Flight Shop",
-      "city": "Houston",
-      "state": "Texas",
-      "country": "United States",
-      "category": "Digital Technology",
-      "level": "3",
-      "posted": "2026-11-25",
-      "url": "https://careers.united.com/us/en/job/HSC00001108"
-    },
-    {
-      "id": "WHQ00027108",
-      "title": "Associate Analyst - Operations Performance & Analytics",
-      "city": "Chicago",
-      "state": "Illinois",
-      "country": "United States",
-      "category": "Digital Technology",
-      "level": "7",
-      "posted": "2026-11-25",
-      "url": "https://careers.united.com/us/en/job/WHQ00027108"
-    },
-    {
-      "id": "DCA00000366",
-      "title": "Assistant General Manager - Line Station",
-      "city": "Washington",
-      "state": "District of Columbia",
-      "country": "United States",
-      "category": "Corporate",
-      "level": "4",
-      "posted": "2026-11-25",
-      "url": "https://careers.united.com/us/en/job/DCA00000366"
-    },
-    {
-      "id": "IAH00005779",
-      "title": "Senior Staff Representative - Cabin Maintenance Field Support",
-      "city": "Houston",
-      "state": "Texas",
-      "country": "United States",
-      "category": "Aircraft Maintenance and Support",
-      "level": "5",
-      "posted": "2026-11-25",
-      "url": "https://careers.united.com/us/en/job/IAH00005779"
-    },
-    {
-      "id": "TPA00000347",
-      "title": "Material Handler / Storekeeper",
-      "city": "Tampa",
-      "state": "Florida",
-      "country": "United States",
-      "category": "At the Airport",
-      "level": "Line/Hourly",
-      "posted": "2026-11-24",
-      "url": "https://careers.united.com/us/en/job/TPA00000347"
     }
   ]
 }
